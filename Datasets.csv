@@ -5,8 +5,8 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-106.11.15.99-55926-443-6,Male,17,The Adventures of Tom Sawyer,Mark Twain,47.77923298,-104.2936873,Mobile,School,1
 172.217.12.206-10.42.0.151-443-42779-6,Female,19,Treasure Island,Robert Louis Stevenson,46.57053526,-105.6566159,Mobile,College,0
 10.42.0.151-10.42.0.1-29936-53-17,Male,17,Pride and Prejudice,Jane Austen,48.50233693,-109.5430541,Mobile,School,1
-10.42.0.42-103.43.91.8-41156-443-6,Female,17,Wuthering Heights,Emily Brontâ,39.04019281,-95.62405796,Mobile,School,0
-10.42.0.42-62.138.0.117-34863-80-6,Male,21,Jane Eyre,Charlotte Brontâ,45.69877314,-105.8889101,Mobile,University,0
+10.42.0.42-103.43.91.8-41156-443-6,Female,17,Wuthering Heights,Emily Bront‚Ä∞,39.04019281,-95.62405796,Mobile,School,0
+10.42.0.42-62.138.0.117-34863-80-6,Male,21,Jane Eyre,Charlotte Bront‚Ä∞,45.69877314,-105.8889101,Mobile,University,0
 192.229.163.180-10.42.0.211-443-44480-6,Female,21,Moby Dick,Herman Melville,48.95258061,-109.4466988,Mobile,University,1
 10.42.0.211-104.24.19.3-38918-80-6,Female,21,The Scarlet Letter,Nathaniel Hawthorne,36.06877917,-79.11266314,Mobile,University,1
 10.42.0.211-23.194.108.108-54658-443-6,Female,17,Gulliver's Travels,Jonathan Swift,48.80258003,-110.2874491,Mobile,School,0
@@ -32,7 +32,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 203.205.179.170-10.42.0.151-80-48208-6,Male,19,The Secret Garden,Frances Hodgson Burnett,43.84165485,-110.5074705,Mobile,College,1
 172.217.12.132-10.42.0.211-443-56866-6,Male,17,Animal Farm,George Orwell,34.5799288,-112.3489123,Mobile,School,0
 10.42.0.211-10.42.0.1-1238-53-17,Male,17,The Great Gatsby,F. Scott Fitzgerald,32.14545691,-110.9898664,Computer,School,1
-10.42.0.42-123.125.115.164-39501-443-6,Female,21,The Little Prince,Antoine de Saint-ExupÇry,34.14272258,-114.2884525,Mobile,University,0
+10.42.0.42-123.125.115.164-39501-443-6,Female,21,The Little Prince,Antoine de Saint-Exup‚Äöry,34.14272258,-114.2884525,Mobile,University,0
 175.100.207.232-10.42.0.151-80-40406-6,Female,21,The Call of the Wild,Jack London,33.46760273,-112.0204516,Mobile,University,0
 10.42.0.42-23.192.76.180-42213-80-6,Male,21,"20,000 Leagues Under the Sea",Jules Verne,33.04720038,-112.0147246,Mobile,University,0
 10.42.0.211-77.234.41.79-43584-443-6,Female,19,Anna Karenina,Leo Tolstoy,44.99964615,-93.45061654,Mobile,College,1
@@ -51,7 +51,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.151-10.42.0.1-25156-53-17,Male,17,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,33.12753177,-117.0899555,Mobile,School,1
 172.217.3.97-10.42.0.211-443-34856-6,Male,21,The Hunchback of Notre Dame,Victor Hugo,39.24856445,-121.0167329,Mobile,University,0
 198.11.136.24-10.42.0.211-443-52591-6,Female,17,Pinocchio,Carlo Collodi,32.75354203,-97.10165418,Mobile,School,1
-172.217.12.206-10.42.0.151-443-60248-6,Female,19,One Hundred Years of Solitude,Gabriel Garc°a M†rquez,32.75315802,-97.10112833,Mobile,College,0
+172.217.12.206-10.42.0.151-443-60248-6,Female,19,One Hundred Years of Solitude,Gabriel Garc¬°a M¬†rquez,32.75315802,-97.10112833,Mobile,College,0
 220.170.182.31-10.42.0.211-443-37058-6,Female,17,Ivanhoe,Walter Scott,40.69627271,-74.09404017,Mobile,School,1
 172.217.8.8-10.42.0.151-443-48212-6,Male,19,The Red Badge of Courage,Stephen Crane,32.79172012,-96.86598397,Mobile,College,0
 10.42.0.211-10.42.0.1-53635-53-17,Male,21,Anne of Green Gables,L.M. Montgomery,32.79146374,-96.86604745,Mobile,University,1
@@ -97,7 +97,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-10.42.0.1-1936-53-17,Male,21,Charlotte's Web,E.B. White,42.97960203,-71.44921628,Mobile,University,1
 10.42.0.211-64.71.142.124-43037-443-6,Female,21,The Swiss Family Robinson,Johann David Wyss,32.76421344,-97.10799455,Mobile,University,0
 216.58.219.194-10.42.0.151-443-33116-6,Female,21,Bleak House,Charles Dickens,42.9954624,-71.47640518,Mobile,University,0
-10.42.0.151-10.42.0.1-17890-53-17,Male,21,Päre Goriot,HonorÇ de Balzac,30.07390457,-94.18634524,Computer,University,0
+10.42.0.151-10.42.0.1-17890-53-17,Male,21,P≈†re Goriot,Honor‚Äö de Balzac,30.07390457,-94.18634524,Computer,University,0
 172.217.10.138-10.42.0.211-443-46898-6,Male,21,Utopia,Thomas More,40.42542774,-74.75808737,Computer,University,0
 172.217.12.138-10.42.0.151-443-46194-6,Female,17,"The History of Tom Jones, a Foundling",Henry Fielding,32.53467743,-97.34577143,Computer,School,0
 10.42.0.211-66.102.255.40-44175-80-6,Male,19,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,33.55783113,-96.90646954,Mobile,College,1
@@ -126,7 +126,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 172.217.10.34-10.42.0.211-443-42964-6,Male,21,The Sun Also Rises,Ernest Hemingway,34.07014754,-118.1997889,Mobile,University,0
 239.255.255.250-10.42.0.1-1900-37494-17,Male,21,The Good Earth,Pearl S. Buck,34.23145586,-118.3662221,Mobile,University,1
 172.217.11.3-10.42.0.151-443-47221-6,Female,17,Silas Marner,George Eliot,36.36984642,-105.5935921,Mobile,School,0
-10.42.0.151-10.42.0.1-60032-53-17,Male,21,Love in the Time of Cholera,Gabriel Garc°a M†rquez,34.01512219,-118.3225913,Mobile,University,0
+10.42.0.151-10.42.0.1-60032-53-17,Male,21,Love in the Time of Cholera,Gabriel Garc¬°a M¬†rquez,34.01512219,-118.3225913,Mobile,University,0
 10.42.0.211-31.13.80.52-60843-443-6,Male,19,Rebecca,Daphne Du Maurier,34.28771299,-118.4385289,Computer,College,1
 10.42.0.211-54.192.37.187-49025-80-6,Male,17,Jude the Obscure,Thomas Hardy,39.28016064,-122.1931845,Computer,School,1
 182.22.25.124-10.42.0.151-443-56821-6,Male,19,Twilight,Stephenie Meyer,37.327286,-120.4841097,Mobile,College,0
@@ -172,7 +172,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 151.101.1.140-10.42.0.151-443-40609-6,Female,19,The Silver Chair,C.S. Lewis,33.9252735,-118.1008244,Mobile,College,0
 10.42.0.211-103.7.30.118-57942-80-6,Male,17,The Hunger Games,Suzanne Collins,29.73931449,-95.82632212,Mobile,School,1
 206.126.112.142-10.42.0.151-443-54566-6,Female,17,This Side of Paradise,F. Scott Fitzgerald,31.11919773,-97.80890629,Tab,School,0
-10.42.0.211-10.42.0.1-21705-53-17,Male,21,EugÇnie Grandet,HonorÇ de Balzac,26.23797097,-98.35192569,Mobile,University,1
+10.42.0.211-10.42.0.1-21705-53-17,Male,21,Eug‚Äönie Grandet,Honor‚Äö de Balzac,26.23797097,-98.35192569,Mobile,University,1
 10.42.0.211-123.125.46.112-52984-80-6,Female,19,Of Human Bondage,W. Somerset Maugham,29.65511606,-95.01368143,Mobile,College,0
 10.42.0.42-52.84.1.250-35827-443-6,Female,17,Dream of the Red Chamber,Cao Xueqin,33.03487865,-96.87321629,Mobile,School,1
 10.42.0.211-10.42.0.1-37033-53-17,Female,17,Life of Pi,Yann Martel,33.97232461,-78.19899323,Mobile,School,0
@@ -213,7 +213,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.151-54.192.38.65-43750-443-6,Male,21,The Bluest Eye,Toni Morrison,41.02782453,-75.58565233,Mobile,University,1
 10.42.0.151-104.43.254.159-43659-443-6,Male,21,Little House In the Big Woods,Laura Ingalls Wilder,29.22821258,-98.65371098,Mobile,University,0
 10.42.0.151-52.173.205.111-35623-443-6,Female,19,Pippi Longstocking,Astrid Lindgren,41.67214907,-70.77804128,Mobile,College,1
-183.79.250.251-10.42.0.151-443-36771-6,Female,19,Germinal,êmile Zola,29.79565444,-95.49471585,Mobile,College,0
+183.79.250.251-10.42.0.151-443-36771-6,Female,19,Germinal,¬êmile Zola,29.79565444,-95.49471585,Mobile,College,0
 203.130.53.126-10.42.0.211-80-50486-6,Male,17,The Heart Is a Lonely Hunter,Carson McCullers,29.97208494,-95.44676715,Mobile,School,1
 172.217.12.142-10.42.0.42-80-49005-6,Male,21,The Woman In White,Wilkie Collins,32.7568429,-96.28575436,Mobile,University,0
 169.47.42.203-10.42.0.42-443-45980-6,Male,17,"Absalom, Absalom!",William Faulkner,33.72574681,-80.2000252,Computer,School,0
@@ -246,11 +246,11 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-119.146.74.33-45946-443-6,Male,19,The Road,Cormac McCarthy,44.9994988,-96.97017312,Mobile,College,0
 172.217.7.228-10.42.0.151-443-38793-6,Female,21,The Way of All Flesh,Samuel Butler,35.60679103,-84.43796696,Mobile,University,1
 10.42.0.211-23.21.172.210-36346-443-6,Female,21,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,38.93577253,-80.81864181,Mobile,University,0
-205.204.101.47-10.42.0.42-443-54225-6,Male,17,Villette,Charlotte Brontâ,38.44413691,-122.67464,Mobile,School,0
+205.204.101.47-10.42.0.42-443-54225-6,Male,17,Villette,Charlotte Bront‚Ä∞,38.44413691,-122.67464,Mobile,School,0
 174.35.73.107-10.42.0.211-80-38981-6,Female,21,The Curious Incident of the Dog In the Night-Time,Mark Haddon,38.88036509,-82.12141952,Mobile,University,1
 151.101.21.140-10.42.0.211-443-45852-6,Female,21,The Mysterious Island,Jules Verne,39.49655951,-79.81152404,Mobile,University,1
 10.42.0.211-52.26.15.212-32774-443-6,Female,19,Song of Solomon,Toni Morrison,32.72380558,-117.2508573,Mobile,College,0
-172.217.11.46-10.42.0.42-80-53519-6,Male,17,Nana,êmile Zola,45.80118212,-89.63231667,Mobile,School,1
+172.217.11.46-10.42.0.42-80-53519-6,Male,17,Nana,¬êmile Zola,45.80118212,-89.63231667,Mobile,School,1
 172.217.12.206-10.42.0.151-443-34073-6,Male,21,Quo Vadis,Henryk Sienkiewicz,32.75083259,-117.1946971,Mobile,University,0
 10.42.0.151-10.42.0.1-8691-53-17,Female,21,Main Street,Sinclair Lewis,37.08464694,-122.0747602,Mobile,University,1
 10.42.0.211-65.55.223.31-60774-40015-17,Female,21,Matilda,Roald Dahl,34.27169772,-119.2264229,Mobile,University,0
@@ -328,7 +328,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 172.217.12.142-10.42.0.151-443-43692-6,Male,21,The Tale of Despereaux,Kate DiCamillo,38.97790976,-77.54427132,Computer,University,0
 180.149.136.194-10.42.0.211-80-52232-6,Female,17,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,39.13318222,-77.55870474,Mobile,School,0
 172.217.10.14-10.42.0.42-443-49244-6,Male,21,The Killer Angels,Michael Shaara,37.53313805,-77.53961087,Mobile,University,1
-192.229.163.180-10.42.0.211-443-41122-6,Female,17,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,37.54231306,-77.4199607,Mobile,School,1
+192.229.163.180-10.42.0.211-443-41122-6,Female,17,Chronicle of a Death Foretold,Gabriel Garc¬°a M¬†rquez,37.54231306,-77.4199607,Mobile,School,1
 10.42.0.151-104.244.43.131-49746-443-6,Male,19,The Five People You Meet In Heaven,Mitch Albom,38.87248907,-104.8587688,Mobile,College,0
 10.42.0.211-50.18.174.184-56817-443-6,Male,21,The Master and Margarita,Mikhail Bulgakov,39.7644909,-105.1224642,Mobile,University,1
 10.42.0.211-54.192.36.192-42888-443-6,Male,17,"Winesburg, Ohio",Sherwood Anderson,37.93401403,-76.74071099,Mobile,School,0
@@ -358,7 +358,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-23.206.166.66-47498-80-6,Male,17,The Long Winter,Laura Ingalls Wilder,38.26781518,-122.0135156,Mobile,School,1
 157.55.130.167-10.42.0.151-40019-48848-6,Male,21,"Sarah, Plain and Tall",Patricia MacLachlan,28.81648655,-81.55005791,Mobile,University,0
 10.42.0.42-47.89.69.217-46952-80-6,Male,17,Cross Country,James Patterson,43.55300727,-97.50183578,Mobile,School,1
-10.42.0.151-103.235.46.212-55190-443-6,Male,19,The Spy Who Came In from the Cold,John Le CarrÇ,29.53236958,-82.88570008,Mobile,College,0
+10.42.0.151-103.235.46.212-55190-443-6,Male,19,The Spy Who Came In from the Cold,John Le Carr‚Äö,29.53236958,-82.88570008,Mobile,College,0
 172.217.6.194-10.42.0.211-443-60344-6,Male,17,A Game of Thrones,George R.R. Martin,44.48436511,-103.8178486,Mobile,School,1
 10.42.0.211-52.52.43.76-44578-443-6,Female,19,The Thorn Birds,Colleen McCullough,32.40682922,-80.7187043,Mobile,College,0
 10.42.0.42-36.110.213.49-42610-80-6,Male,17,Old Yeller,Fred Gipson,33.06426238,-80.14921732,Mobile,School,1
@@ -384,7 +384,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 222.73.28.96-10.42.0.151-80-55804-6,Male,21,The Time Traveler's Wife,Audrey Niffenegger,40.36594163,-79.78739033,Mobile,University,1
 10.42.0.151-40.78.68.158-38528-443-6,Female,17,The Incredible Journey,Sheila Burnford,40.67730303,-80.24409364,Computer,School,0
 172.217.7.195-10.42.0.211-443-37278-6,Male,19,Daughter of Fortune,Isabel Allende,40.67792699,-80.24461644,Mobile,College,0
-10.42.0.211-64.71.142.124-54514-443-6,Female,17,Shirley,Charlotte Brontâ,32.47989626,-100.4060305,Mobile,School,0
+10.42.0.211-64.71.142.124-54514-443-6,Female,17,Shirley,Charlotte Bront‚Ä∞,32.47989626,-100.4060305,Mobile,School,0
 10.42.0.211-107.20.205.68-59502-443-6,Male,21,"Bud, Not Buddy",Christopher Paul Curtis,40.37340986,-111.7776351,Mobile,University,1
 172.217.12.170-10.42.0.151-443-44855-6,Male,17,The Horse Whisperer,Nicholas Evans,38.61913888,-104.1653785,Computer,School,1
 10.42.0.211-106.11.92.14-48358-443-6,Male,17,The Street Lawyer,John Grisham,40.41930309,-104.7722747,Mobile,School,1
@@ -394,7 +394,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 216.58.219.234-10.42.0.151-443-40262-6,Male,17,Anne of the Island,L.M. Montgomery,39.71872926,-105.1905088,Computer,School,1
 157.55.56.163-10.42.0.151-40027-43477-17,Male,21,The Winter of Our Discontent,John Steinbeck,40.48797855,-106.8317392,Tab,University,0
 172.217.8.3-10.42.0.211-443-46466-6,Female,17,The Shining,Stephen King,40.46920706,-104.887934,Mobile,School,0
-10.42.0.211-10.42.0.1-10839-53-17,Male,17,The Tenant of Wildfell Hall,Anne Brontâ,41.72860476,-72.36663253,Mobile,School,0
+10.42.0.211-10.42.0.1-10839-53-17,Male,17,The Tenant of Wildfell Hall,Anne Bront‚Ä∞,41.72860476,-72.36663253,Mobile,School,0
 219.142.78.162-10.42.0.151-443-46189-6,Male,17,First Family,David Baldacci,41.326885,-73.06558245,Computer,School,1
 172.217.3.110-10.42.0.211-443-46827-6,Male,21,The Partner,John Grisham,41.34113564,-73.08436323,Mobile,University,0
 10.42.0.42-52.84.40.147-41193-80-6,Female,17,The Girl on the Train,Paula Hawkins,41.53799537,-72.93896469,Mobile,School,1
@@ -516,7 +516,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-54.192.36.192-42888-443-6,Male,17,An American Tragedy,Theodore Dreiser,30.77624,-85.22714559,Mobile,School,0
 172.217.10.66-10.42.0.211-443-51200-6,Female,19,The Bluest Eye,Toni Morrison,32.52244639,-93.73656788,Mobile,College,0
 182.254.5.234-10.42.0.211-80-56928-6,Female,19,Pippi Longstocking,Astrid Lindgren,28.44227737,-81.5644873,Mobile,College,1
-192.229.163.180-10.42.0.151-443-39465-6,Male,21,Germinal,êmile Zola,28.54371365,-81.58659423,Mobile,University,0
+192.229.163.180-10.42.0.151-443-39465-6,Male,21,Germinal,¬êmile Zola,28.54371365,-81.58659423,Mobile,University,0
 10.42.0.211-115.239.210.141-41075-80-6,Male,19,The Heart Is a Lonely Hunter,Carson McCullers,26.64825754,-80.05803438,Mobile,College,1
 10.42.0.151-31.13.71.3-41568-443-6,Male,21,The Woman In White,Wilkie Collins,29.28960167,-97.1423932,Mobile,University,0
 10.42.0.151-66.198.24.243-38565-80-6,Female,21,"Absalom, Absalom!",William Faulkner,26.73096616,-80.06738478,Mobile,University,1
@@ -550,11 +550,11 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 151.101.45.140-10.42.0.151-443-56189-6,Male,21,The Road,Cormac McCarthy,41.81154552,-88.21085572,Mobile,University,1
 222.73.28.96-10.42.0.211-80-49077-6,Male,21,The Way of All Flesh,Samuel Butler,35.19513283,-80.78374639,Mobile,University,1
 10.42.0.211-23.50.64.177-58624-443-6,Female,19,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,35.73762372,-78.61994866,Mobile,College,1
-222.73.28.96-10.42.0.42-80-43487-6,Male,17,Villette,Charlotte Brontâ,35.36086582,-80.76104354,Mobile,School,0
+222.73.28.96-10.42.0.42-80-43487-6,Male,17,Villette,Charlotte Bront‚Ä∞,35.36086582,-80.76104354,Mobile,School,0
 10.42.0.211-10.42.0.1-1901-53-17,Female,17,The Curious Incident of the Dog In the Night-Time,Mark Haddon,35.78070955,-78.92162663,Computer,School,1
 10.42.0.211-104.193.88.109-57986-80-6,Male,17,The Mysterious Island,Jules Verne,44.44032991,-69.52669336,Mobile,School,0
 10.42.0.211-10.42.0.1-59776-53-17,Male,21,Song of Solomon,Toni Morrison,42.05087027,-70.67892727,Mobile,University,0
-169.53.71.250-10.42.0.42-5222-45721-6,Male,21,Nana,êmile Zola,28.8680666,-81.2640321,Mobile,University,0
+169.53.71.250-10.42.0.42-5222-45721-6,Male,21,Nana,¬êmile Zola,28.8680666,-81.2640321,Mobile,University,0
 10.42.0.211-10.42.0.1-3332-53-17,Male,17,Quo Vadis,Henryk Sienkiewicz,33.69905694,-84.48868103,Mobile,School,1
 10.42.0.211-74.125.22.188-56675-5228-6,Male,21,Main Street,Sinclair Lewis,34.1182314,-83.21236304,Mobile,University,0
 172.217.12.174-10.42.0.42-443-52312-6,Male,21,Matilda,Roald Dahl,30.86878363,-83.24555095,Mobile,University,1
@@ -633,7 +633,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.151-119.146.74.33-41897-443-6,Female,21,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,33.59537848,-88.63178907,Mobile,University,0
 10.42.0.151-103.7.30.118-55891-80-6,Female,17,Dear Mr. Henshaw,Beverly Cleary,33.59306244,-88.63020782,Mobile,School,1
 172.217.12.206-10.42.0.211-443-35441-6,Female,21,The Killer Angels,Michael Shaara,33.6033479,-88.64456609,Mobile,University,0
-172.217.3.112-10.42.0.151-443-34768-6,Female,17,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,41.94985052,-84.99658115,Computer,School,0
+172.217.3.112-10.42.0.151-443-34768-6,Female,17,Chronicle of a Death Foretold,Gabriel Garc¬°a M¬†rquez,41.94985052,-84.99658115,Computer,School,0
 10.42.0.211-10.42.0.1-44820-53-17,Female,19,The Five People You Meet In Heaven,Mitch Albom,33.72415478,-88.94747022,Mobile,College,0
 216.58.219.202-10.42.0.151-443-47455-6,Female,17,The Master and Margarita,Mikhail Bulgakov,33.5919222,-88.65421053,Mobile,School,1
 10.42.0.151-112.80.248.187-50053-80-6,Male,17,"Winesburg, Ohio",Sherwood Anderson,33.62995566,-88.66181104,Mobile,School,0
@@ -663,7 +663,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.151-54.230.38.181-53568-80-6,Female,21,The Long Winter,Laura Ingalls Wilder,34.25394789,-89.02161365,Mobile,University,1
 10.42.0.211-113.108.216.233-42254-80-6,Male,17,"Sarah, Plain and Tall",Patricia MacLachlan,38.65990011,-90.28002422,Mobile,School,1
 172.217.12.202-10.42.0.211-443-33707-6,Female,17,Cross Country,James Patterson,37.06559585,-94.54246042,Mobile,School,0
-10.42.0.42-87.240.165.91-49023-80-6,Male,17,The Spy Who Came In from the Cold,John Le CarrÇ,38.60799444,-90.22333828,Mobile,School,0
+10.42.0.42-87.240.165.91-49023-80-6,Male,17,The Spy Who Came In from the Cold,John Le Carr‚Äö,38.60799444,-90.22333828,Mobile,School,0
 10.42.0.211-104.193.88.109-35300-80-6,Female,21,A Game of Thrones,George R.R. Martin,39.04835536,-94.58342063,Mobile,University,0
 172.217.11.14-10.42.0.211-443-33680-6,Male,21,The Thorn Birds,Colleen McCullough,38.46413491,-93.62570828,Mobile,University,1
 172.217.10.234-10.42.0.42-443-47299-6,Female,17,Old Yeller,Fred Gipson,39.5905102,-104.9706248,Mobile,School,1
@@ -689,7 +689,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 172.217.10.130-10.42.0.211-443-38204-6,Female,19,The Time Traveler's Wife,Audrey Niffenegger,38.61913283,-90.23706713,Mobile,College,0
 10.42.0.151-103.235.46.212-50769-443-6,Male,19,The Incredible Journey,Sheila Burnford,28.24821919,-80.73664051,Mobile,College,1
 10.42.0.211-10.42.0.1-3264-53-17,Male,17,Daughter of Fortune,Isabel Allende,38.83135844,-91.04448027,Mobile,School,1
-172.217.6.206-10.42.0.211-443-47222-6,Female,17,Shirley,Charlotte Brontâ,45.86123928,-95.39576834,Mobile,School,0
+172.217.6.206-10.42.0.211-443-47222-6,Female,17,Shirley,Charlotte Bront‚Ä∞,45.86123928,-95.39576834,Mobile,School,0
 220.243.237.154-10.42.0.211-80-44910-6,Female,19,"Bud, Not Buddy",Christopher Paul Curtis,45.38268038,-92.86814292,Mobile,College,1
 172.217.12.206-10.42.0.151-443-50331-6,Female,17,The Horse Whisperer,Nicholas Evans,44.90105617,-93.42132486,Mobile,School,0
 172.217.12.206-10.42.0.211-443-39127-6,Male,21,The Street Lawyer,John Grisham,45.05368513,-93.38655424,Mobile,University,1
@@ -699,7 +699,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 205.185.216.10-10.42.0.211-80-40604-6,Male,19,Anne of the Island,L.M. Montgomery,39.99733886,-89.60287256,Mobile,College,0
 10.42.0.211-66.198.24.243-45434-80-6,Female,17,The Winter of Our Discontent,John Steinbeck,38.90952581,-90.06122838,Mobile,School,0
 10.42.0.151-115.239.210.141-40863-443-6,Male,17,The Shining,Stephen King,38.32413118,-88.74495786,Mobile,School,0
-202.77.129.150-10.42.0.211-80-35163-6,Female,21,The Tenant of Wildfell Hall,Anne Brontâ,39.97018873,-87.82272791,Mobile,University,0
+202.77.129.150-10.42.0.211-80-35163-6,Female,21,The Tenant of Wildfell Hall,Anne Bront‚Ä∞,39.97018873,-87.82272791,Mobile,University,0
 172.217.12.170-10.42.0.151-443-49523-6,Female,21,First Family,David Baldacci,39.97017413,-87.82270951,Mobile,University,1
 10.42.0.42-52.84.29.55-32882-443-6,Female,21,The Partner,John Grisham,40.06626683,-87.70837685,Mobile,University,1
 172.217.12.195-10.42.0.42-443-47288-6,Male,19,The Girl on the Train,Paula Hawkins,38.50929852,-89.97851733,Mobile,College,0
@@ -787,7 +787,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.42-108.174.11.1-38710-80-6,Female,17,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,41.87670535,-73.34134749,Mobile,School,1
 10.42.0.211-10.42.0.1-10388-53-17,Male,17,The Hunchback of Notre Dame,Victor Hugo,41.64532795,-83.47613438,Mobile,School,1
 10.42.0.211-115.239.210.141-50523-443-6,Female,17,Pinocchio,Carlo Collodi,38.28220504,-121.9620413,Tab,School,1
-172.217.10.131-10.42.0.42-443-35126-6,Male,17,One Hundred Years of Solitude,Gabriel Garc°a M†rquez,32.35151041,-90.87384402,Computer,School,1
+172.217.10.131-10.42.0.42-443-35126-6,Male,17,One Hundred Years of Solitude,Gabriel Garc¬°a M¬†rquez,32.35151041,-90.87384402,Computer,School,1
 10.42.0.211-104.192.110.245-53237-443-6,Male,19,Ivanhoe,Walter Scott,34.60793979,-98.09335728,Computer,College,0
 10.42.0.211-77.234.44.199-57177-80-6,Female,19,The Red Badge of Courage,Stephen Crane,42.75004275,-71.42409195,Mobile,College,1
 202.77.129.161-10.42.0.211-80-56044-6,Female,17,Anne of Green Gables,L.M. Montgomery,41.76108246,-72.69116193,Mobile,School,0
@@ -832,7 +832,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-52.84.29.154-57116-443-6,Female,19,Charlotte's Web,E.B. White,36.80241158,-76.2373196,Mobile,College,1
 10.42.0.151-10.42.0.1-13864-53-17,Male,21,The Swiss Family Robinson,Johann David Wyss,41.09565772,-111.9940788,Mobile,University,0
 10.42.0.151-98.139.199.205-50099-443-6,Male,17,Bleak House,Charles Dickens,18.35602266,-66.12453095,Mobile,School,0
-10.42.0.211-10.42.0.1-40839-53-17,Female,21,Päre Goriot,HonorÇ de Balzac,47.77702568,-122.1899234,Mobile,University,0
+10.42.0.211-10.42.0.1-40839-53-17,Female,21,P≈†re Goriot,Honor‚Äö de Balzac,47.77702568,-122.1899234,Mobile,University,0
 172.217.12.194-10.42.0.211-443-44450-6,Female,17,Utopia,Thomas More,48.86009206,-122.6005919,Mobile,School,1
 173.194.175.138-10.42.0.151-443-59887-6,Male,17,"The History of Tom Jones, a Foundling",Henry Fielding,41.70486214,-111.7991629,Mobile,School,0
 217.69.133.145-10.42.0.151-443-54650-6,Male,17,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,41.23399846,-81.32536473,Mobile,School,1
@@ -861,7 +861,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-10.42.0.1-61233-53-17,Female,17,The Sun Also Rises,Ernest Hemingway,29.60082279,-98.70363757,Mobile,School,1
 10.42.0.211-36.110.213.49-51340-80-6,Male,19,The Good Earth,Pearl S. Buck,34.12116094,-101.4511,Mobile,College,1
 10.42.0.211-31.13.73.3-47990-443-6,Male,17,Silas Marner,George Eliot,30.71018891,-94.94143286,Mobile,School,0
-10.42.0.211-64.71.142.120-50831-443-6,Male,21,Love in the Time of Cholera,Gabriel Garc°a M†rquez,30.34583796,-94.18521449,Mobile,University,0
+10.42.0.211-64.71.142.120-50831-443-6,Male,21,Love in the Time of Cholera,Gabriel Garc¬°a M¬†rquez,30.34583796,-94.18521449,Mobile,University,0
 172.217.6.206-10.42.0.42-80-48122-6,Male,21,Rebecca,Daphne Du Maurier,30.03392219,-90.0154491,Mobile,University,0
 10.42.0.151-52.84.61.117-47225-443-6,Female,19,Jude the Obscure,Thomas Hardy,29.97175048,-90.10417536,Mobile,College,1
 10.42.0.211-10.42.0.1-51819-53-17,Female,21,Twilight,Stephenie Meyer,32.63588375,-93.72560571,Mobile,University,1
@@ -906,7 +906,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-13.93.152.202-54187-443-6,Male,17,The Silver Chair,C.S. Lewis,27.78552677,-97.91328986,Computer,School,1
 208.80.154.224-10.42.0.211-443-41415-6,Female,19,The Hunger Games,Suzanne Collins,33.17722574,-94.99021232,Mobile,College,1
 172.217.11.46-10.42.0.211-443-36373-6,Female,21,This Side of Paradise,F. Scott Fitzgerald,42.42836455,-83.03048265,Mobile,University,1
-10.42.0.151-106.39.169.66-52294-80-6,Female,21,EugÇnie Grandet,HonorÇ de Balzac,32.7409423,-96.64086248,Mobile,University,1
+10.42.0.151-106.39.169.66-52294-80-6,Female,21,Eug‚Äönie Grandet,Honor‚Äö de Balzac,32.7409423,-96.64086248,Mobile,University,1
 10.42.0.211-10.42.0.1-59903-53-17,Male,19,Of Human Bondage,W. Somerset Maugham,32.8496886,-96.70944103,Mobile,College,1
 10.42.0.211-23.206.162.129-39571-80-6,Male,17,Dream of the Red Chamber,Cao Xueqin,43.96435723,-86.2781408,Mobile,School,0
 10.42.0.1-10.42.0.42-53-39869-17,Female,17,Life of Pi,Yann Martel,42.33516303,-85.35860641,Mobile,School,1
@@ -946,7 +946,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 203.205.158.62-10.42.0.211-80-33443-6,Female,17,An American Tragedy,Theodore Dreiser,33.45646251,-112.0812066,Mobile,School,1
 10.42.0.151-10.42.0.1-4315-53-17,Male,21,The Bluest Eye,Toni Morrison,37.57686244,-122.3809994,Mobile,University,1
 10.42.0.211-66.102.255.61-36643-443-6,Male,17,Little House In the Big Woods,Laura Ingalls Wilder,29.74256192,-95.50952232,Mobile,School,1
-203.205.144.184-10.42.0.151-80-40790-6,Female,17,Germinal,êmile Zola,42.62792291,-82.58557534,Tab,School,1
+203.205.144.184-10.42.0.151-80-40790-6,Female,17,Germinal,¬êmile Zola,42.62792291,-82.58557534,Tab,School,1
 10.42.0.211-123.125.115.164-47715-443-6,Male,17,The Heart Is a Lonely Hunter,Carson McCullers,42.63129483,-82.54381867,Computer,School,1
 10.42.0.151-103.235.46.39-50643-80-6,Male,19,The Woman In White,Wilkie Collins,42.63261033,-82.54318259,Computer,College,0
 10.42.0.211-36.110.213.49-60366-80-6,Male,19,"Absalom, Absalom!",William Faulkner,43.60321027,-83.91963596,Mobile,College,1
@@ -980,11 +980,11 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 172.217.3.100-10.42.0.151-443-47424-6,Male,21,The Road,Cormac McCarthy,42.581435,-84.8021494,Mobile,University,0
 172.217.12.206-10.42.0.42-443-41863-6,Male,17,The Way of All Flesh,Samuel Butler,41.39112851,-75.66411696,Mobile,School,1
 10.42.0.211-104.254.66.16-44501-80-6,Female,21,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,43.45692073,-83.89311978,Mobile,University,1
-172.217.3.99-10.42.0.151-443-41874-6,Female,17,Villette,Charlotte Brontâ,37.59264893,-90.63366846,Mobile,School,0
+172.217.3.99-10.42.0.151-443-41874-6,Female,17,Villette,Charlotte Bront‚Ä∞,37.59264893,-90.63366846,Mobile,School,0
 10.42.0.151-106.11.129.143-58315-443-6,Male,17,The Curious Incident of the Dog In the Night-Time,Mark Haddon,42.26759182,-84.42685934,Computer,School,0
 174.35.73.108-10.42.0.42-80-50255-6,Female,21,The Mysterious Island,Jules Verne,35.20767328,-111.6337764,Mobile,University,0
 10.42.0.1-10.42.0.42-53-1367-17,Male,17,Song of Solomon,Toni Morrison,32.88977061,-109.8242922,Mobile,School,1
-203.130.53.126-10.42.0.42-80-50846-6,Male,21,Nana,êmile Zola,31.34087584,-109.5432225,Tab,University,1
+203.130.53.126-10.42.0.42-80-50846-6,Male,21,Nana,¬êmile Zola,31.34087584,-109.5432225,Tab,University,1
 151.101.21.140-10.42.0.211-443-42595-6,Male,21,Quo Vadis,Henryk Sienkiewicz,34.59474717,-118.1548769,Mobile,University,1
 10.42.0.211-10.42.0.1-7856-53-17,Male,19,Main Street,Sinclair Lewis,33.3796583,-111.9971873,Mobile,College,1
 10.42.0.211-72.21.206.121-34201-443-6,Female,21,Matilda,Roald Dahl,33.27959091,-111.7610312,Mobile,University,1
@@ -1063,7 +1063,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 180.149.135.239-10.42.0.211-80-38145-6,Female,19,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,35.09907742,-98.44204289,Computer,College,0
 10.42.0.211-31.13.65.7-59439-443-6,Female,17,Dear Mr. Henshaw,Beverly Cleary,57.05280207,-135.3308129,Tab,School,0
 174.35.73.148-10.42.0.211-80-49296-6,Female,19,The Killer Angels,Michael Shaara,28.2282561,-81.4889361,Mobile,College,0
-174.35.73.78-10.42.0.211-443-45258-6,Male,21,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,46.87822991,-96.70369416,Mobile,University,1
+174.35.73.78-10.42.0.211-443-45258-6,Male,21,Chronicle of a Death Foretold,Gabriel Garc¬°a M¬†rquez,46.87822991,-96.70369416,Mobile,University,1
 172.217.12.142-10.42.0.151-443-50435-17,Female,21,The Five People You Meet In Heaven,Mitch Albom,26.91422988,-82.28409087,Mobile,University,1
 172.217.10.14-10.42.0.211-443-35219-6,Male,21,The Master and Margarita,Mikhail Bulgakov,31.70898018,-87.7915843,Mobile,University,1
 203.205.158.63-10.42.0.211-80-41538-6,Female,19,"Winesburg, Ohio",Sherwood Anderson,37.1346359,-80.41652033,Mobile,College,1
@@ -1093,7 +1093,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 172.217.10.106-10.42.0.151-443-54911-6,Female,17,The Long Winter,Laura Ingalls Wilder,36.71543508,-77.53342152,Mobile,School,1
 180.163.251.231-10.42.0.211-80-33688-6,Female,19,"Sarah, Plain and Tall",Patricia MacLachlan,41.51892816,-72.83289603,Computer,College,0
 172.217.12.174-10.42.0.42-443-34437-6,Male,21,Cross Country,James Patterson,38.54643112,-82.77532393,Mobile,University,1
-209.85.144.188-10.42.0.151-5228-53129-6,Female,17,The Spy Who Came In from the Cold,John Le CarrÇ,38.33207003,-85.46580133,Mobile,School,0
+209.85.144.188-10.42.0.151-5228-53129-6,Female,17,The Spy Who Came In from the Cold,John Le Carr‚Äö,38.33207003,-85.46580133,Mobile,School,0
 10.42.0.42-108.168.176.242-60301-5222-6,Male,21,A Game of Thrones,George R.R. Martin,29.72487101,-94.9587636,Mobile,University,0
 10.42.0.211-10.42.0.1-52744-53-17,Male,17,The Thorn Birds,Colleen McCullough,33.89172619,-98.46490076,Mobile,School,0
 10.42.0.151-104.193.88.109-49994-80-6,Male,17,Old Yeller,Fred Gipson,39.9877924,-83.77462633,Mobile,School,0
@@ -1101,7 +1101,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-64.71.142.95-43962-443-6,Male,17,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,39.94811486,-76.33762625,Computer,School,1
 10.42.0.151-10.42.0.1-53961-53-17,Female,19,The Hunchback of Notre Dame,Victor Hugo,34.35433631,-85.73769637,Computer,College,1
 10.42.0.1-10.42.0.42-53-57757-17,Male,19,Pinocchio,Carlo Collodi,40.57726762,-74.10042871,Mobile,College,0
-175.100.207.233-10.42.0.42-443-44017-6,Male,17,One Hundred Years of Solitude,Gabriel Garc°a M†rquez,36.7768778,-89.38078927,Mobile,School,0
+175.100.207.233-10.42.0.42-443-44017-6,Male,17,One Hundred Years of Solitude,Gabriel Garc¬°a M¬†rquez,36.7768778,-89.38078927,Mobile,School,0
 192.229.173.173-10.42.0.151-80-44108-6,Male,19,Ivanhoe,Walter Scott,43.89255941,-91.22857263,Mobile,College,0
 10.42.0.1-10.42.0.42-53-28181-17,Female,21,The Red Badge of Courage,Stephen Crane,39.22750093,-84.15169642,Mobile,University,1
 180.149.153.68-10.42.0.211-80-55229-6,Male,21,Anne of Green Gables,L.M. Montgomery,41.22236867,-73.13380614,Mobile,University,1
@@ -1147,7 +1147,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 172.217.12.164-10.42.0.42-443-50725-6,Female,21,Charlotte's Web,E.B. White,42.33189803,-71.09044252,Mobile,University,1
 180.149.153.234-10.42.0.211-80-51798-6,Female,17,The Swiss Family Robinson,Johann David Wyss,35.42559028,-82.50114795,Mobile,School,1
 10.42.0.151-10.42.0.1-35069-53-17,Female,17,Bleak House,Charles Dickens,44.17518673,-69.75969864,Mobile,School,1
-10.42.0.211-115.239.210.141-58261-443-6,Female,17,Päre Goriot,HonorÇ de Balzac,42.00092918,-84.19141374,Mobile,School,1
+10.42.0.211-115.239.210.141-58261-443-6,Female,17,P≈†re Goriot,Honor‚Äö de Balzac,42.00092918,-84.19141374,Mobile,School,1
 239.255.255.250-10.42.0.1-1900-35242-17,Male,17,Utopia,Thomas More,43.41732155,-86.36318078,Mobile,School,0
 10.42.0.211-23.21.51.186-57991-443-6,Male,19,"The History of Tom Jones, a Foundling",Henry Fielding,42.21770432,-83.20896803,Mobile,College,1
 203.205.128.137-10.42.0.211-80-42246-6,Female,21,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,35.46858465,-80.59615765,Mobile,University,0
@@ -1176,7 +1176,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.42-42.236.125.112-48506-80-6,Male,17,The Sun Also Rises,Ernest Hemingway,44.93456274,-93.27218413,Computer,School,0
 172.217.10.46-10.42.0.151-443-49408-6,Female,17,The Good Earth,Pearl S. Buck,45.49833714,-91.75340553,Mobile,School,0
 10.42.0.211-64.71.142.120-53880-443-6,Male,21,Silas Marner,George Eliot,40.33263267,-78.38449866,Mobile,University,0
-172.217.10.238-10.42.0.151-443-58013-6,Male,19,Love in the Time of Cholera,Gabriel Garc°a M†rquez,42.16014323,-75.12542979,Mobile,College,0
+172.217.10.238-10.42.0.151-443-58013-6,Male,19,Love in the Time of Cholera,Gabriel Garc¬°a M¬†rquez,42.16014323,-75.12542979,Mobile,College,0
 10.42.0.211-52.197.242.223-34301-443-6,Male,21,Rebecca,Daphne Du Maurier,32.62160034,-117.0782873,Computer,University,0
 10.42.0.211-31.13.71.52-60528-80-6,Male,17,Jude the Obscure,Thomas Hardy,28.14052507,-81.82090162,Mobile,School,1
 10.42.0.211-10.42.0.1-50765-53-17,Female,21,Twilight,Stephenie Meyer,40.86528406,-98.01274686,Mobile,University,1
@@ -1222,7 +1222,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 192.229.173.173-10.42.0.211-80-49914-6,Male,17,The Silver Chair,C.S. Lewis,41.72132371,-86.76033904,Mobile,School,1
 140.205.164.47-10.42.0.151-443-57432-6,Male,17,The Hunger Games,Suzanne Collins,39.59298515,-110.8194943,Computer,School,0
 10.42.0.211-61.135.185.139-54819-80-6,Male,19,This Side of Paradise,F. Scott Fitzgerald,32.54563113,-92.19607014,Mobile,College,0
-10.42.0.151-52.216.1.211-41820-443-6,Female,17,EugÇnie Grandet,HonorÇ de Balzac,32.95182739,-80.26594032,Mobile,School,0
+10.42.0.151-52.216.1.211-41820-443-6,Female,17,Eug‚Äönie Grandet,Honor‚Äö de Balzac,32.95182739,-80.26594032,Mobile,School,0
 10.42.0.211-34.197.129.91-49828-443-6,Male,17,Of Human Bondage,W. Somerset Maugham,30.04606813,-90.69494681,Computer,School,1
 172.217.6.202-10.42.0.151-443-49843-6,Female,17,Life of Pi,Yann Martel,33.03277795,-80.18468736,Computer,School,1
 209.10.120.26-10.42.0.211-80-39802-6,Male,17,Harry Potter and the Deathly Hallows,J.K. Rowling,33.80206565,-85.75826754,Mobile,School,1
@@ -1261,7 +1261,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.151-104.254.66.16-34702-80-6,Female,17,The Bluest Eye,Toni Morrison,35.75010805,-109.0485821,Mobile,School,1
 10.42.0.211-103.43.91.20-43143-443-6,Female,17,Little House In the Big Woods,Laura Ingalls Wilder,34.51375788,-110.095998,Mobile,School,1
 169.47.42.102-10.42.0.211-443-57250-6,Male,19,Pippi Longstocking,Astrid Lindgren,43.49195484,-96.67691066,Mobile,College,0
-10.42.0.211-50.17.232.169-37989-443-6,Female,19,Germinal,êmile Zola,45.46471612,-98.44593836,Tab,College,0
+10.42.0.211-50.17.232.169-37989-443-6,Female,19,Germinal,¬êmile Zola,45.46471612,-98.44593836,Tab,College,0
 10.42.0.42-111.202.114.77-53182-443-6,Male,19,The Heart Is a Lonely Hunter,Carson McCullers,33.55834201,-82.90955613,Mobile,College,0
 10.42.0.42-91.190.216.56-45808-12350-6,Female,21,The Woman In White,Wilkie Collins,44.90798339,-97.09805076,Mobile,University,1
 10.42.0.211-10.42.0.1-20639-53-17,Male,17,"Absalom, Absalom!",William Faulkner,25.76987667,-80.3615125,Computer,School,1
@@ -1295,11 +1295,11 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-64.71.142.124-46090-443-6,Male,17,The Road,Cormac McCarthy,46.17443895,-119.2078429,Mobile,School,1
 202.77.129.150-10.42.0.211-443-44414-6,Female,21,The Way of All Flesh,Samuel Butler,40.85193967,-78.2727298,Mobile,University,0
 10.42.0.42-119.146.74.33-40625-443-6,Female,17,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,39.07069755,-94.58568452,Mobile,School,0
-10.42.0.211-23.206.125.17-38481-80-6,Male,17,Villette,Charlotte Brontâ,36.11517992,-79.30406635,Mobile,School,0
+10.42.0.211-23.206.125.17-38481-80-6,Male,17,Villette,Charlotte Bront‚Ä∞,36.11517992,-79.30406635,Mobile,School,0
 172.217.11.10-10.42.0.151-443-52850-6,Female,17,The Curious Incident of the Dog In the Night-Time,Mark Haddon,36.37595655,-119.0367511,Mobile,School,0
 10.42.0.211-36.51.254.232-41807-443-6,Male,17,The Mysterious Island,Jules Verne,38.33814041,-121.9566439,Mobile,School,0
 10.42.0.211-10.42.0.1-31246-53-17,Female,19,Song of Solomon,Toni Morrison,37.72413344,-121.0783483,Mobile,College,1
-10.42.0.211-10.42.0.1-51999-53-17,Female,21,Nana,êmile Zola,37.69561699,-121.0572308,Mobile,University,1
+10.42.0.211-10.42.0.1-51999-53-17,Female,21,Nana,¬êmile Zola,37.69561699,-121.0572308,Mobile,University,1
 182.22.65.138-10.42.0.42-443-52190-6,Female,19,Quo Vadis,Henryk Sienkiewicz,46.72318342,-120.6842842,Mobile,College,0
 216.58.219.228-10.42.0.211-443-39998-6,Male,17,Main Street,Sinclair Lewis,48.53267958,-122.2093881,Mobile,School,0
 175.100.207.231-10.42.0.151-80-51533-6,Female,17,Matilda,Roald Dahl,47.52528298,-121.8809138,Mobile,School,0
@@ -1377,7 +1377,7 @@ Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_
 10.42.0.211-103.235.46.212-60285-80-6,Female,17,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,37.67820824,-113.0710943,Mobile,School,0
 180.163.255.159-10.42.0.211-80-52115-6,Female,17,Dear Mr. Henshaw,Beverly Cleary,45.65194912,-122.6636132,Mobile,School,0
 10.42.0.151-10.42.0.1-54865-53-17,Female,17,The Killer Angels,Michael Shaara,45.17731616,-93.30760142,Mobile,School,0
-10.42.0.151-10.42.0.1-54743-53-17,Female,19,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,45.07359252,-93.35331475,Computer,College,0
+10.42.0.151-10.42.0.1-54743-53-17,Female,19,Chronicle of a Death Foretold,Gabriel Garc¬°a M¬†rquez,45.07359252,-93.35331475,Computer,College,0
 172.217.7.131-10.42.0.211-443-58291-6,Male,19,The Five People You Meet In Heaven,Mitch Albom,43.51644366,-83.96551642,Mobile,College,1
 172.217.7.131-10.42.0.211-443-58306-6,Female,17,The Master and Margarita,Mikhail Bulgakov,32.56561896,-117.0182917,Mobile,School,1
 10.42.0.211-123.125.29.220-37911-80-6,Female,17,"Winesburg, Ohio",Sherwood Anderson,41.78001203,-88.16089847,Mobile,School,0
