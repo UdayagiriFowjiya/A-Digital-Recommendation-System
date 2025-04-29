@@ -1,0 +1,1399 @@
+Fid,Gender,Age,Digital_Material,Author,Latitude,Longitude,Used_Device,Education_Level,Label
+10.42.0.151-104.244.43.195-58064-443-6,Female,19,Don Quixote,Miguel de Cervantes,26.27928519,-98.36537545,Computer,College,1
+10.42.0.42-14.17.42.57-59338-80-6,Female,17,Alice's Adventures in Wonderland,Lewis Carroll,38.08505444,-83.12964837,Mobile,School,0
+172.217.11.35-10.42.0.151-443-46314-6,Male,21,The Adventures of Huckleberry Finn,Mark Twain,42.29319444,-71.60427503,Mobile,University,1
+10.42.0.211-106.11.15.99-55926-443-6,Male,17,The Adventures of Tom Sawyer,Mark Twain,47.77923298,-104.2936873,Mobile,School,1
+172.217.12.206-10.42.0.151-443-42779-6,Female,19,Treasure Island,Robert Louis Stevenson,46.57053526,-105.6566159,Mobile,College,0
+10.42.0.151-10.42.0.1-29936-53-17,Male,17,Pride and Prejudice,Jane Austen,48.50233693,-109.5430541,Mobile,School,1
+10.42.0.42-103.43.91.8-41156-443-6,Female,17,Wuthering Heights,Emily Brontâ,39.04019281,-95.62405796,Mobile,School,0
+10.42.0.42-62.138.0.117-34863-80-6,Male,21,Jane Eyre,Charlotte Brontâ,45.69877314,-105.8889101,Mobile,University,0
+192.229.163.180-10.42.0.211-443-44480-6,Female,21,Moby Dick,Herman Melville,48.95258061,-109.4466988,Mobile,University,1
+10.42.0.211-104.24.19.3-38918-80-6,Female,21,The Scarlet Letter,Nathaniel Hawthorne,36.06877917,-79.11266314,Mobile,University,1
+10.42.0.211-23.194.108.108-54658-443-6,Female,17,Gulliver's Travels,Jonathan Swift,48.80258003,-110.2874491,Mobile,School,0
+151.101.21.140-10.42.0.211-443-56696-6,Female,17,The Pilgrim's Progress,John Bunyan,45.22576505,-104.9172308,Computer,School,1
+10.42.0.211-10.42.0.1-34682-53-17,Male,17,A Christmas Carol,Charles Dickens,48.58301618,-108.6592276,Mobile,School,0
+10.42.0.211-10.42.0.1-28333-53-17,Male,17,David Copperfield,Charles Dickens,47.15496454,-109.6210251,Mobile,School,1
+10.42.0.42-37.1.203.158-43380-443-6,Female,21,A Tale of Two Cities,Charles Dickens,45.83912024,-111.0351859,Mobile,University,0
+220.243.219.55-10.42.0.211-80-56695-6,Male,19,Little Women,Louisa May Alcott,41.411963,-99.64341086,Mobile,College,1
+10.42.0.151-106.39.169.66-52382-80-6,Female,21,Great Expectations,Charles Dickens,18.12828469,-67.02054039,Mobile,University,0
+180.149.134.141-10.42.0.211-80-40608-6,Female,17,"The Hobbit, or, There and Back Again",J.R.R. Tolkien,34.12041151,-109.2878747,Mobile,School,0
+10.42.0.151-10.42.0.1-40056-53-17,Male,19,"Frankenstein, or, the Modern Prometheus",Mary Shelley,38.6797675,-87.53100368,Mobile,College,0
+10.42.0.211-104.192.110.245-59749-80-6,Male,19,Oliver Twist,Charles Dickens,43.23663218,-94.75527927,Mobile,College,0
+10.42.0.211-104.192.110.245-38733-443-6,Female,17,Uncle Tom's Cabin,Harriet Beecher Stowe,42.69948741,-84.49973649,Mobile,School,0
+10.42.0.211-10.42.0.1-63229-53-17,Male,17,Crime and Punishment,Fyodor Dostoyevsky,30.20102935,-81.57148192,Mobile,School,1
+172.217.10.238-10.42.0.42-443-55300-6,Male,17,Madame Bovary: Patterns of Provincial life,Gustave Flaubert,48.70418523,-112.5918521,Mobile,School,1
+10.42.0.211-10.42.0.1-7098-53-17,Male,17,The Return of the King,J.R.R. Tolkien,33.54436632,-86.6645828,Mobile,School,0
+203.205.151.47-10.42.0.211-80-54828-6,Male,17,Dracula,Bram Stoker,55.48226813,-132.6501074,Computer,School,0
+172.217.10.65-10.42.0.211-443-47011-6,Male,21,The Three Musketeers,Alexandre Dumas,42.33613394,-100.5342611,Mobile,University,0
+10.42.0.211-104.193.88.109-33990-80-6,Male,17,Brave New World,Aldous Huxley,32.20625976,-111.0108862,Mobile,School,1
+10.42.0.211-64.71.142.124-35792-443-6,Female,21,War and Peace,Leo Tolstoy,29.67027469,-94.99590341,Mobile,University,1
+10.42.0.211-31.13.80.5-40597-443-6,Female,21,To Kill a Mockingbird,Harper Lee,32.63983977,-96.861666,Computer,University,1
+180.149.136.194-10.42.0.211-80-43789-6,Male,19,The Wizard of Oz,L. Frank Baum,30.35692586,-95.08379599,Computer,College,1
+203.205.179.170-10.42.0.151-80-48208-6,Male,19,The Secret Garden,Frances Hodgson Burnett,43.84165485,-110.5074705,Mobile,College,1
+172.217.12.132-10.42.0.211-443-56866-6,Male,17,Animal Farm,George Orwell,34.5799288,-112.3489123,Mobile,School,0
+10.42.0.211-10.42.0.1-1238-53-17,Male,17,The Great Gatsby,F. Scott Fitzgerald,32.14545691,-110.9898664,Computer,School,1
+10.42.0.42-123.125.115.164-39501-443-6,Female,21,The Little Prince,Antoine de Saint-ExupÇry,34.14272258,-114.2884525,Mobile,University,0
+175.100.207.232-10.42.0.151-80-40406-6,Female,21,The Call of the Wild,Jack London,33.46760273,-112.0204516,Mobile,University,0
+10.42.0.42-23.192.76.180-42213-80-6,Male,21,"20,000 Leagues Under the Sea",Jules Verne,33.04720038,-112.0147246,Mobile,University,0
+10.42.0.211-77.234.41.79-43584-443-6,Female,19,Anna Karenina,Leo Tolstoy,44.99964615,-93.45061654,Mobile,College,1
+157.240.2.20-10.42.0.42-443-33417-6,Male,17,The Wind in the Willows,Kenneth Grahame,44.99979893,-93.45059355,Mobile,School,0
+172.217.6.238-10.42.0.42-443-57705-6,Female,17,The Picture of Dorian Gray,Oscar Wilde,43.76615273,-94.16312486,Mobile,School,1
+10.42.0.211-119.6.229.36-42616-80-6,Female,21,The Grapes of Wrath,John Steinbeck,45.80384613,-94.56994811,Mobile,University,0
+10.42.0.211-23.205.27.180-59858-443-6,Male,17,Sense and Sensibility,Jane Austen,32.82826876,-109.7233227,Mobile,School,1
+202.77.129.54-10.42.0.211-80-54561-6,Female,21,The Last of the Mohicans,James Fenimore Cooper,33.52656319,-111.9055913,Mobile,University,0
+173.194.68.188-10.42.0.151-5228-57143-6,Male,17,Tess of the d'Urbervilles,Thomas Hardy,44.85475304,-93.26446131,Mobile,School,1
+172.217.11.46-10.42.0.211-443-32854-6,Female,21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,32.89487505,-111.7279075,Mobile,University,1
+10.42.0.211-10.42.0.1-35206-53-17,Male,17,Heidi,Johanna Spyri,39.1450149,-121.5946443,Mobile,School,0
+10.42.0.42-99.46.84.58-46360-46021-17,Male,21,Ulysses,James Joyce,25.55566001,-80.37147373,Mobile,University,1
+202.77.129.150-10.42.0.211-80-49447-6,Female,19,The Complete Sherlock Holmes,Arthur Conan Doyle,41.32960049,-89.13495664,Mobile,College,0
+172.217.3.98-10.42.0.211-443-33086-6,Male,21,The Count of Monte Cristo,Alexandre Dumas,41.26231277,-114.1967959,Mobile,University,0
+10.42.0.151-10.42.0.1-37133-53-17,Male,17,The Old Man and the Sea,Ernest Hemingway,41.3042755,-116.1145546,Mobile,School,1
+10.42.0.151-10.42.0.1-25156-53-17,Male,17,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,33.12753177,-117.0899555,Mobile,School,1
+172.217.3.97-10.42.0.211-443-34856-6,Male,21,The Hunchback of Notre Dame,Victor Hugo,39.24856445,-121.0167329,Mobile,University,0
+198.11.136.24-10.42.0.211-443-52591-6,Female,17,Pinocchio,Carlo Collodi,32.75354203,-97.10165418,Mobile,School,1
+172.217.12.206-10.42.0.151-443-60248-6,Female,19,One Hundred Years of Solitude,Gabriel Garc°a M†rquez,32.75315802,-97.10112833,Mobile,College,0
+220.170.182.31-10.42.0.211-443-37058-6,Female,17,Ivanhoe,Walter Scott,40.69627271,-74.09404017,Mobile,School,1
+172.217.8.8-10.42.0.151-443-48212-6,Male,19,The Red Badge of Courage,Stephen Crane,32.79172012,-96.86598397,Mobile,College,0
+10.42.0.211-10.42.0.1-53635-53-17,Male,21,Anne of Green Gables,L.M. Montgomery,32.79146374,-96.86604745,Mobile,University,1
+199.16.156.107-10.42.0.151-443-52951-6,Female,17,Black Beauty,Anna Sewell,32.70872152,-97.28192898,Mobile,School,0
+202.77.129.161-10.42.0.211-80-45556-6,Female,21,Peter Pan,J.M. Barrie,39.79061383,-74.20196613,Mobile,University,0
+10.42.0.211-23.205.27.180-34039-80-6,Female,21,A Farewell to Arms,Ernest Hemingway,32.85978961,-96.86369771,Mobile,University,0
+219.142.78.162-10.42.0.151-80-54615-6,Male,21,The House of the Seven Gables,Nathaniel Hawthorne,32.27298259,-95.27805703,Mobile,University,0
+175.100.207.233-10.42.0.211-80-36369-6,Female,21,Lord of the Flies,William Golding,35.14517326,-106.5882401,Mobile,University,0
+10.42.0.211-115.236.16.203-34329-443-6,Male,21,The Prince and the Pauper,Mark Twain,36.04137138,-106.0590145,Mobile,University,1
+10.42.0.42-87.240.165.91-58739-443-6,Female,17,A Portrait of the Artist as a Young Man,James Joyce,30.17929194,-97.77988832,Mobile,School,1
+10.42.0.42-52.84.26.207-55239-80-6,Male,19,Lord Jim,Joseph Conrad,29.71015087,-95.47702061,Mobile,College,0
+10.42.0.211-10.42.0.1-57966-53-17,Male,21,Harry Potter and the Chamber of Secrets,J.K. Rowling,31.21655075,-98.39323621,Mobile,University,0
+182.22.25.124-10.42.0.211-443-37917-6,Male,19,The Red & the Black,Stendhal,29.63474365,-97.5784376,Computer,College,0
+10.42.0.211-47.89.69.237-35895-443-6,Male,21,The Stranger,Albert Camus,29.68679127,-95.6462536,Mobile,University,1
+10.42.0.211-106.39.162.36-44215-80-6,Male,21,The Trial,Franz Kafka,29.68644235,-95.64628267,Mobile,University,1
+172.217.3.36-10.42.0.151-443-37155-6,Female,21,Lady Chatterley's Lover,D.H. Lawrence,29.66845471,-95.25961137,Mobile,University,1
+10.42.0.42-106.11.93.16-35837-443-6,Female,17,Kidnapped: The Adventures of David Balfour,Robert Louis Stevenson,32.4655913,-96.83408371,Mobile,School,1
+10.42.0.211-10.42.0.1-20638-53-17,Female,17,The Catcher in the Rye,J.D. Salinger,29.82348372,-95.54627635,Mobile,School,1
+172.217.11.10-10.42.0.211-443-38940-6,Female,21,Fahrenheit 451,Ray Bradbury,30.6149024,-97.68068931,Mobile,University,0
+182.254.5.234-10.42.0.211-80-34004-6,Female,21,A Journey to the Center of the Earth,Jules Verne,29.70441674,-95.40575327,Mobile,University,1
+208.80.154.224-10.42.0.211-443-48800-6,Male,21,Vanity Fair,William Makepeace Thackeray,32.70388894,-96.82795797,Mobile,University,0
+10.42.0.42-61.135.185.139-53282-80-6,Female,21,All Quiet on the Western Front,Erich Maria Remarque,33.04004855,-97.05089046,Computer,University,0
+208.80.154.224-10.42.0.211-443-47825-6,Female,19,Gone with the Wind,Margaret Mitchell,33.13846302,-97.04929766,Computer,College,0
+203.205.147.229-10.42.0.211-80-42837-6,Male,17,My ?ntonia,Willa Cather,29.37410135,-95.0000057,Mobile,School,1
+172.217.10.34-10.42.0.211-443-57245-6,Male,21,Of Mice and Men,John Steinbeck,30.44290117,-97.61134426,Mobile,University,0
+131.253.61.64-10.42.0.211-443-42869-6,Male,19,The Vicar of Wakefield,Oliver Goldsmith,31.72821659,-106.3142486,Computer,College,1
+10.42.0.211-104.193.88.109-35018-80-6,Male,21,A Connecticut Yankee in King Arthur's Court,Mark Twain,30.36090364,-97.68778378,Mobile,University,0
+172.217.6.195-10.42.0.211-443-56715-6,Female,21,White Fang,Jack London,29.4145613,-98.44428306,Mobile,University,1
+182.22.120.252-10.42.0.151-443-43856-6,Female,21,Fathers and Sons,Ivan Sergeevich Turgenev,29.41494387,-98.44437062,Mobile,University,0
+10.42.0.211-123.125.115.164-43487-443-6,Female,17,Doctor Zhivago,Boris Leonidovich Pasternak,30.328941,-97.70753288,Mobile,School,1
+172.217.9.238-10.42.0.211-443-39218-6,Male,17,The Decameron,Giovanni Boccaccio,32.72807266,-96.81258397,Mobile,School,1
+172.217.10.14-10.42.0.42-443-58558-6,Male,17,Nineteen Eighty-Four,George Orwell,26.23663524,-98.32941814,Computer,School,0
+203.205.158.62-10.42.0.211-80-34145-6,Male,19,The Jungle,Upton Sinclair,29.84826304,-95.64426649,Mobile,College,1
+175.100.207.233-10.42.0.211-80-51407-6,Male,17,The Da Vinci Code,Dan Brown,33.01141928,-96.91295996,Mobile,School,0
+10.42.0.42-76.13.28.70-51472-443-6,Male,21,Persuasion,Jane Austen,32.60623484,-96.9673845,Mobile,University,0
+10.42.0.151-104.69.158.16-43939-443-6,Male,21,Mansfield Park,Jane Austen,29.79981445,-95.11379933,Computer,University,1
+180.163.255.159-10.42.0.42-443-51719-6,Male,21,Candide,Voltaire,32.68588703,-97.04274086,Mobile,University,1
+183.79.215.139-10.42.0.211-443-33389-6,Female,17,For Whom the Bell Tolls,Ernest Hemingway,32.87091945,-96.99123887,Computer,School,0
+10.42.0.211-104.193.88.109-41653-80-6,Male,17,Far from the Madding Crowd,Thomas Hardy,40.80129821,-124.1498414,Tab,School,1
+216.58.219.227-10.42.0.151-443-39955-6,Male,21,The Fellowship of the Ring,J.R.R. Tolkien,29.70078782,-95.65734828,Mobile,University,0
+172.217.10.14-10.42.0.151-443-50622-6,Male,21,The Return of the Native,Thomas Hardy,32.82544007,-97.23976286,Mobile,University,1
+172.217.11.42-10.42.0.151-443-44676-6,Male,17,Sons and Lovers,D.H. Lawrence,32.68533734,-97.10152794,Mobile,School,0
+10.42.0.211-10.42.0.1-1936-53-17,Male,21,Charlotte's Web,E.B. White,42.97960203,-71.44921628,Mobile,University,1
+10.42.0.211-64.71.142.124-43037-443-6,Female,21,The Swiss Family Robinson,Johann David Wyss,32.76421344,-97.10799455,Mobile,University,0
+216.58.219.194-10.42.0.151-443-33116-6,Female,21,Bleak House,Charles Dickens,42.9954624,-71.47640518,Mobile,University,0
+10.42.0.151-10.42.0.1-17890-53-17,Male,21,Päre Goriot,HonorÇ de Balzac,30.07390457,-94.18634524,Computer,University,0
+172.217.10.138-10.42.0.211-443-46898-6,Male,21,Utopia,Thomas More,40.42542774,-74.75808737,Computer,University,0
+172.217.12.138-10.42.0.151-443-46194-6,Female,17,"The History of Tom Jones, a Foundling",Henry Fielding,32.53467743,-97.34577143,Computer,School,0
+10.42.0.211-66.102.255.40-44175-80-6,Male,19,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,33.55783113,-96.90646954,Mobile,College,1
+172.217.6.226-10.42.0.211-443-51230-6,Male,21,Kim,Rudyard Kipling,31.64189271,-97.09938415,Mobile,University,1
+10.42.0.151-123.125.115.164-46059-443-6,Female,19,The Sound and the Fury,William Faulkner,33.21536601,-96.62697447,Computer,College,0
+172.217.10.110-10.42.0.42-443-57515-6,Female,21,Harry Potter and the Goblet of Fire,J.K. Rowling,27.68898064,-97.41463967,Mobile,University,0
+10.42.0.151-95.213.11.181-33809-80-6,Male,17,The Mill on the Floss,George Eliot,29.49367213,-95.46236176,Mobile,School,0
+180.163.255.159-10.42.0.42-443-50712-6,Male,17,A Wrinkle in Time,Madeleine L'Engle,33.14376662,-117.0349696,Mobile,School,1
+10.42.0.211-10.42.0.1-42914-53-17,Male,21,The Hound of the Baskervilles,Arthur Conan Doyle,40.35813765,-122.3319732,Computer,University,1
+172.217.10.106-10.42.0.151-443-48577-6,Female,19,The Two Towers,J.R.R. Tolkien,33.37991258,-117.2548035,Mobile,College,1
+151.101.45.140-10.42.0.211-443-48539-6,Male,21,The War of the Worlds,H.G. Wells,32.8174228,-116.9807566,Mobile,University,1
+173.194.204.188-10.42.0.211-5228-55354-6,Female,21,Middlemarch,George Eliot,33.73165296,-116.9577919,Mobile,University,1
+140.205.94.6-10.42.0.211-443-53616-6,Female,17,The Age of Innocence,Edith Wharton,33.84102524,-118.0377157,Mobile,School,0
+10.42.0.211-117.121.27.13-42566-80-6,Male,17,The Color Purple,Alice Walker,38.65386225,-121.0601858,Computer,School,1
+172.217.8.3-10.42.0.211-80-33195-6,Male,21,Northanger Abbey,Jane Austen,34.17847349,-118.3046328,Mobile,University,0
+180.149.136.194-10.42.0.211-443-35865-6,Female,17,East of Eden,John Steinbeck,38.93344882,-122.6165908,Mobile,School,0
+156.154.202.36-10.42.0.151-443-41645-6,Female,17,On the Road,Jack Kerouac,38.00254933,-121.3312296,Mobile,School,0
+10.42.0.1-10.42.0.42-53-34364-17,Female,21,Catch-22,Joseph Heller,34.34898749,-119.0669647,Mobile,University,1
+172.217.10.230-10.42.0.211-443-59275-6,Male,21,Around the World in Eighty Days,Jules Verne,33.03146921,-117.2739087,Mobile,University,0
+203.205.158.63-10.42.0.211-80-46375-6,Female,17,Hard Times,Charles Dickens,39.88469678,-121.6668766,Computer,School,1
+173.241.242.143-10.42.0.151-443-52167-6,Female,21,Beloved,Toni Morrison,33.82515145,-118.0966622,Mobile,University,0
+10.42.0.211-10.42.0.1-63171-53-17,Male,21,Mrs. Dalloway,Virginia Woolf,34.03949253,-118.1808749,Mobile,University,1
+174.35.73.149-10.42.0.211-80-54859-6,Male,21,To the Lighthouse,Virginia Woolf,34.01215813,-118.3093145,Mobile,University,0
+172.217.8.3-10.42.0.211-443-49569-6,Male,17,The Magician's Nephew,C.S. Lewis,33.99615626,-118.2779649,Mobile,School,1
+172.217.3.110-10.42.0.151-443-59847-6,Male,21,Harry Potter and the Order of the Phoenix,J.K. Rowling,33.95360513,-118.2561659,Mobile,University,1
+172.217.10.34-10.42.0.211-443-42964-6,Male,21,The Sun Also Rises,Ernest Hemingway,34.07014754,-118.1997889,Mobile,University,0
+239.255.255.250-10.42.0.1-1900-37494-17,Male,21,The Good Earth,Pearl S. Buck,34.23145586,-118.3662221,Mobile,University,1
+172.217.11.3-10.42.0.151-443-47221-6,Female,17,Silas Marner,George Eliot,36.36984642,-105.5935921,Mobile,School,0
+10.42.0.151-10.42.0.1-60032-53-17,Male,21,Love in the Time of Cholera,Gabriel Garc°a M†rquez,34.01512219,-118.3225913,Mobile,University,0
+10.42.0.211-31.13.80.52-60843-443-6,Male,19,Rebecca,Daphne Du Maurier,34.28771299,-118.4385289,Computer,College,1
+10.42.0.211-54.192.37.187-49025-80-6,Male,17,Jude the Obscure,Thomas Hardy,39.28016064,-122.1931845,Computer,School,1
+182.22.25.124-10.42.0.151-443-56821-6,Male,19,Twilight,Stephenie Meyer,37.327286,-120.4841097,Mobile,College,0
+202.77.129.150-10.42.0.42-443-59375-6,Female,21,A Passage to India,E.M. Forster,34.27117968,-118.4054379,Mobile,University,1
+10.42.0.211-87.240.165.80-45641-80-6,Male,21,The Plague,Albert Camus,32.63528753,-96.84111661,Mobile,University,0
+10.42.0.211-23.23.129.231-56234-443-6,Male,21,Nicholas Nickleby,Charles Dickens,32.75082044,-96.80582042,Mobile,University,1
+182.22.24.252-10.42.0.42-80-44312-6,Male,17,The Pearl,John Steinbeck,32.81527262,-96.85225572,Mobile,School,0
+10.42.0.211-10.42.0.1-59100-53-17,Male,21,Ethan Frome,Edith Wharton,33.21435056,-96.9293086,Mobile,University,1
+10.42.0.211-23.194.141.143-59112-443-6,Male,19,The Tale of Genji,Murasaki Shikibu,36.05835726,-79.51790469,Mobile,College,0
+208.80.154.224-10.42.0.211-443-47890-6,Male,17,The Giver,Lois Lowry,35.81516094,-79.10991764,Computer,School,0
+10.42.0.211-52.76.136.219-34988-80-6,Male,21,The Alchemist,Paulo Coelho,32.81045237,-96.68598664,Computer,University,0
+10.42.0.211-123.125.115.164-46939-443-6,Male,17,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,29.44102642,-95.10945601,Mobile,School,0
+172.217.10.42-10.42.0.42-443-34097-6,Female,17,Robinson Crusoe,Daniel Defoe,29.4401516,-95.10953235,Computer,School,0
+10.42.0.151-52.88.110.117-34209-443-6,Female,21,Tender is the Night,F. Scott Fitzgerald,26.16189201,-98.05808959,Mobile,University,1
+157.240.18.15-10.42.0.211-443-56466-6,Female,19,The Idiot,Fyodor Dostoyevsky,35.88756579,-101.9641341,Computer,College,1
+10.42.0.211-106.11.94.27-39160-443-6,Female,21,Hatchet,Gary Paulsen,32.85562988,-97.41914268,Mobile,University,0
+10.42.0.211-104.193.88.109-35298-80-6,Female,17,The Kite Runner,Khaled Hosseini,31.91466455,-102.3795184,Mobile,School,0
+10.42.0.42-115.239.210.141-52033-80-6,Female,19,One Flew Over the Cuckoo's Nest,Ken Kesey,35.5417254,-82.6313922,Mobile,College,0
+10.42.0.211-88.212.196.104-37051-443-6,Female,19,The Portrait of a Lady,Henry James,32.74969684,-97.31442561,Mobile,College,1
+10.42.0.211-77.234.44.199-47955-80-6,Male,17,The Outsiders,S.E. Hinton,33.13746053,-96.85923305,Mobile,School,1
+172.217.10.10-10.42.0.42-443-60959-6,Male,21,Ben-Hur,Lew Wallace,36.33173551,-76.18276225,Mobile,University,1
+10.42.0.1-10.42.0.42-53-40904-17,Female,21,The Mayor of Casterbridge,Thomas Hardy,33.87914304,-117.5776301,Mobile,University,1
+203.205.158.63-10.42.0.211-80-38565-6,Male,21,"Cry, The Beloved Country",Alan Paton,35.16051348,-83.38148767,Mobile,University,1
+10.42.0.151-31.13.80.5-38931-443-6,Male,17,The Last Battle,C.S. Lewis,29.6850758,-95.70876182,Mobile,School,0
+10.42.0.211-23.219.23.167-53385-80-6,Male,21,Captains Courageous,Rudyard Kipling,41.63808911,-83.68709577,Mobile,University,1
+182.22.24.252-10.42.0.151-443-38587-6,Male,17,The Castle,Franz Kafka,39.22196378,-81.79480605,Computer,School,0
+157.240.18.19-10.42.0.211-443-52381-6,Female,19,The Metamorphosis,Franz Kafka,33.21018724,-96.89599028,Mobile,College,0
+172.217.12.132-10.42.0.211-443-33360-6,Male,21,The Magic Mountain (Der Zauberberg),Thomas Mann,32.9438292,-96.61303566,Mobile,University,0
+205.204.101.182-10.42.0.211-443-60121-6,Female,21,James and the Giant Peach,Roald Dahl,29.15299175,-98.15673549,Computer,University,1
+10.42.0.151-66.231.239.124-37683-80-6,Female,19,The Horse and His Boy,C.S. Lewis,32.74152369,-96.99857446,Mobile,College,0
+174.35.73.110-10.42.0.211-80-34158-6,Male,17,Angels & Demons,Dan Brown,29.73655031,-95.37697924,Computer,School,1
+10.42.0.151-69.147.82.60-41186-443-6,Male,21,The Voyage of the Dawn Treader,C.S. Lewis,29.73442601,-95.33389632,Mobile,University,0
+172.217.10.131-10.42.0.151-443-56465-6,Male,21,The Bell Jar,Sylvia Plath,47.97486483,-99.02497624,Mobile,University,1
+172.217.12.202-10.42.0.211-443-54414-6,Female,21,Women in Love,D.H. Lawrence,40.65193637,-81.45229829,Mobile,University,0
+10.42.0.211-64.71.142.95-38449-443-6,Female,19,The Yearling,Marjorie Kinnan Rawlings,29.98216761,-95.24771675,Mobile,College,1
+202.77.129.150-10.42.0.211-80-53575-6,Female,19,O Pioneers!,Willa Cather,30.00798962,-95.26298632,Computer,College,1
+10.42.0.1-10.42.0.42-53-46278-17,Female,19,The Handmaid's Tale,Margaret Atwood,30.00799937,-95.26293194,Mobile,College,0
+10.42.0.211-66.102.255.61-58362-80-6,Male,21,The Moonstone,Wilkie Collins,30.27805154,-98.40824741,Mobile,University,1
+10.42.0.151-104.193.88.109-40161-80-6,Male,19,The Old Curiosity Shop,Charles Dickens,34.21308072,-118.5062369,Computer,College,0
+10.42.0.151-52.84.134.181-54917-443-6,Male,19,Little Dorrit,Charles Dickens,34.02604969,-118.1933055,Mobile,College,0
+10.42.0.151-14.17.42.57-33208-80-6,Male,17,Prince Caspian: The Return to Narnia,C.S. Lewis,33.92512236,-118.4040795,Mobile,School,1
+208.80.154.224-10.42.0.211-443-33429-6,Female,21,Sister Carrie,Theodore Dreiser,36.31321377,-121.246954,Mobile,University,1
+151.101.1.140-10.42.0.151-443-40609-6,Female,19,The Silver Chair,C.S. Lewis,33.9252735,-118.1008244,Mobile,College,0
+10.42.0.211-103.7.30.118-57942-80-6,Male,17,The Hunger Games,Suzanne Collins,29.73931449,-95.82632212,Mobile,School,1
+206.126.112.142-10.42.0.151-443-54566-6,Female,17,This Side of Paradise,F. Scott Fitzgerald,31.11919773,-97.80890629,Tab,School,0
+10.42.0.211-10.42.0.1-21705-53-17,Male,21,EugÇnie Grandet,HonorÇ de Balzac,26.23797097,-98.35192569,Mobile,University,1
+10.42.0.211-123.125.46.112-52984-80-6,Female,19,Of Human Bondage,W. Somerset Maugham,29.65511606,-95.01368143,Mobile,College,0
+10.42.0.42-52.84.1.250-35827-443-6,Female,17,Dream of the Red Chamber,Cao Xueqin,33.03487865,-96.87321629,Mobile,School,1
+10.42.0.211-10.42.0.1-37033-53-17,Female,17,Life of Pi,Yann Martel,33.97232461,-78.19899323,Mobile,School,0
+172.217.10.237-10.42.0.42-443-59846-6,Female,19,Harry Potter and the Deathly Hallows,J.K. Rowling,40.80768938,-73.91282271,Mobile,College,0
+10.42.0.211-77.234.44.79-34122-443-6,Male,21,Invisible Man,Ralph Ellison,35.48660835,-80.99791627,Mobile,University,0
+10.42.0.211-66.198.24.243-49085-80-6,Male,21,Steppenwolf,Hermann Hesse,31.07561745,-97.78542531,Mobile,University,0
+10.42.0.211-66.198.24.243-48099-80-6,Male,21,The Sorrows of Young Werther,Johann Wolfgang von Goethe,32.88671336,-97.30146363,Mobile,University,0
+10.42.0.211-10.42.0.1-30970-53-17,Male,21,Bridge to Terabithia,Katherine Paterson,30.00117724,-97.61779528,Mobile,University,1
+222.73.28.96-10.42.0.42-80-56096-6,Male,19,The Invisible Man,H.G. Wells,30.33133074,-97.55903543,Mobile,College,1
+10.42.0.211-10.42.0.1-47044-53-17,Female,17,Holes,Louis Sachar,31.31340004,-96.87965368,Mobile,School,0
+220.181.7.190-10.42.0.211-443-36553-6,Male,17,Siddhartha,Hermann Hesse,32.41451358,-95.79100162,Mobile,School,0
+10.42.0.151-10.42.0.1-46041-53-17,Male,21,A Tree Grows in Brooklyn,Betty Smith,30.28341765,-97.2395953,Mobile,University,0
+172.217.19.195-10.42.0.151-443-52855-6,Female,21,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll,33.196656,-96.69575283,Mobile,University,1
+10.42.0.211-52.84.29.55-45129-443-6,Male,21,In Cold Blood,Truman Capote,30.91312717,-99.79021366,Mobile,University,1
+172.217.11.35-10.42.0.151-443-48860-6,Male,21,The House of the Spirits,Isabel Allende,31.60545361,-100.1863501,Mobile,University,1
+10.42.0.1-10.42.0.42-53-19781-17,Female,21,Adam Bede,George Eliot,33.16371108,-94.99536778,Computer,University,1
+10.42.0.211-36.51.254.232-56570-443-6,Male,19,The Betrothed,Alessandro Manzoni,30.32736138,-95.66179884,Mobile,College,1
+216.58.212.131-10.42.0.42-443-59811-6,Male,17,The Book Thief,Markus Zusak,30.34879941,-95.66537835,Mobile,School,0
+180.163.255.159-10.42.0.151-443-54087-6,Female,21,Their Eyes Were Watching God,Zora Neale Hurston,30.39243133,-96.08474034,Mobile,University,1
+10.42.0.151-106.39.169.66-52302-80-6,Male,19,One Day in the Life of Ivan Denisovich,Aleksandr Isaevich Solzhenitsyn,29.53847915,-98.41999578,Mobile,College,0
+180.149.136.247-10.42.0.42-80-45852-6,Female,21,The Sea Wolf,Jack London,29.63788465,-95.17957399,Mobile,University,0
+10.42.0.211-106.11.92.16-36113-443-6,Male,17,Catching Fire,Suzanne Collins,32.99505398,-96.80477393,Mobile,School,0
+10.42.0.42-47.89.69.218-56730-443-6,Male,17,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,26.09715727,-97.95774742,Computer,School,1
+10.42.0.211-121.12.98.64-40866-80-6,Female,21,Death Comes for the Archbishop,Willa Cather,31.22735687,-101.9440125,Mobile,University,0
+10.42.0.151-10.42.0.1-41916-53-17,Female,17,The House of Mirth,Edith Wharton,33.01850757,-96.74602699,Mobile,School,1
+216.58.219.234-10.42.0.151-443-40262-6,Female,17,Light in August,William Faulkner,43.3300877,-119.2791111,Mobile,School,0
+173.194.204.188-10.42.0.151-5228-60764-6,Female,17,The Pickwick Papers,Charles Dickens,45.55946127,-116.8351808,Mobile,School,1
+10.42.0.211-103.7.30.118-56683-80-6,Male,17,Remembrance of Things Past,Marcel Proust,29.52145936,-98.76405307,Mobile,School,0
+205.185.216.42-10.42.0.42-80-51617-6,Male,17,Barchester Towers and the Warden,Anthony Trollope,29.57464782,-96.32178043,Mobile,School,1
+10.42.0.211-104.192.110.245-53575-80-6,Male,17,The Bridge of San Luis Rey,Thornton Wilder,41.1938741,-77.31163949,Computer,School,1
+172.217.12.206-10.42.0.151-443-44129-6,Male,17,The Help,Kathryn Stockett,32.83781246,-96.47223439,Mobile,School,0
+10.42.0.211-10.42.0.1-63150-53-17,Female,19,Murder on the Orient Express,Agatha Christie,29.38500992,-100.9210987,Mobile,College,1
+202.77.129.161-10.42.0.151-80-51280-6,Female,17,The Lovely Bones,Alice Sebold,38.77685276,-76.90823517,Mobile,School,0
+10.42.0.211-111.221.77.172-60774-443-17,Male,17,The Appeal,John Grisham,40.36878666,-77.34578127,Mobile,School,0
+172.217.0.226-10.42.0.211-443-41678-6,Female,17,Dombey And Son,Charles Dickens,29.55295374,-98.27530046,Mobile,School,1
+173.194.206.156-10.42.0.211-443-52016-6,Female,17,Slaughterhouse-Five,Kurt Vonnegut,31.70595292,-106.2738144,Mobile,School,1
+10.42.0.151-10.42.0.1-5992-53-17,Male,19,An American Tragedy,Theodore Dreiser,31.7628604,-106.2711114,Mobile,College,0
+10.42.0.151-54.192.38.65-43750-443-6,Male,21,The Bluest Eye,Toni Morrison,41.02782453,-75.58565233,Mobile,University,1
+10.42.0.151-104.43.254.159-43659-443-6,Male,21,Little House In the Big Woods,Laura Ingalls Wilder,29.22821258,-98.65371098,Mobile,University,0
+10.42.0.151-52.173.205.111-35623-443-6,Female,19,Pippi Longstocking,Astrid Lindgren,41.67214907,-70.77804128,Mobile,College,1
+183.79.250.251-10.42.0.151-443-36771-6,Female,19,Germinal,êmile Zola,29.79565444,-95.49471585,Mobile,College,0
+203.130.53.126-10.42.0.211-80-50486-6,Male,17,The Heart Is a Lonely Hunter,Carson McCullers,29.97208494,-95.44676715,Mobile,School,1
+172.217.12.142-10.42.0.42-80-49005-6,Male,21,The Woman In White,Wilkie Collins,32.7568429,-96.28575436,Mobile,University,0
+169.47.42.203-10.42.0.42-443-45980-6,Male,17,"Absalom, Absalom!",William Faulkner,33.72574681,-80.2000252,Computer,School,0
+172.217.10.42-10.42.0.42-443-43942-6,Male,21,A Painted House,John Grisham,32.27234246,-95.34390763,Mobile,University,0
+10.42.0.211-101.227.14.98-42775-80-6,Male,21,The Girl With the Dragon Tattoo,Stieg Larsson,40.67457818,-76.27831219,Computer,University,0
+216.58.219.202-10.42.0.151-443-44686-6,Male,19,A Room With a View,E.M. Forster,32.42703114,-97.10352329,Mobile,College,0
+10.42.0.42-108.174.10.10-42841-443-6,Male,17,Watership Down,Richard Adams,26.14773682,-97.95151052,Mobile,School,1
+10.42.0.211-23.208.168.108-41282-443-6,Male,17,Memoirs of a Geisha,Arthur Golden,41.73840515,-75.72751392,Mobile,School,1
+219.142.78.162-10.42.0.151-80-54646-6,Male,17,Our Mutual Friend,Charles Dickens,40.80307982,-73.4947297,Mobile,School,0
+162.208.22.39-10.42.0.151-443-54608-6,Female,17,Babbitt,Sinclair Lewis,33.86871597,-98.47854376,Mobile,School,0
+172.217.11.3-10.42.0.42-443-52108-6,Female,21,The Red Pony,John Steinbeck,33.0545219,-96.54736208,Mobile,University,0
+10.42.0.151-10.42.0.1-28090-53-17,Female,21,All the King's Men,Robert Penn Warren,31.73490658,-106.3393912,Mobile,University,1
+10.42.0.211-123.125.29.220-37911-80-6,Male,21,Things Fall Apart,Chinua Achebe,31.76232934,-106.3571397,Mobile,University,1
+10.42.0.151-10.42.0.1-33030-53-17,Male,21,Lorna Doone,R.D. Blackmore,44.26142538,-104.9450748,Mobile,University,1
+172.217.5.228-10.42.0.151-443-58943-6,Female,17,Johnny Tremain,Esther Forbes,43.24635274,-108.6849489,Computer,School,1
+10.42.0.42-106.39.162.36-41049-80-6,Male,19,Anne of Avonlea,L.M. Montgomery,41.11894355,-73.94352469,Mobile,College,1
+10.42.0.42-106.39.169.66-43528-443-6,Male,17,Tuck Everlasting,Natalie Babbitt,45.52658898,-122.3885193,Mobile,School,0
+10.42.0.42-123.125.29.220-55722-80-6,Male,21,The BFG,Roald Dahl,37.39501419,-122.094046,Mobile,University,1
+169.55.67.237-10.42.0.211-5222-46721-6,Male,17,Cannery Row,John Steinbeck,39.91412198,-82.95750264,Computer,School,0
+172.217.10.110-10.42.0.151-443-59772-6,Male,21,The Joy Luck Club,Amy Tan,34.83984169,-114.6052644,Mobile,University,0
+205.204.101.196-10.42.0.211-443-40740-6,Male,19,Roots,Alex Haley,39.14175353,-121.9099875,Mobile,College,0
+173.194.66.188-10.42.0.151-5228-51776-6,Female,21,Little House on the Prairie,Laura Ingalls Wilder,37.66791812,-121.3241498,Mobile,University,1
+10.42.0.211-64.71.142.124-43396-443-6,Male,17,Native Son,Richard Wright,39.14188994,-121.9100064,Mobile,School,0
+10.42.0.211-23.23.129.231-39028-443-6,Male,21,Stuart Little,E.B. White,36.13593144,-86.74015212,Mobile,University,1
+198.11.132.221-10.42.0.211-443-39949-6,Male,21,Cross Fire,James Patterson,40.73847696,-82.48596756,Mobile,University,0
+175.100.207.232-10.42.0.42-80-40335-6,Male,19,The Power and the Glory,Graham Greene,44.76771812,-97.90850434,Mobile,College,1
+182.22.31.252-10.42.0.211-443-48462-6,Female,21,A Clockwork Orange,Anthony Burgess,43.69316063,-104.0116901,Mobile,University,0
+157.55.130.155-10.42.0.211-40008-60774-17,Female,21,The Phantom of the Opera,Gaston Leroux,43.21966669,-98.46271422,Mobile,University,1
+10.42.0.211-31.13.71.52-34886-443-6,Male,19,The Martian Chronicles,Ray Bradbury,43.66572655,-102.8962251,Mobile,College,1
+10.42.0.211-119.146.74.33-45946-443-6,Male,19,The Road,Cormac McCarthy,44.9994988,-96.97017312,Mobile,College,0
+172.217.7.228-10.42.0.151-443-38793-6,Female,21,The Way of All Flesh,Samuel Butler,35.60679103,-84.43796696,Mobile,University,1
+10.42.0.211-23.21.172.210-36346-443-6,Female,21,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,38.93577253,-80.81864181,Mobile,University,0
+205.204.101.47-10.42.0.42-443-54225-6,Male,17,Villette,Charlotte Brontâ,38.44413691,-122.67464,Mobile,School,0
+174.35.73.107-10.42.0.211-80-38981-6,Female,21,The Curious Incident of the Dog In the Night-Time,Mark Haddon,38.88036509,-82.12141952,Mobile,University,1
+151.101.21.140-10.42.0.211-443-45852-6,Female,21,The Mysterious Island,Jules Verne,39.49655951,-79.81152404,Mobile,University,1
+10.42.0.211-52.26.15.212-32774-443-6,Female,19,Song of Solomon,Toni Morrison,32.72380558,-117.2508573,Mobile,College,0
+172.217.11.46-10.42.0.42-80-53519-6,Male,17,Nana,êmile Zola,45.80118212,-89.63231667,Mobile,School,1
+172.217.12.206-10.42.0.151-443-34073-6,Male,21,Quo Vadis,Henryk Sienkiewicz,32.75083259,-117.1946971,Mobile,University,0
+10.42.0.151-10.42.0.1-8691-53-17,Female,21,Main Street,Sinclair Lewis,37.08464694,-122.0747602,Mobile,University,1
+10.42.0.211-65.55.223.31-60774-40015-17,Female,21,Matilda,Roald Dahl,34.27169772,-119.2264229,Mobile,University,0
+172.217.6.206-10.42.0.42-443-59545-6,Female,17,Lolita,Vladimir Vladimirovich Nabokov,32.38355533,-100.8377642,Mobile,School,1
+182.22.25.252-10.42.0.211-443-38735-6,Male,19,Paper Towns,John Green,43.01228909,-88.22307068,Mobile,College,0
+10.42.0.211-23.194.142.7-36997-443-6,Female,21,Sounder,William H. Armstrong,45.40261572,-91.73768829,Mobile,University,0
+183.56.172.140-10.42.0.151-80-59439-6,Male,21,"Are You There God? It's Me, Margaret",Judy Blume,41.06330472,-76.2266573,Mobile,University,0
+172.217.3.110-10.42.0.151-443-56137-6,Male,17,The Notebook,Nicholas Sparks,44.27318434,-88.32781122,Mobile,School,0
+10.42.0.151-10.42.0.1-28905-53-17,Female,21,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,43.7881387,-90.08413596,Mobile,University,0
+172.217.10.10-10.42.0.151-443-58552-6,Female,17,Atlas Shrugged,Ayn Rand,36.53296921,-120.0991853,Mobile,School,1
+172.217.12.202-10.42.0.151-443-49016-6,Male,21,The Fountainhead,Ayn Rand,43.01554565,-87.95462523,Mobile,University,1
+10.42.0.151-61.135.185.139-49807-80-6,Female,21,Number the Stars,Lois Lowry,45.05678573,-87.75261235,Mobile,University,0
+10.42.0.42-104.254.66.16-56932-80-6,Female,19,The Firm,John Grisham,46.14054224,-122.9198702,Mobile,College,0
+183.79.249.252-10.42.0.211-443-32873-6,Female,21,Swann's Way,Marcel Proust,45.63883184,-122.6059002,Computer,University,0
+10.42.0.211-54.236.100.208-40077-443-6,Male,21,Ender's Game,Orson Scott Card,47.59795515,-122.3183939,Mobile,University,1
+183.136.237.235-10.42.0.211-80-46162-6,Male,17,The Name of the Rose,Umberto Eco,47.51154616,-122.3183153,Mobile,School,1
+172.217.12.195-10.42.0.151-443-56454-6,Male,19,A Time to Kill,John Grisham,47.70396906,-117.3698748,Mobile,College,1
+157.240.18.19-10.42.0.211-443-59001-6,Male,17,Water for Elephants,Sara Gruen,47.65770188,-117.398609,Mobile,School,1
+221.228.208.97-10.42.0.42-80-39668-6,Female,17,The Time Machine,H.G. Wells,45.78577308,-122.558739,Mobile,School,1
+10.42.0.211-10.42.0.1-52792-53-17,Female,17,Eragon,Christopher Paolini,47.59831586,-120.6638918,Mobile,School,0
+180.163.255.159-10.42.0.211-80-48966-6,Female,17,The Hitchhiker's Guide to the Galaxy,Douglas Adams,47.15915548,-122.5195004,Mobile,School,1
+10.42.0.211-31.13.69.229-47392-443-6,Female,21,Buddenbrooks,Thomas Mann,47.56488957,-122.6619311,Mobile,University,0
+10.42.0.211-77.234.44.201-42601-80-6,Male,21,A Thousand Splendid Suns,Khaled Hosseini,47.49816512,-117.5773485,Mobile,University,0
+192.229.173.173-10.42.0.211-80-44540-6,Female,17,The Witch of Blackbird Pond,Elizabeth George Speare,47.16500865,-122.4917565,Mobile,School,0
+10.42.0.151-10.42.0.1-59171-53-17,Male,17,And Then There Were None,Agatha Christie,47.9651787,-122.2018578,Mobile,School,1
+10.42.0.211-10.42.0.1-22651-53-17,Female,17,A Separate Peace,John Knowles,46.25520368,-119.9074836,Mobile,School,0
+183.79.250.251-10.42.0.151-443-37631-6,Male,17,Breaking Dawn,Stephenie Meyer,46.1405748,-122.9559324,Tab,School,1
+192.229.173.173-10.42.0.151-80-39779-6,Male,21,As I Lay Dying,William Faulkner,47.77332485,-117.3757374,Mobile,University,0
+202.77.129.150-10.42.0.151-80-39297-6,Male,21,The Girl Who Played With Fire,Stieg Larsson,46.5314045,-122.4859439,Mobile,University,1
+205.204.101.182-10.42.0.211-443-55476-6,Female,17,Where the Red Fern Grows,Wilson Rawls,47.80911822,-117.5586842,Mobile,School,0
+10.42.0.255-10.42.0.1-8612-8612-17,Female,21,Le Morte D'Arthur,Thomas Malory,46.27915052,-119.1696599,Computer,University,1
+182.22.31.252-10.42.0.211-443-54130-6,Female,21,Mockingjay,Suzanne Collins,46.24070215,-119.0797314,Mobile,University,1
+172.217.10.106-10.42.0.211-443-38988-6,Male,17,The Pillars of the Earth,Ken Follett,46.24011736,-119.1036126,Mobile,School,0
+192.229.173.173-10.42.0.211-80-39739-6,Male,17,Persian Letters,Montesquieu,46.91199201,-119.6228676,Mobile,School,1
+10.42.0.151-74.125.29.113-44129-443-6,Male,17,The Client,John Grisham,47.55820175,-122.2870762,Mobile,School,0
+10.42.0.211-66.102.255.61-38596-443-6,Male,19,Sula,Toni Morrison,33.89536034,-118.1831782,Computer,College,0
+10.42.0.151-10.42.0.1-17576-53-17,Female,17,Tales of a Fourth Grade Nothing,Judy Blume,47.53839373,-122.2963274,Tab,School,1
+10.42.0.211-10.42.0.1-33458-53-17,Female,17,The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire,Howard Pyle,40.07597536,-75.4136785,Mobile,School,1
+10.42.0.211-10.42.0.1-24499-53-17,Male,21,Tortilla Flat,John Steinbeck,46.65710228,-120.5482841,Tab,University,0
+180.149.136.194-10.42.0.151-80-54144-6,Male,17,"Look Homeward, Angel",Thomas Wolfe,46.65989909,-120.5278189,Mobile,School,1
+10.42.0.211-10.42.0.1-25526-53-17,Female,19,The Mystery of Edwin Drood,Charles Dickens,47.16855475,-122.5991532,Mobile,College,0
+10.42.0.211-106.11.135.2-54385-80-6,Male,21,Brideshead Revisited,Evelyn Waugh,47.16921915,-122.5985586,Mobile,University,1
+10.42.0.1-10.42.0.42-53-35214-17,Male,21,The Pelican Brief,John Grisham,47.16528407,-122.0249782,Mobile,University,0
+10.42.0.151-10.42.0.1-38991-53-17,Male,21,Atonement,Ian McEwan,45.90427362,-122.748292,Mobile,University,1
+10.42.0.211-77.234.42.92-50874-443-6,Male,17,Washington Square,Henry James,29.43134551,-98.65299017,Mobile,School,0
+10.42.0.42-106.39.169.66-57125-80-6,Female,21,Like Water for Chocolate,Laura Esquivel,44.41255505,-72.99387535,Mobile,University,0
+10.42.0.211-66.231.239.122-44738-80-6,Female,17,The Golden Compass,Philip Pullman,42.10152225,-88.70336096,Tab,School,0
+10.42.0.151-31.13.80.52-55511-80-6,Female,17,The Secret Life of Bees,Sue Monk Kidd,44.5191527,-72.94450132,Mobile,School,0
+172.217.5.227-10.42.0.211-443-44323-6,Female,17,The Fault In Our Stars,John Green,44.51036613,-72.89359035,Mobile,School,0
+10.42.0.42-64.71.142.95-48476-443-6,Male,17,Nostromo,Joseph Conrad,33.23908701,-97.17802069,Mobile,School,1
+172.217.9.237-10.42.0.42-443-45324-6,Male,17,Finnegans Wake,James Joyce,32.69523192,-96.93464094,Mobile,School,1
+10.42.0.151-40.117.100.83-36994-443-6,Female,19,The Brethren,John Grisham,38.24463126,-122.6328678,Mobile,College,0
+172.217.3.110-10.42.0.211-443-40560-6,Male,17,Coraline,Neil Gaiman,37.48190019,-122.2160986,Mobile,School,0
+10.42.0.1-10.42.0.42-53-5458-17,Male,17,Heart of Darkness,Joseph Conrad,34.85317447,-82.38016839,Mobile,School,0
+10.42.0.211-98.139.199.204-41286-443-6,Female,17,On the Banks of Plum Creek,Laura Ingalls Wilder,38.54061918,-89.93990405,Mobile,School,1
+174.35.73.149-10.42.0.211-80-59293-6,Female,21,Rebecca of Sunnybrook Farm,Kate Douglas Smith Wiggin,36.39403112,-86.43085193,Mobile,University,1
+172.217.12.196-10.42.0.211-443-57526-6,Male,21,The Ambassadors,Henry James,36.69668846,-121.6740043,Mobile,University,1
+10.42.0.211-10.42.0.1-65082-53-17,Female,21,The Secret Agent,Joseph Conrad,32.73209732,-117.217741,Mobile,University,1
+10.42.0.42-104.244.42.65-48234-80-6,Female,17,The House on Mango Street,Sandra Cisneros,35.04900368,-89.76923051,Mobile,School,1
+173.241.242.143-10.42.0.42-443-52397-6,Male,17,Go Tell It on the Mountain,James Baldwin,35.02146032,-89.79123891,Mobile,School,0
+172.217.12.163-10.42.0.211-443-43530-6,Male,21,The Testament,John Grisham,37.47872931,-122.2056241,Mobile,University,1
+10.42.0.151-106.39.169.66-44473-80-6,Male,19,The Clan of the Cave Bear,Jean M. Auel,43.675604,-95.16701015,Mobile,College,0
+10.42.0.211-104.254.66.16-48279-80-6,Male,21,Cranford,Elizabeth Cleghorn Gaskell,38.68525318,-121.2144865,Mobile,University,0
+162.208.22.39-10.42.0.211-443-35853-6,Male,21,Because of Winn-Dixie,Kate DiCamillo,33.7452902,-117.8639299,Mobile,University,0
+172.217.12.193-10.42.0.42-443-37285-6,Male,17,My Side of the Mountain,Jean Craighead George,34.27654226,-118.7557717,Mobile,School,1
+162.208.22.39-10.42.0.151-443-55412-6,Male,17,The Runaway Jury,John Grisham,37.66907704,-122.4248517,Mobile,School,0
+10.42.0.211-10.42.0.1-53109-53-17,Male,19,The Mouse and the Motorcycle,Beverly Cleary,33.71795094,-117.829114,Mobile,College,1
+10.42.0.42-103.43.91.12-55284-443-6,Male,21,The Lost Symbol,Dan Brown,29.51897837,-98.39308342,Mobile,University,0
+10.42.0.211-103.235.46.211-43529-443-6,Female,21,The Forsyte Saga,John Galsworthy,35.91350369,-86.87483989,Mobile,University,1
+10.42.0.211-69.147.89.13-50047-443-6,Female,17,Gone Girl,Gillian Flynn,29.67304308,-95.56176298,Mobile,School,0
+10.42.0.211-10.42.0.1-40514-53-17,Female,17,The Lightning Thief,Rick Riordan,37.35102446,-121.8718501,Mobile,School,1
+10.42.0.211-115.239.210.141-44620-80-6,Female,17,The Last Days of Pompeii,Edward Bulwer Lytton,32.69332387,-97.05942316,Mobile,School,1
+10.42.0.211-10.42.0.1-41677-53-17,Female,17,The Reader,Bernhard Schlink,40.99877575,-75.23236375,Mobile,School,0
+208.80.154.224-10.42.0.211-443-57831-6,Female,21,Caddie Woodlawn,Carol Ryrie Brink,37.36258244,-76.52133209,Mobile,University,1
+172.217.12.142-10.42.0.151-443-43692-6,Male,21,The Tale of Despereaux,Kate DiCamillo,38.97790976,-77.54427132,Computer,University,0
+180.149.136.194-10.42.0.211-80-52232-6,Female,17,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,39.13318222,-77.55870474,Mobile,School,0
+172.217.10.14-10.42.0.42-443-49244-6,Male,21,The Killer Angels,Michael Shaara,37.53313805,-77.53961087,Mobile,University,1
+192.229.163.180-10.42.0.211-443-41122-6,Female,17,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,37.54231306,-77.4199607,Mobile,School,1
+10.42.0.151-104.244.43.131-49746-443-6,Male,19,The Five People You Meet In Heaven,Mitch Albom,38.87248907,-104.8587688,Mobile,College,0
+10.42.0.211-50.18.174.184-56817-443-6,Male,21,The Master and Margarita,Mikhail Bulgakov,39.7644909,-105.1224642,Mobile,University,1
+10.42.0.211-54.192.36.192-42888-443-6,Male,17,"Winesburg, Ohio",Sherwood Anderson,37.93401403,-76.74071099,Mobile,School,0
+151.101.1.140-10.42.0.211-443-34098-6,Male,21,"""P"" Is for Peril",Sue Grafton,40.58725911,-111.8684774,Mobile,University,1
+10.42.0.211-77.234.42.92-42405-443-6,Male,21,My Sister's Keeper,Jodi Picoult,38.70967886,-75.08692398,Computer,University,0
+172.217.10.78-10.42.0.151-443-36061-6,Female,21,Barnaby Rudge,Charles Dickens,40.74795252,-111.9461144,Mobile,University,1
+10.42.0.42-36.110.213.49-44115-443-6,Male,21,Howards End,E.M. Forster,25.46737262,-80.47505793,Mobile,University,0
+172.217.10.142-10.42.0.151-80-43568-6,Female,17,The Broker,John Grisham,40.55701486,-112.0201591,Mobile,School,0
+10.42.0.211-108.179.252.22-53530-80-6,Male,17,The Camel Club,David Baldacci,40.29646161,-111.7451378,Mobile,School,0
+10.42.0.211-98.139.199.204-56348-443-6,Male,21,The Rainbow,D.H. Lawrence,29.47325202,-81.2456807,Mobile,University,0
+220.243.219.55-10.42.0.42-80-48091-6,Male,21,The Man In the Iron Mask,Alexandre Dumas,40.5264605,-112.0316519,Mobile,University,0
+10.42.0.211-66.198.24.240-33194-80-6,Male,17,Mary Poppins,P.L. Travers,40.52065931,-111.9449328,Mobile,School,1
+10.42.0.211-64.71.142.125-47202-443-6,Male,21,Artemis Fowl,Eoin Colfer,37.54595151,-77.40155699,Mobile,University,1
+10.42.0.151-72.21.207.148-35455-443-6,Female,21,Dear John,Nicholas Sparks,40.51175479,-112.0350916,Computer,University,0
+10.42.0.151-104.244.43.99-41250-443-6,Female,17,Cold Mountain,Charles Frazier,31.99465819,-87.29465908,Mobile,School,0
+10.42.0.42-104.192.110.245-53717-80-6,Male,19,Flowers for Algernon,Daniel Keyes,33.95479326,-118.2065279,Mobile,College,0
+10.42.0.211-59.38.112.48-40129-443-6,Male,17,The Dark Is Rising,Susan Cooper,39.74900159,-104.8758266,Computer,School,1
+203.90.242.126-10.42.0.211-80-58187-6,Male,21,Resurrection,Leo Tolstoy,39.74905369,-104.8756768,Mobile,University,1
+172.217.12.195-10.42.0.42-443-47263-6,Male,17,Fearless Fourteen,Janet Evanovich,39.85133888,-105.0508963,Mobile,School,1
+10.42.0.211-10.42.0.1-1519-53-17,Female,21,A Sentimental Journey Through France and Italy,Laurence Sterne,31.37100678,-94.71833708,Mobile,University,1
+172.217.10.106-10.42.0.211-443-51779-6,Female,21,The King of Torts,John Grisham,39.7420644,-105.2073354,Mobile,University,1
+172.217.12.195-10.42.0.211-443-34404-6,Female,17,The Graveyard Book,Neil Gaiman,39.71772561,-104.7870628,Mobile,School,0
+10.42.0.42-23.217.155.120-44288-80-6,Female,21,The Quiet American,Graham Greene,39.59171714,-104.8249578,Mobile,University,1
+10.42.0.211-104.244.43.3-49157-443-6,Female,17,The Chamber,John Grisham,38.87055032,-107.5950666,Mobile,School,0
+10.42.0.211-54.230.51.73-58848-80-6,Male,21,The English Patient,Michael Ondaatje,41.2439574,-112.004048,Mobile,University,0
+10.42.0.151-104.244.43.195-40364-443-6,Female,17,Snow Falling on Cedars,David Guterson,41.18335665,-111.9621094,Mobile,School,0
+10.42.0.211-23.206.166.66-47498-80-6,Male,17,The Long Winter,Laura Ingalls Wilder,38.26781518,-122.0135156,Mobile,School,1
+157.55.130.167-10.42.0.151-40019-48848-6,Male,21,"Sarah, Plain and Tall",Patricia MacLachlan,28.81648655,-81.55005791,Mobile,University,0
+10.42.0.42-47.89.69.217-46952-80-6,Male,17,Cross Country,James Patterson,43.55300727,-97.50183578,Mobile,School,1
+10.42.0.151-103.235.46.212-55190-443-6,Male,19,The Spy Who Came In from the Cold,John Le CarrÇ,29.53236958,-82.88570008,Mobile,College,0
+172.217.6.194-10.42.0.211-443-60344-6,Male,17,A Game of Thrones,George R.R. Martin,44.48436511,-103.8178486,Mobile,School,1
+10.42.0.211-52.52.43.76-44578-443-6,Female,19,The Thorn Birds,Colleen McCullough,32.40682922,-80.7187043,Mobile,College,0
+10.42.0.42-36.110.213.49-42610-80-6,Male,17,Old Yeller,Fred Gipson,33.06426238,-80.14921732,Mobile,School,1
+151.101.21.140-10.42.0.211-80-35804-6,Female,17,"Ramona Quimby, Age 8",Beverly Cleary,40.56499019,-112.0147614,Mobile,School,1
+10.42.0.1-10.42.0.42-53-58923-17,Female,17,Death In Venice,Thomas Mann,29.61162431,-95.19304669,Computer,School,0
+172.217.3.110-10.42.0.42-443-34279-6,Female,21,By the Shores of Silver Lake,Laura Ingalls Wilder,29.66357147,-95.17803689,Mobile,University,1
+10.42.0.151-108.174.11.1-39085-80-6,Female,19,Inferno,Dan Brown,34.88025716,-82.35755629,Mobile,College,0
+10.42.0.211-23.206.166.66-34027-80-6,Female,17,Schindler's List,Thomas Keneally,41.88622822,-71.41592188,Mobile,School,0
+10.42.0.151-10.42.0.1-57527-53-17,Male,21,Jonathan Livingston Seagull,Richard Bach,41.81747234,-71.4562814,Mobile,University,1
+172.217.12.142-10.42.0.211-443-56154-6,Female,19,The Stand,Stephen King,42.00558936,-71.51235188,Computer,College,1
+174.35.73.136-10.42.0.211-443-53187-6,Male,19,The Last Juror,John Grisham,41.52313083,-71.29909788,Mobile,College,0
+10.42.0.211-64.71.142.110-42651-80-6,Male,19,Shiloh,Phyllis Reynolds Naylor,41.83963634,-71.45284667,Mobile,College,1
+174.129.31.175-10.42.0.211-443-33615-6,Female,19,Girl With a Pearl Earring,Tracy Chevalier,41.37669589,-71.82193837,Mobile,College,0
+10.42.0.211-36.110.213.49-41635-443-6,Male,17,The Murder of Roger Ackroyd,Agatha Christie,29.55817507,-98.62325765,Mobile,School,1
+10.42.0.211-104.97.95.172-43866-80-6,Male,21,It,Stephen King,40.34986961,-79.86210558,Mobile,University,0
+10.42.0.42-66.102.255.61-47334-443-6,Female,17,The Rainmaker,John Grisham,29.56549524,-98.6463502,Computer,School,1
+10.42.0.211-123.125.29.138-46657-80-6,Male,17,The Poisonwood Bible,Barbara Kingsolver,39.76532046,-104.9232223,Mobile,School,0
+172.217.11.10-10.42.0.211-443-52664-6,Female,21,The Indian in the Cupboard,Lynne Reid Banks,39.7959845,-104.7611247,Mobile,University,0
+172.217.12.206-10.42.0.151-443-56498-6,Male,17,The Maltese Falcon,Dashiell Hammett,39.65992017,-105.0274095,Mobile,School,0
+173.241.242.143-10.42.0.151-443-52167-6,Female,21,The Warden,Anthony Trollope,40.60015459,-75.46906224,Computer,University,0
+10.42.0.211-10.42.0.1-61196-53-17,Female,17,The Summons,John Grisham,39.98003179,-75.2211146,Mobile,School,0
+10.42.0.42-23.192.4.224-34391-80-6,Female,19,Encyclopedia Brown: Boy Detective,Donald J. Sobol,40.36534162,-79.78713543,Mobile,College,1
+222.73.28.96-10.42.0.151-80-55804-6,Male,21,The Time Traveler's Wife,Audrey Niffenegger,40.36594163,-79.78739033,Mobile,University,1
+10.42.0.151-40.78.68.158-38528-443-6,Female,17,The Incredible Journey,Sheila Burnford,40.67730303,-80.24409364,Computer,School,0
+172.217.7.195-10.42.0.211-443-37278-6,Male,19,Daughter of Fortune,Isabel Allende,40.67792699,-80.24461644,Mobile,College,0
+10.42.0.211-64.71.142.124-54514-443-6,Female,17,Shirley,Charlotte Brontâ,32.47989626,-100.4060305,Mobile,School,0
+10.42.0.211-107.20.205.68-59502-443-6,Male,21,"Bud, Not Buddy",Christopher Paul Curtis,40.37340986,-111.7776351,Mobile,University,1
+172.217.12.170-10.42.0.151-443-44855-6,Male,17,The Horse Whisperer,Nicholas Evans,38.61913888,-104.1653785,Computer,School,1
+10.42.0.211-106.11.92.14-48358-443-6,Male,17,The Street Lawyer,John Grisham,40.41930309,-104.7722747,Mobile,School,1
+172.217.3.106-10.42.0.211-443-46922-6,Male,17,Nausea,Jean-Paul Sartre,38.79807463,-104.8094117,Mobile,School,1
+10.42.0.211-10.42.0.1-35670-53-17,Male,21,To Have and Have Not,Ernest Hemingway,33.67503322,-84.39849832,Mobile,University,1
+10.42.0.151-64.71.142.124-45312-443-6,Male,21,The Bridges of Madison County,Robert James Waller,42.56555663,-114.5958285,Computer,University,0
+216.58.219.234-10.42.0.151-443-40262-6,Male,17,Anne of the Island,L.M. Montgomery,39.71872926,-105.1905088,Computer,School,1
+157.55.56.163-10.42.0.151-40027-43477-17,Male,21,The Winter of Our Discontent,John Steinbeck,40.48797855,-106.8317392,Tab,University,0
+172.217.8.3-10.42.0.211-443-46466-6,Female,17,The Shining,Stephen King,40.46920706,-104.887934,Mobile,School,0
+10.42.0.211-10.42.0.1-10839-53-17,Male,17,The Tenant of Wildfell Hall,Anne Brontâ,41.72860476,-72.36663253,Mobile,School,0
+219.142.78.162-10.42.0.151-443-46189-6,Male,17,First Family,David Baldacci,41.326885,-73.06558245,Computer,School,1
+172.217.3.110-10.42.0.211-443-46827-6,Male,21,The Partner,John Grisham,41.34113564,-73.08436323,Mobile,University,0
+10.42.0.42-52.84.40.147-41193-80-6,Female,17,The Girl on the Train,Paula Hawkins,41.53799537,-72.93896469,Mobile,School,1
+10.42.0.211-23.206.166.66-59803-80-6,Male,21,The Black Arrow: A Tale of the Two Roses,Robert Louis Stevenson,33.43073698,-83.89775908,Computer,University,0
+172.217.12.206-10.42.0.151-443-47180-6,Male,19,The Rise of Silas Lapham,William Dea Howells,41.93548626,-87.68031135,Mobile,College,1
+10.42.0.211-23.21.95.195-44204-443-6,Male,17,The Choice,Nicholas Sparks,37.53826043,-89.25706947,Mobile,School,0
+10.42.0.42-123.125.29.220-46714-80-6,Male,21,The Virginian: A Horseman of the Plains,Owen Wister,40.84243673,-75.85035573,Mobile,University,1
+172.217.9.234-10.42.0.151-443-36582-6,Male,21,A Walk to Remember,Nicholas Sparks,40.84324732,-75.84969237,Computer,University,1
+10.42.0.211-52.20.190.244-51410-443-6,Female,19,The Maze Runner,James Dashner,40.49384721,-79.75421698,Mobile,College,0
+10.42.0.211-66.102.255.61-50926-80-6,Male,21,The Westing Game,Ellen Raskin,40.91850024,-75.31165375,Mobile,University,1
+173.222.150.38-10.42.0.211-443-37092-6,Male,19,Misty of Chincoteague,Marguerite Henry,39.97902826,-76.7888764,Mobile,College,0
+10.42.0.211-10.42.0.1-3579-53-17,Female,17,Diary of a Wimpy Kid: The Last Straw,Jeff Kinney,45.45936928,-122.8375456,Mobile,School,0
+180.149.134.142-10.42.0.211-80-32768-6,Male,21,King Solomon's Mines,H. Rider Haggard,44.0549874,-121.3651931,Computer,University,1
+10.42.0.211-103.235.46.211-56421-443-6,Male,21,The Princess of Cleves,Madame de (Marie-Madeleine Pioche de La Vergne) La Fayett,44.03446348,-121.295079,Computer,University,1
+10.42.0.151-10.42.0.1-57068-53-17,Female,17,Jacob Have I Loved,Katherine Paterson,44.30828038,-120.8243216,Mobile,School,0
+10.42.0.211-10.42.0.1-61816-53-17,Male,21,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,44.9156948,-123.3270738,Mobile,University,1
+172.217.7.10-10.42.0.211-443-53944-6,Female,17,Misery,Stephen King,40.7200271,-111.9731374,Computer,School,0
+172.217.10.10-10.42.0.151-443-35139-6,Male,21,The Cider House Rules,John Irving,44.75757547,-122.4871694,Mobile,University,1
+10.42.0.211-38.69.238.10-55071-80-6,Male,21,King of the Wind,Marguerite Henry,45.92186849,-118.3775424,Mobile,University,0
+10.42.0.1-10.42.0.42-53-26342-17,Male,17,The Once and Future King,T. H. White,41.71105209,-111.9703901,Mobile,School,1
+10.42.0.211-10.42.0.1-46904-53-17,Female,21,The Witches,Roald Dahl,40.48500283,-112.0043339,Mobile,University,0
+172.217.12.195-10.42.0.42-443-40875-17,Male,21,The Subtle Knife,Philip Pullman,41.96218693,-72.57682523,Mobile,University,0
+180.149.134.221-10.42.0.42-80-47737-6,Female,17,When You Reach Me,Rebecca Stead,28.83061616,-97.85375437,Tab,School,0
+202.77.129.161-10.42.0.42-80-43105-6,Female,19,Carrie,Stephen King,41.17934266,-73.13954052,Mobile,College,0
+172.217.12.174-10.42.0.42-443-44726-6,Male,19,The Moon and Sixpence,W. Somerset Maugham,38.96043164,-77.03156608,Mobile,College,0
+10.42.0.211-52.85.101.68-41900-443-6,Male,21,The Higher Power of Lucky,Susan Patron,38.88411149,-77.01955275,Mobile,University,1
+10.42.0.42-14.17.42.57-54296-80-6,Male,21,"Looking Backward, 2000-1887",Edward Bellamy,26.24501124,-80.19611517,Mobile,University,1
+174.35.73.168-10.42.0.42-80-52013-6,Female,21,The Wings of the Dove,Henry James,39.10880212,-113.9525301,Mobile,University,0
+10.42.0.211-10.42.0.1-57157-53-17,Male,21,The Summer of the Swans,Betsy Cromer Byars,26.14945628,-80.1728035,Mobile,University,0
+202.77.129.150-10.42.0.211-80-57108-6,Female,17,Dangerous Liaisons,Choderlos de Laclos,41.14706912,-111.7544678,Mobile,School,0
+10.42.0.211-31.13.71.36-52352-443-6,Male,17,Jurassic Park,Michael Crichton,40.5304315,-112.349028,Mobile,School,1
+175.100.207.232-10.42.0.151-80-40339-6,Male,17,The Absolutely True Diary of a Part-time Indian,Sherman Alexie,26.05571921,-80.42505785,Mobile,School,1
+10.42.0.42-31.13.80.12-45203-443-6,Male,19,The Grey King,Susan Cooper,41.57243578,-72.91796548,Mobile,College,1
+10.42.0.211-10.42.0.1-5021-53-17,Male,19,The Leopard,Giuseppe Tomasi di Lampedusa,45.66630706,-118.7992617,Mobile,College,1
+175.100.207.231-10.42.0.151-80-43448-6,Female,17,The Mammoth Hunters,Jean M. Auel,35.41659112,-97.51225457,Mobile,School,1
+208.80.154.224-10.42.0.151-443-48304-6,Female,21,The Trumpet of the Swan,E.B. White,18.40836423,-66.21384818,Mobile,University,0
+10.42.0.42-66.198.24.250-38543-443-6,Female,21,The Lucky One,Nicholas Sparks,34.50473661,-98.97969858,Computer,University,1
+10.42.0.211-10.42.0.1-22181-53-17,Male,19,These Happy Golden Years,Laura Ingalls Wilder,35.24982894,-96.94459047,Mobile,College,0
+198.11.132.221-10.42.0.211-443-58785-6,Female,21,Arrowsmith,Sinclair Lewis,35.25033769,-96.94466563,Mobile,University,0
+205.185.216.42-10.42.0.151-80-41144-6,Male,19,Julie of the Wolves,Jean Craighead George,35.71773864,-94.75135836,Mobile,College,0
+10.42.0.211-104.192.110.245-58910-80-6,Female,17,The Screwtape Letters,C.S. Lewis,35.50377458,-98.98395366,Mobile,School,1
+10.42.0.211-10.42.0.1-54582-53-17,Male,21,The Fall,Albert Camus,35.98277426,-96.76828247,Mobile,University,0
+10.42.0.211-103.235.46.211-49081-443-6,Female,17,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,35.65585415,-97.53320494,Mobile,School,1
+10.42.0.211-10.42.0.1-32398-53-17,Female,17,Worst Case,James Patterson,35.71009056,-97.47380412,Mobile,School,0
+10.42.0.211-52.84.134.157-46423-443-6,Female,21,Lost Horizon,James Hilton,43.56619818,-116.1129694,Computer,University,1
+10.42.0.151-31.13.71.37-45380-443-6,Female,17,The Gunslinger,Stephen King,35.30434553,-97.44247801,Mobile,School,0
+222.73.28.96-10.42.0.42-80-56163-6,Female,17,The Slave Dancer,Paula Fox,35.32783758,-97.54944861,Mobile,School,1
+175.100.207.232-10.42.0.211-443-44534-6,Female,21,Harry Potter and the Half-Blood Prince,J.K. Rowling,39.91846405,-83.81522696,Mobile,University,1
+239.255.255.250-10.42.0.1-1900-50220-17,Female,21,Inkheart,Cornelia Funke,41.4488784,-81.55288963,Mobile,University,0
+10.42.0.211-103.235.46.211-59391-443-6,Female,21,Ramona and her Father,Beverly Cleary,41.52892839,-81.62598013,Mobile,University,1
+172.217.12.142-10.42.0.211-443-58455-6,Male,19,Inkspell,Cornelia Funke,39.95782619,-83.01571432,Computer,College,0
+180.149.136.194-10.42.0.211-443-32927-6,Male,19,Ramona the Pest,Beverly Cleary,39.9551175,-83.09101508,Mobile,College,0
+10.42.0.151-36.110.213.49-46804-443-6,Female,17,Walk Two Moons,Sharon Creech,38.42668524,-82.57816713,Mobile,School,1
+239.255.255.250-10.42.0.151-1900-55233-17,Male,21,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,32.9737552,-96.70547993,Mobile,University,1
+180.149.138.210-10.42.0.211-80-52068-6,Female,21,The Chocolate War,Robert Cormier,26.32808026,-98.15000513,Mobile,University,0
+10.42.0.42-104.237.191.1-37068-443-6,Female,17,Sophie's Choice,William Styron,41.44705171,-81.79159458,Mobile,School,1
+10.42.0.211-10.42.0.1-33643-53-17,Male,17,Looking for Alaska,John Green,41.64271484,-81.06364712,Mobile,School,0
+10.42.0.211-10.42.0.1-13102-53-17,Female,17,Breakfast at Tiffany's,Truman Capote,39.75549651,-84.04557747,Mobile,School,1
+10.42.0.1-10.42.0.42-53-43012-17,Male,21,The Razor's Edge,W. Somerset Maugham,40.59962818,-81.40377058,Mobile,University,0
+10.42.0.151-121.12.98.78-58829-80-6,Female,19,Dreamcatcher,Stephen King,27.90317462,-97.14821299,Mobile,College,1
+203.205.147.229-10.42.0.151-80-56212-6,Male,21,Orlando,Virginia Woolf,29.6842289,-95.41683717,Mobile,University,0
+202.77.129.150-10.42.0.211-80-35282-6,Male,21,The Things they Carried,Tim O'Brien,41.53520837,-87.32466129,Mobile,University,0
+239.255.255.250-10.42.0.1-1900-34027-17,Male,17,Little Town on the Prairie,Laura Ingalls Wilder,40.08570882,-82.8123896,Mobile,School,0
+10.42.0.151-10.42.0.1-42494-53-17,Female,21,Nights in Rodanthe,Nicholas Sparks,39.28645245,-84.41413173,Mobile,University,0
+10.42.0.211-106.11.15.99-43307-443-6,Male,21,The Amber Spyglass,Philip Pullman,40.37610728,-82.47510987,Mobile,University,0
+10.42.0.211-104.208.156.39-41901-443-6,Female,17,The Miraculous Journey of Edward Tulane,Kate DiCamillo,41.05444517,-83.66598667,Mobile,School,1
+172.217.10.142-10.42.0.211-443-35739-6,Male,17,Flatland,Edwin A. Abbott,40.90135167,-73.8541669,Mobile,School,1
+10.42.0.151-10.42.0.1-3540-53-17,Male,17,Diary of a Wimpy Kid,Jeff Kinney,40.8436678,-73.86530525,Mobile,School,0
+10.42.0.211-104.193.88.109-42060-80-6,Male,21,The Memory Keeper's Daughter,Kim Edwards,40.79053113,-73.88292248,Mobile,University,0
+10.42.0.42-37.1.204.175-37695-80-6,Male,17,The Wedding,Nicholas Sparks,40.70878207,-73.79836306,Mobile,School,0
+198.105.244.11-10.42.0.42-80-45685-6,Female,17,Fried Green Tomatoes at the Whistle-Stop Cafe,Fannie Flagg,39.44447445,-87.37590377,Mobile,School,1
+172.217.10.142-10.42.0.151-443-51241-6,Male,17,The Cricket in Times Square,George Selden,38.7855997,-89.92712184,Computer,School,1
+172.217.10.227-10.42.0.151-80-58210-6,Male,21,The Phantom Tollbooth,Norton Juster,41.86476364,-87.98219825,Computer,University,1
+169.45.248.107-10.42.0.211-443-36830-6,Female,21,Rob Roy,Walter Scott,41.49818476,-87.66231957,Mobile,University,1
+10.42.0.42-85.93.5.109-49057-80-6,Male,21,The Death of Ivan Ilych,Leo Tolstoy,29.47600887,-95.47160551,Mobile,University,1
+216.58.219.202-10.42.0.211-443-53738-6,Female,19,Alex Cross's Trial,James Patterson,32.77074984,-96.86807889,Computer,College,0
+10.42.0.42-62.138.0.117-51520-80-6,Female,19,Kenilworth,Walter Scott,41.04682139,-73.96896268,Mobile,College,1
+172.217.6.234-10.42.0.151-443-41692-6,Female,21,The Life and Opinions of Tristram Shandy,Laurence Sterne,40.86439503,-73.83637073,Mobile,University,0
+172.217.12.131-10.42.0.151-443-50752-6,Female,17,The Remains of theDay,Kazuo Ishiguro,42.09624096,-76.80410597,Computer,School,0
+10.42.0.211-123.125.29.138-55149-443-6,Female,17,"M.C. Higgins, The Great",Virginia Hamilton,42.93390684,-78.80272072,Mobile,School,0
+216.58.212.131-10.42.0.42-443-48366-6,Female,17,Call It Courage,Armstrong Sperry,40.80893955,-73.92182976,Mobile,School,1
+10.42.0.211-64.71.142.110-42630-80-6,Male,17,Go Set a Watchman,Harper Lee,40.69235734,-73.98684614,Mobile,School,0
+172.217.12.142-10.42.0.211-443-38923-6,Female,19,Bleachers,John Grisham,41.97697564,-72.59525648,Mobile,College,1
+10.42.0.211-10.42.0.1-44069-53-17,Male,17,Elijah of Buxton,Christopher Paul Curtis,30.36877611,-94.31787602,Computer,School,0
+10.42.0.151-10.42.0.1-32817-53-17,Male,17,Swimsuit,James Patterson,40.6747679,-73.78317658,Computer,School,1
+10.42.0.1-10.42.0.42-53-24081-17,Female,17,Cat's Cradle,Kurt Vonnegut,40.8131238,-73.91943279,Mobile,School,0
+10.42.0.211-66.102.255.61-55887-443-6,Male,17,The Caine Mutiny,Herman Wouk,30.61837136,-97.65649838,Mobile,School,1
+10.42.0.211-64.71.142.110-51365-443-6,Female,21,The Heart of the Matter,Graham Greene,26.17491869,-98.23464378,Mobile,University,1
+10.42.0.211-31.13.80.12-45964-443-6,Male,21,"Harriet, the Spy",Louise Fitzhugh,40.85384331,-73.91156039,Computer,University,0
+10.42.0.151-10.42.0.1-1932-53-17,Female,17,Darkness at Noon,Arthur Koestler,42.75322579,-73.81868159,Mobile,School,1
+10.42.0.211-98.139.180.149-58559-443-6,Female,21,A Prayer for Owen Meany,John Irving,42.25564799,-73.7954459,Mobile,University,0
+10.42.0.1-10.42.0.42-53-25923-17,Female,21,The God of Small Things,Arundhati Roy,41.68513154,-72.85183108,Mobile,University,0
+172.217.3.99-10.42.0.151-443-33302-6,Female,21,The Associate,John Grisham,42.80147217,-77.81610748,Mobile,University,1
+10.42.0.151-52.84.134.181-54925-443-6,Female,17,The Shack,William P. Young,41.08897415,-74.00136587,Mobile,School,1
+172.217.9.225-10.42.0.211-443-35189-6,Male,19,The Naked and the Dead,Norman Mailer,43.15861108,-77.56343237,Mobile,College,0
+205.185.216.10-10.42.0.211-80-40657-6,Female,17,The Sea of Monsters,Rick Riordan,36.17283046,-115.0866345,Mobile,School,1
+172.217.9.234-10.42.0.211-443-55205-6,Female,17,Stranger in a Strange Land,Robert A. Heinlein,36.19621417,-115.1545082,Tab,School,0
+10.42.0.1-10.42.0.42-53-49143-17,Male,17,Vision in White,Nora Roberts,40.64083207,-116.9457503,Mobile,School,1
+172.217.6.202-10.42.0.42-443-40057-6,Male,21,The Whipping Boy,Sid Fleischman,39.52547578,-119.8233163,Mobile,University,0
+192.229.173.173-10.42.0.211-80-39746-6,Male,17,Room,Emma Donoghue,32.30719815,-106.7763062,Mobile,School,1
+172.217.6.238-10.42.0.151-443-39200-6,Female,17,Deception Point,Dan Brown,29.69312742,-98.70952711,Mobile,School,0
+10.42.0.151-104.193.88.109-48423-80-6,Male,19,Gulliver's Travels,Jonathan Swift,35.62458722,-106.0099998,Mobile,College,0
+182.22.25.124-10.42.0.151-443-56812-6,Male,21,The Pilgrim's Progress,John Bunyan,30.61829008,-97.65627511,Computer,University,0
+10.42.0.211-52.84.134.65-41283-443-6,Male,17,A Christmas Carol,Charles Dickens,33.81667782,-102.5575735,Mobile,School,0
+10.42.0.211-10.42.0.1-12505-53-17,Male,17,David Copperfield,Charles Dickens,35.90798037,-109.0259955,Mobile,School,0
+180.149.153.234-10.42.0.42-80-44213-6,Male,19,A Tale of Two Cities,Charles Dickens,36.74675984,-108.3807497,Mobile,College,1
+10.42.0.211-72.247.70.190-47904-80-6,Male,17,Little Women,Louisa May Alcott,36.66396164,-84.43882795,Mobile,School,1
+172.217.10.14-10.42.0.151-443-45131-6,Male,21,Great Expectations,Charles Dickens,38.67289656,-84.3386154,Mobile,University,0
+10.42.0.151-31.13.65.7-45501-443-6,Female,17,"The Hobbit, or, There and Back Again",J.R.R. Tolkien,41.57863996,-87.83912416,Mobile,School,0
+10.42.0.211-10.42.0.1-55094-53-17,Male,17,"Frankenstein, or, the Modern Prometheus",Mary Shelley,38.14115508,-97.4287429,Mobile,School,0
+172.217.3.106-10.42.0.211-443-38058-6,Male,21,Oliver Twist,Charles Dickens,32.68716122,-93.96036726,Tab,University,1
+10.42.0.211-104.97.95.172-39568-80-6,Male,19,Uncle Tom's Cabin,Harriet Beecher Stowe,37.47756249,-100.8486713,Mobile,College,1
+172.217.6.227-10.42.0.211-443-55402-6,Female,17,Crime and Punishment,Fyodor Dostoyevsky,38.42547831,-83.12394694,Computer,School,1
+10.42.0.211-106.39.162.36-39573-80-6,Male,17,Madame Bovary: Patterns of Provincial life,Gustave Flaubert,38.04638521,-84.52537082,Mobile,School,1
+10.42.0.211-66.102.255.40-51871-443-6,Male,17,The Return of the King,J.R.R. Tolkien,35.32712704,-106.5782895,Mobile,School,1
+10.42.0.211-104.97.95.172-34800-80-6,Male,19,The Appeal,John Grisham,26.7609711,-81.43785509,Mobile,College,0
+10.42.0.211-104.192.110.245-53532-80-6,Male,17,Dombey And Son,Charles Dickens,29.47338516,-81.24829604,Mobile,School,1
+10.42.0.151-52.84.134.181-50524-443-6,Male,17,Slaughterhouse-Five,Kurt Vonnegut,30.10542175,-85.19983169,Mobile,School,0
+10.42.0.211-54.192.36.192-42888-443-6,Male,17,An American Tragedy,Theodore Dreiser,30.77624,-85.22714559,Mobile,School,0
+172.217.10.66-10.42.0.211-443-51200-6,Female,19,The Bluest Eye,Toni Morrison,32.52244639,-93.73656788,Mobile,College,0
+182.254.5.234-10.42.0.211-80-56928-6,Female,19,Pippi Longstocking,Astrid Lindgren,28.44227737,-81.5644873,Mobile,College,1
+192.229.163.180-10.42.0.151-443-39465-6,Male,21,Germinal,êmile Zola,28.54371365,-81.58659423,Mobile,University,0
+10.42.0.211-115.239.210.141-41075-80-6,Male,19,The Heart Is a Lonely Hunter,Carson McCullers,26.64825754,-80.05803438,Mobile,College,1
+10.42.0.151-31.13.71.3-41568-443-6,Male,21,The Woman In White,Wilkie Collins,29.28960167,-97.1423932,Mobile,University,0
+10.42.0.151-66.198.24.243-38565-80-6,Female,21,"Absalom, Absalom!",William Faulkner,26.73096616,-80.06738478,Mobile,University,1
+10.42.0.211-10.42.0.1-45620-53-17,Male,21,A Painted House,John Grisham,28.42008876,-82.54964719,Mobile,University,0
+220.243.219.55-10.42.0.211-80-54776-6,Male,17,The Girl With the Dragon Tattoo,Stieg Larsson,31.66933459,-100.7201991,Mobile,School,1
+10.42.0.151-10.42.0.1-20292-53-17,Male,21,A Room With a View,E.M. Forster,45.09625942,-93.39705477,Mobile,University,1
+10.42.0.151-10.42.0.1-46430-53-17,Male,17,Watership Down,Richard Adams,40.38711856,-74.92035986,Mobile,School,0
+192.229.173.173-10.42.0.211-443-44786-6,Male,17,Memoirs of a Geisha,Arthur Golden,41.09958704,-111.9668944,Mobile,School,1
+10.42.0.211-23.203.49.224-38004-443-6,Male,21,Our Mutual Friend,Charles Dickens,40.63342957,-74.40435844,Mobile,University,0
+10.42.0.211-10.42.0.1-25773-53-17,Female,17,Babbitt,Sinclair Lewis,39.39022383,-74.52533469,Mobile,School,0
+10.42.0.211-72.21.206.141-53419-443-6,Female,17,The Red Pony,John Steinbeck,40.71596497,-74.08534587,Mobile,School,1
+10.42.0.211-10.42.0.1-24415-53-17,Female,19,All the King's Men,Robert Penn Warren,40.56277121,-74.53316777,Computer,College,1
+10.42.0.211-10.42.0.1-18163-53-17,Female,21,Things Fall Apart,Chinua Achebe,44.03373052,-92.65647778,Mobile,University,0
+222.73.28.96-10.42.0.211-80-41491-6,Female,17,Lorna Doone,R.D. Blackmore,40.56420731,-74.53663538,Mobile,School,1
+10.42.0.42-123.125.115.164-53673-443-6,Female,17,Johnny Tremain,Esther Forbes,39.92527039,-75.10635276,Mobile,School,0
+10.42.0.211-10.42.0.1-26726-53-17,Male,19,Anne of Avonlea,L.M. Montgomery,39.9509595,-75.11660263,Mobile,College,1
+10.42.0.151-106.39.169.66-43568-80-6,Male,21,Tuck Everlasting,Natalie Babbitt,40.62239263,-74.43875058,Computer,University,0
+10.42.0.211-10.42.0.1-58534-53-17,Male,17,The BFG,Roald Dahl,38.93467848,-114.0356878,Mobile,School,1
+172.217.11.46-10.42.0.151-443-60415-6,Female,19,Cannery Row,John Steinbeck,40.9420102,-98.36525086,Mobile,College,0
+10.42.0.211-119.146.74.34-59536-80-6,Male,17,The Joy Luck Club,Amy Tan,45.76701084,-122.5446928,Mobile,School,0
+211.236.244.151-10.42.0.211-80-34466-6,Male,17,The Silmarillion,J.R.R. Tolkien,40.45155962,-99.38741279,Mobile,School,0
+183.79.17.108-10.42.0.151-443-60433-6,Male,21,Roots,Alex Haley,40.81616786,-96.6017184,Mobile,University,0
+10.42.0.151-119.146.74.49-36548-443-6,Female,17,Little House on the Prairie,Laura Ingalls Wilder,41.15525198,-96.10654429,Mobile,School,0
+10.42.0.151-10.42.0.1-24054-53-17,Male,17,Native Son,Richard Wright,47.88017902,-97.075161,Mobile,School,1
+10.42.0.1-10.42.0.42-53-58327-17,Male,17,Stuart Little,E.B. White,48.22086248,-101.2072886,Mobile,School,1
+172.217.7.195-10.42.0.42-443-34789-6,Male,21,Cross Fire,James Patterson,48.54114055,-109.699131,Mobile,University,0
+182.22.25.124-10.42.0.151-443-56817-6,Female,17,The Power and the Glory,Graham Greene,36.27611761,-76.21176431,Mobile,School,0
+10.42.0.1-10.42.0.42-53-58204-17,Female,17,A Clockwork Orange,Anthony Burgess,35.91406442,-78.8928531,Computer,School,0
+172.217.10.42-10.42.0.151-443-36345-6,Female,21,The Phantom of the Opera,Gaston Leroux,35.43860087,-80.72807807,Mobile,University,1
+10.42.0.211-123.125.115.164-40825-443-6,Female,21,The Martian Chronicles,Ray Bradbury,36.1231435,-78.67465998,Mobile,University,1
+151.101.45.140-10.42.0.151-443-56189-6,Male,21,The Road,Cormac McCarthy,41.81154552,-88.21085572,Mobile,University,1
+222.73.28.96-10.42.0.211-80-49077-6,Male,21,The Way of All Flesh,Samuel Butler,35.19513283,-80.78374639,Mobile,University,1
+10.42.0.211-23.50.64.177-58624-443-6,Female,19,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,35.73762372,-78.61994866,Mobile,College,1
+222.73.28.96-10.42.0.42-80-43487-6,Male,17,Villette,Charlotte Brontâ,35.36086582,-80.76104354,Mobile,School,0
+10.42.0.211-10.42.0.1-1901-53-17,Female,17,The Curious Incident of the Dog In the Night-Time,Mark Haddon,35.78070955,-78.92162663,Computer,School,1
+10.42.0.211-104.193.88.109-57986-80-6,Male,17,The Mysterious Island,Jules Verne,44.44032991,-69.52669336,Mobile,School,0
+10.42.0.211-10.42.0.1-59776-53-17,Male,21,Song of Solomon,Toni Morrison,42.05087027,-70.67892727,Mobile,University,0
+169.53.71.250-10.42.0.42-5222-45721-6,Male,21,Nana,êmile Zola,28.8680666,-81.2640321,Mobile,University,0
+10.42.0.211-10.42.0.1-3332-53-17,Male,17,Quo Vadis,Henryk Sienkiewicz,33.69905694,-84.48868103,Mobile,School,1
+10.42.0.211-74.125.22.188-56675-5228-6,Male,21,Main Street,Sinclair Lewis,34.1182314,-83.21236304,Mobile,University,0
+172.217.12.174-10.42.0.42-443-52312-6,Male,21,Matilda,Roald Dahl,30.86878363,-83.24555095,Mobile,University,1
+10.42.0.151-74.119.118.85-54381-443-6,Female,19,Lolita,Vladimir Vladimirovich Nabokov,42.67578432,-72.69669304,Mobile,College,0
+10.42.0.211-123.125.115.164-40824-443-6,Female,21,Paper Towns,John Green,43.12576978,-71.00777689,Computer,University,1
+10.42.0.211-112.80.248.187-54890-80-6,Female,17,Sounder,William H. Armstrong,41.86720156,-84.0203322,Computer,School,0
+10.42.0.1-10.42.0.42-53-35050-17,Female,19,"Are You There God? It's Me, Margaret",Judy Blume,44.26698479,-69.79991986,Mobile,College,1
+10.42.0.151-10.42.0.1-54305-53-17,Female,17,The Notebook,Nicholas Sparks,32.85832554,-83.59992131,Mobile,School,1
+10.42.0.211-10.42.0.1-8913-53-17,Male,17,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,32.78218357,-83.69024738,Computer,School,0
+174.35.73.199-10.42.0.211-443-54745-6,Female,17,Atlas Shrugged,Ayn Rand,31.87884115,-81.25206562,Tab,School,1
+10.42.0.151-10.42.0.1-52918-53-17,Female,17,The Fountainhead,Ayn Rand,35.79964744,-105.9723444,Mobile,School,0
+151.101.0.166-10.42.0.42-443-53509-6,Female,17,Number the Stars,Lois Lowry,32.06304049,-81.05715724,Computer,School,0
+151.101.1.140-10.42.0.151-443-54106-6,Male,17,The Firm,John Grisham,33.74766647,-84.24586951,Mobile,School,1
+192.229.163.180-10.42.0.151-443-58367-6,Male,17,Swann's Way,Marcel Proust,33.67663324,-84.47371242,Mobile,School,1
+209.85.201.113-10.42.0.151-443-59879-6,Male,21,Ender's Game,Orson Scott Card,35.52459397,-109.8546904,Mobile,University,0
+10.42.0.211-10.42.0.1-8340-53-17,Male,19,The Name of the Rose,Umberto Eco,33.67651516,-84.47369887,Mobile,College,1
+172.217.3.106-10.42.0.211-443-32961-6,Female,17,A Time to Kill,John Grisham,33.96186779,-83.96950027,Computer,School,0
+172.217.12.170-10.42.0.211-443-35100-6,Male,17,Water for Elephants,Sara Gruen,44.89048476,-87.28988313,Computer,School,1
+180.149.134.221-10.42.0.42-80-39754-6,Female,19,The Time Machine,H.G. Wells,33.89543629,-84.2161044,Mobile,College,0
+10.42.0.211-10.42.0.1-12555-53-17,Male,17,Eragon,Christopher Paolini,33.95550045,-84.03474478,Mobile,School,1
+209.10.120.26-10.42.0.211-80-49241-6,Male,21,The Hitchhiker's Guide to the Galaxy,Douglas Adams,44.89029821,-87.28943931,Mobile,University,0
+10.42.0.211-123.125.29.138-53036-80-6,Male,21,Buddenbrooks,Thomas Mann,40.28544949,-75.37904257,Mobile,University,0
+163.177.151.166-10.42.0.211-443-35418-6,Male,17,A Thousand Splendid Suns,Khaled Hosseini,18.13943963,-65.82306762,Mobile,School,0
+172.217.6.196-10.42.0.211-443-45333-6,Female,17,The Witch of Blackbird Pond,Elizabeth George Speare,18.31857121,-66.09371526,Mobile,School,0
+172.217.11.14-10.42.0.151-443-39085-6,Male,17,And Then There Were None,Agatha Christie,18.40993224,-66.32483399,Mobile,School,0
+10.42.0.211-123.125.115.190-32878-80-6,Male,21,A Separate Peace,John Knowles,33.45101517,-84.13607597,Mobile,University,1
+10.42.0.211-69.147.64.34-40686-443-6,Female,19,Breaking Dawn,Stephenie Meyer,33.47202382,-82.00357375,Tab,College,1
+10.42.0.151-31.13.71.37-52320-443-6,Male,21,As I Lay Dying,William Faulkner,32.66357777,-96.88225377,Mobile,University,0
+172.217.12.170-10.42.0.211-443-34778-6,Male,19,The Girl Who Played With Fire,Stieg Larsson,33.47402333,-81.99747648,Mobile,College,0
+222.73.28.96-10.42.0.42-80-43360-6,Male,21,Where the Red Fern Grows,Wilson Rawls,32.04610888,-84.23015286,Mobile,University,0
+10.42.0.211-54.192.37.11-41383-443-6,Female,17,Le Morte D'Arthur,Thomas Malory,13.48615715,144.8431452,Mobile,School,1
+10.42.0.1-10.42.0.42-53-49974-17,Female,17,Mockingjay,Suzanne Collins,13.46502014,144.7469775,Mobile,School,1
+216.58.219.202-10.42.0.151-443-39807-6,Female,17,The Pillars of the Earth,Ken Follett,34.20751459,-87.05357996,Mobile,School,1
+10.42.0.42-108.168.176.239-49541-443-6,Male,17,Persian Letters,Montesquieu,13.47108618,144.7935676,Mobile,School,1
+192.229.173.173-10.42.0.211-80-44239-6,Female,17,The Client,John Grisham,13.46119538,144.7539456,Mobile,School,1
+172.217.10.45-10.42.0.151-443-47682-6,Male,17,Sula,Toni Morrison,13.5345639,144.894638,Mobile,School,0
+10.42.0.211-10.42.0.1-45549-53-17,Male,21,Tales of a Fourth Grade Nothing,Judy Blume,13.56785124,144.8487931,Computer,University,1
+172.217.10.42-10.42.0.42-443-51946-6,Male,17,The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire,Howard Pyle,13.50966666,144.8247139,Mobile,School,0
+10.42.0.211-10.42.0.1-14963-53-17,Female,19,Tortilla Flat,John Steinbeck,13.51805597,144.8270756,Mobile,College,0
+10.42.0.211-106.11.15.99-42945-443-6,Male,21,"Look Homeward, Angel",Thomas Wolfe,43.85236808,-92.49280811,Mobile,University,0
+216.58.219.234-10.42.0.42-443-52150-6,Female,17,The Mystery of Edwin Drood,Charles Dickens,13.50245488,144.7816336,Mobile,School,1
+10.42.0.1-10.42.0.42-53-2239-17,Male,17,Brideshead Revisited,Evelyn Waugh,13.27244975,144.6731969,Mobile,School,0
+172.217.12.170-10.42.0.211-443-37774-6,Male,17,The Pelican Brief,John Grisham,13.58340916,144.882436,Mobile,School,1
+10.42.0.151-31.13.80.5-45356-443-6,Female,17,Atonement,Ian McEwan,13.470499,144.8082117,Computer,School,0
+172.217.3.99-10.42.0.151-443-35053-6,Female,21,Washington Square,Henry James,32.40858279,-111.020694,Mobile,University,1
+172.217.10.131-10.42.0.42-443-55775-6,Female,19,Like Water for Chocolate,Laura Esquivel,13.35420994,144.7586738,Mobile,College,0
+208.80.154.224-10.42.0.151-443-41258-6,Male,17,The Golden Compass,Philip Pullman,31.95913118,-110.9736526,Mobile,School,1
+10.42.0.151-10.42.0.1-64503-53-17,Female,21,The Secret Life of Bees,Sue Monk Kidd,13.49985686,144.782191,Mobile,University,1
+180.163.15.184-10.42.0.211-80-38676-6,Male,19,The Fault In Our Stars,John Green,13.46540253,144.8017007,Mobile,College,0
+10.42.0.211-119.146.74.34-36915-80-6,Male,19,Nostromo,Joseph Conrad,33.43417194,-111.6741698,Computer,College,1
+10.42.0.211-72.247.70.190-47937-80-6,Male,17,Finnegans Wake,James Joyce,13.5349775,144.8322055,Mobile,School,0
+10.42.0.211-23.203.49.224-37287-443-6,Female,19,The Brethren,John Grisham,33.39147505,-111.5625235,Mobile,College,0
+10.42.0.151-104.88.89.135-45394-443-6,Male,21,Coraline,Neil Gaiman,36.31489452,-93.01761724,Mobile,University,1
+10.42.0.211-66.198.24.250-49700-80-6,Male,21,Heart of Darkness,Joseph Conrad,34.12318865,-88.71388254,Mobile,University,1
+172.217.7.195-10.42.0.211-443-37891-6,Female,21,On the Banks of Plum Creek,Laura Ingalls Wilder,30.44310183,-88.88150571,Mobile,University,0
+10.42.0.211-10.42.0.1-4319-53-17,Female,19,Rebecca of Sunnybrook Farm,Kate Douglas Smith Wiggin,37.15244454,-118.3281686,Mobile,College,1
+10.42.0.211-23.23.129.231-55427-443-6,Male,17,The Ambassadors,Henry James,35.90801414,-78.73318564,Mobile,School,0
+10.42.0.42-104.192.110.245-35918-80-6,Male,17,The Secret Agent,Joseph Conrad,35.82095615,-78.52832856,Mobile,School,1
+10.42.0.211-69.147.82.60-55022-443-6,Female,17,The House on Mango Street,Sandra Cisneros,36.21649813,-81.65113572,Mobile,School,0
+217.69.136.176-10.42.0.151-443-33473-6,Male,17,Go Tell It on the Mountain,James Baldwin,35.66041398,-77.87531346,Mobile,School,1
+10.42.0.151-10.42.0.1-14382-53-17,Male,21,The Testament,John Grisham,32.36309264,-97.38983629,Mobile,University,0
+10.42.0.1-10.42.0.42-53-49321-17,Male,17,The Clan of the Cave Bear,Jean M. Auel,41.58495116,-87.319957,Mobile,School,0
+10.42.0.211-52.84.29.154-57117-443-6,Male,21,Cranford,Elizabeth Cleghorn Gaskell,46.54496822,-110.9036791,Mobile,University,0
+202.77.129.146-10.42.0.211-80-49447-6,Male,21,Because of Winn-Dixie,Kate DiCamillo,46.54448071,-110.9038919,Mobile,University,0
+172.217.10.99-10.42.0.151-443-52632-6,Male,21,My Side of the Mountain,Jean Craighead George,45.73790686,-108.7009688,Mobile,University,0
+202.77.129.161-10.42.0.151-80-34127-6,Male,21,The Runaway Jury,John Grisham,32.2669856,-90.22203519,Mobile,University,1
+151.101.21.140-10.42.0.211-443-45971-6,Female,21,The Mouse and the Motorcycle,Beverly Cleary,33.34486914,-89.0553609,Mobile,University,1
+10.42.0.211-123.125.29.220-37911-80-6,Male,19,The Lost Symbol,Dan Brown,33.45048847,-88.82077753,Mobile,College,0
+10.42.0.211-31.13.67.36-34239-443-6,Female,19,The Forsyte Saga,John Galsworthy,33.45111369,-88.82175741,Mobile,College,0
+10.42.0.211-10.42.0.1-62026-53-17,Female,21,Gone Girl,Gillian Flynn,33.46052443,-88.8241531,Mobile,University,0
+172.217.12.195-10.42.0.151-443-45636-6,Male,21,The Lightning Thief,Rick Riordan,33.4666068,-88.81949165,Mobile,University,1
+172.217.10.99-10.42.0.42-443-39174-6,Female,17,The Last Days of Pompeii,Edward Bulwer Lytton,35.28382376,-119.1120781,Mobile,School,1
+172.217.11.42-10.42.0.42-443-48085-6,Female,21,The Reader,Bernhard Schlink,33.91864423,-117.2169387,Mobile,University,1
+151.101.1.140-10.42.0.211-443-48053-6,Female,17,Caddie Woodlawn,Carol Ryrie Brink,33.51951767,-88.74062584,Mobile,School,1
+172.217.10.100-10.42.0.42-443-36855-6,Female,17,The Tale of Despereaux,Kate DiCamillo,37.52126305,-97.00410423,Mobile,School,1
+10.42.0.151-119.146.74.33-41897-443-6,Female,21,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,33.59537848,-88.63178907,Mobile,University,0
+10.42.0.151-103.7.30.118-55891-80-6,Female,17,Dear Mr. Henshaw,Beverly Cleary,33.59306244,-88.63020782,Mobile,School,1
+172.217.12.206-10.42.0.211-443-35441-6,Female,21,The Killer Angels,Michael Shaara,33.6033479,-88.64456609,Mobile,University,0
+172.217.3.112-10.42.0.151-443-34768-6,Female,17,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,41.94985052,-84.99658115,Computer,School,0
+10.42.0.211-10.42.0.1-44820-53-17,Female,19,The Five People You Meet In Heaven,Mitch Albom,33.72415478,-88.94747022,Mobile,College,0
+216.58.219.202-10.42.0.151-443-47455-6,Female,17,The Master and Margarita,Mikhail Bulgakov,33.5919222,-88.65421053,Mobile,School,1
+10.42.0.151-112.80.248.187-50053-80-6,Male,17,"Winesburg, Ohio",Sherwood Anderson,33.62995566,-88.66181104,Mobile,School,0
+174.35.73.174-10.42.0.211-80-35224-6,Male,17,"""P"" Is for Peril",Sue Grafton,31.85156838,-90.38688352,Mobile,School,1
+10.42.0.211-10.42.0.1-64255-53-17,Male,17,My Sister's Keeper,Jodi Picoult,33.49677516,-90.19131478,Mobile,School,0
+151.101.118.2-10.42.0.42-443-52260-6,Male,17,Barnaby Rudge,Charles Dickens,33.46874165,-88.5329953,Mobile,School,1
+172.217.12.163-10.42.0.211-443-33652-6,Male,21,Howards End,E.M. Forster,33.47933678,-88.6384258,Mobile,University,0
+10.42.0.211-64.71.142.124-35311-80-6,Male,19,The Broker,John Grisham,32.53433719,-90.19818275,Mobile,College,1
+10.42.0.211-10.42.0.1-55232-53-17,Female,19,The Camel Club,David Baldacci,31.28146597,-90.46308824,Mobile,College,1
+10.42.0.151-14.204.144.143-39580-80-6,Female,17,The Rainbow,D.H. Lawrence,31.24413076,-90.4624315,Mobile,School,0
+10.42.0.42-121.12.98.62-36298-80-6,Female,17,The Man In the Iron Mask,Alexandre Dumas,32.93541829,-117.0955736,Mobile,School,1
+172.217.10.10-10.42.0.211-443-33897-6,Female,17,Mary Poppins,P.L. Travers,37.3440606,-121.8523482,Mobile,School,0
+172.217.3.110-10.42.0.42-443-39708-6,Male,21,Artemis Fowl,Eoin Colfer,37.32157779,-121.8866069,Mobile,University,0
+10.42.0.151-10.42.0.1-8643-53-17,Male,21,Dear John,Nicholas Sparks,43.14133174,-93.39338534,Computer,University,1
+10.42.0.211-54.192.38.18-60878-443-6,Female,21,Cold Mountain,Charles Frazier,38.8017356,-82.26924347,Mobile,University,1
+175.100.207.231-10.42.0.151-80-33050-6,Female,17,Flowers for Algernon,Daniel Keyes,43.12533873,-93.47680179,Mobile,School,0
+10.42.0.211-10.42.0.1-2162-53-17,Male,19,The Dark Is Rising,Susan Cooper,43.12426891,-93.47833041,Mobile,College,1
+10.42.0.211-23.23.207.243-59426-443-6,Female,21,Resurrection,Leo Tolstoy,41.62218049,-91.51304906,Mobile,University,0
+10.42.0.211-52.26.183.201-37035-443-6,Female,17,Fearless Fourteen,Janet Evanovich,42.81840644,-95.80306947,Computer,School,1
+192.229.173.173-10.42.0.211-443-50037-6,Male,17,A Sentimental Journey Through France and Italy,Laurence Sterne,41.58324865,-93.86828774,Mobile,School,0
+10.42.0.211-23.194.140.226-48032-80-6,Female,21,The King of Torts,John Grisham,43.59283246,-116.4053302,Mobile,University,1
+182.22.120.252-10.42.0.151-443-43856-6,Female,17,The Graveyard Book,Neil Gaiman,33.75616115,-87.05498007,Computer,School,0
+172.217.10.74-10.42.0.151-443-54044-6,Male,17,The Quiet American,Graham Greene,34.00376015,-88.75483431,Mobile,School,0
+10.42.0.211-64.71.142.125-60580-443-6,Female,21,The Chamber,John Grisham,33.20977977,-87.13771175,Mobile,University,0
+183.136.237.235-10.42.0.211-80-42976-6,Female,17,The English Patient,Michael Ondaatje,34.52333685,-89.94532146,Mobile,School,0
+182.22.120.234-10.42.0.151-443-58699-6,Female,19,Snow Falling on Cedars,David Guterson,31.29475646,-90.43671396,Computer,College,0
+10.42.0.151-54.230.38.181-53568-80-6,Female,21,The Long Winter,Laura Ingalls Wilder,34.25394789,-89.02161365,Mobile,University,1
+10.42.0.211-113.108.216.233-42254-80-6,Male,17,"Sarah, Plain and Tall",Patricia MacLachlan,38.65990011,-90.28002422,Mobile,School,1
+172.217.12.202-10.42.0.211-443-33707-6,Female,17,Cross Country,James Patterson,37.06559585,-94.54246042,Mobile,School,0
+10.42.0.42-87.240.165.91-49023-80-6,Male,17,The Spy Who Came In from the Cold,John Le CarrÇ,38.60799444,-90.22333828,Mobile,School,0
+10.42.0.211-104.193.88.109-35300-80-6,Female,21,A Game of Thrones,George R.R. Martin,39.04835536,-94.58342063,Mobile,University,0
+172.217.11.14-10.42.0.211-443-33680-6,Male,21,The Thorn Birds,Colleen McCullough,38.46413491,-93.62570828,Mobile,University,1
+172.217.10.234-10.42.0.42-443-47299-6,Female,17,Old Yeller,Fred Gipson,39.5905102,-104.9706248,Mobile,School,1
+172.217.10.138-10.42.0.151-443-45248-6,Male,17,"Ramona Quimby, Age 8",Beverly Cleary,36.46345824,-82.86660038,Mobile,School,1
+10.42.0.42-108.174.10.10-46775-443-6,Male,21,Death In Venice,Thomas Mann,45.86162142,-108.9296957,Computer,University,1
+192.229.173.173-10.42.0.151-443-35041-6,Male,17,By the Shores of Silver Lake,Laura Ingalls Wilder,42.11334844,-96.35518786,Computer,School,1
+8.43.72.27-10.42.0.211-443-47486-6,Male,21,Inferno,Dan Brown,43.64610097,-116.561896,Mobile,University,0
+10.42.0.211-112.80.248.187-33111-80-6,Female,21,Schindler's List,Thomas Keneally,43.48904114,-112.0368529,Computer,University,1
+183.79.248.252-10.42.0.211-443-55924-6,Female,19,Jonathan Livingston Seagull,Richard Bach,43.55744903,-116.3459412,Mobile,College,0
+10.42.0.211-23.206.125.17-54387-80-6,Male,19,The Stand,Stephen King,36.58884272,-94.77535396,Mobile,College,0
+180.149.138.210-10.42.0.211-80-36047-6,Male,19,The Last Juror,John Grisham,43.58356119,-116.4050292,Mobile,College,0
+10.42.0.1-10.42.0.42-53-33054-17,Male,17,Shiloh,Phyllis Reynolds Naylor,42.57531841,-114.4386829,Mobile,School,1
+10.42.0.211-125.39.133.40-57493-80-6,Male,19,Girl With a Pearl Earring,Tracy Chevalier,40.5315694,-90.07680914,Computer,College,0
+10.42.0.151-65.52.108.74-60281-443-6,Male,17,The Murder of Roger Ackroyd,Agatha Christie,38.29306769,-88.90283252,Mobile,School,1
+10.42.0.1-10.42.0.42-53-10941-17,Female,21,It,Stephen King,37.16170783,-88.73899225,Mobile,University,0
+151.101.22.2-10.42.0.151-443-47429-6,Male,21,The Rainmaker,John Grisham,40.55827874,-90.02387614,Mobile,University,1
+172.217.10.106-10.42.0.211-443-58335-6,Male,17,The Poisonwood Bible,Barbara Kingsolver,41.79097942,-88.35066085,Mobile,School,0
+10.42.0.151-104.208.28.54-54804-443-6,Male,21,The Indian in the Cupboard,Lynne Reid Banks,44.47139729,-73.16545439,Mobile,University,1
+220.243.235.201-10.42.0.211-80-54554-6,Female,21,The Maltese Falcon,Dashiell Hammett,38.82675706,-90.68648498,Mobile,University,1
+172.217.3.99-10.42.0.151-443-51552-6,Male,21,The Warden,Anthony Trollope,37.385025,-89.63939529,Mobile,University,0
+10.42.0.42-59.38.112.48-46199-443-6,Male,17,The Summons,John Grisham,38.54579823,-90.39848935,Computer,School,1
+183.79.17.104-10.42.0.42-443-50382-6,Male,17,Encyclopedia Brown: Boy Detective,Donald J. Sobol,28.03416395,-80.61614214,Mobile,School,0
+172.217.10.130-10.42.0.211-443-38204-6,Female,19,The Time Traveler's Wife,Audrey Niffenegger,38.61913283,-90.23706713,Mobile,College,0
+10.42.0.151-103.235.46.212-50769-443-6,Male,19,The Incredible Journey,Sheila Burnford,28.24821919,-80.73664051,Mobile,College,1
+10.42.0.211-10.42.0.1-3264-53-17,Male,17,Daughter of Fortune,Isabel Allende,38.83135844,-91.04448027,Mobile,School,1
+172.217.6.206-10.42.0.211-443-47222-6,Female,17,Shirley,Charlotte Brontâ,45.86123928,-95.39576834,Mobile,School,0
+220.243.237.154-10.42.0.211-80-44910-6,Female,19,"Bud, Not Buddy",Christopher Paul Curtis,45.38268038,-92.86814292,Mobile,College,1
+172.217.12.206-10.42.0.151-443-50331-6,Female,17,The Horse Whisperer,Nicholas Evans,44.90105617,-93.42132486,Mobile,School,0
+172.217.12.206-10.42.0.211-443-39127-6,Male,21,The Street Lawyer,John Grisham,45.05368513,-93.38655424,Mobile,University,1
+131.253.61.64-10.42.0.151-443-50175-6,Male,21,Nausea,Jean-Paul Sartre,41.36579203,-72.21223981,Mobile,University,0
+10.42.0.211-10.42.0.1-39527-53-17,Female,17,To Have and Have Not,Ernest Hemingway,32.67475884,-95.70675362,Mobile,School,1
+172.217.11.10-10.42.0.211-443-54138-6,Female,21,The Bridges of Madison County,Robert James Waller,41.80175948,-89.9666657,Mobile,University,0
+205.185.216.10-10.42.0.211-80-40604-6,Male,19,Anne of the Island,L.M. Montgomery,39.99733886,-89.60287256,Mobile,College,0
+10.42.0.211-66.198.24.243-45434-80-6,Female,17,The Winter of Our Discontent,John Steinbeck,38.90952581,-90.06122838,Mobile,School,0
+10.42.0.151-115.239.210.141-40863-443-6,Male,17,The Shining,Stephen King,38.32413118,-88.74495786,Mobile,School,0
+202.77.129.150-10.42.0.211-80-35163-6,Female,21,The Tenant of Wildfell Hall,Anne Brontâ,39.97018873,-87.82272791,Mobile,University,0
+172.217.12.170-10.42.0.151-443-49523-6,Female,21,First Family,David Baldacci,39.97017413,-87.82270951,Mobile,University,1
+10.42.0.42-52.84.29.55-32882-443-6,Female,21,The Partner,John Grisham,40.06626683,-87.70837685,Mobile,University,1
+172.217.12.195-10.42.0.42-443-47288-6,Male,19,The Girl on the Train,Paula Hawkins,38.50929852,-89.97851733,Mobile,College,0
+10.42.0.151-119.146.74.33-41898-443-6,Female,21,The Black Arrow: A Tale of the Two Roses,Robert Louis Stevenson,41.7355125,-87.81950497,Mobile,University,0
+182.22.31.124-10.42.0.211-443-57818-6,Male,21,The Rise of Silas Lapham,William Dea Howells,41.88835023,-87.75570267,Mobile,University,0
+221.228.208.97-10.42.0.211-80-60434-6,Female,17,The Choice,Nicholas Sparks,38.54928056,-90.05634943,Mobile,School,1
+10.42.0.151-64.71.142.95-43879-443-6,Female,17,The Virginian: A Horseman of the Plains,Owen Wister,42.41912896,-88.62182123,Mobile,School,1
+175.100.207.232-10.42.0.42-80-40335-6,Female,17,A Walk to Remember,Nicholas Sparks,35.12778685,-78.89936643,Mobile,School,1
+172.217.11.2-10.42.0.211-443-34919-6,Male,17,The Maze Runner,James Dashner,40.08878694,-91.29040835,Mobile,School,1
+131.253.61.80-10.42.0.211-443-56829-6,Female,21,The Westing Game,Ellen Raskin,39.32043466,-88.45978088,Mobile,University,1
+219.142.78.162-10.42.0.211-80-49251-6,Male,17,Misty of Chincoteague,Marguerite Henry,41.52184744,-88.01517886,Mobile,School,0
+202.77.129.150-10.42.0.42-80-60115-6,Male,17,Diary of a Wimpy Kid: The Last Straw,Jeff Kinney,45.00623532,-123.0397118,Mobile,School,1
+183.232.118.20-10.42.0.211-80-60097-6,Male,17,King Solomon's Mines,H. Rider Haggard,41.2955544,-89.50934063,Computer,School,0
+203.205.191.25-10.42.0.151-80-54167-6,Male,17,The Princess of Cleves,Madame de (Marie-Madeleine Pioche de La Vergne) La Fayett,38.51572939,-89.98720552,Mobile,School,0
+192.229.163.180-10.42.0.151-443-39531-6,Female,21,Jacob Have I Loved,Katherine Paterson,39.82596982,-86.09910854,Mobile,University,0
+180.149.138.210-10.42.0.211-80-40559-6,Female,19,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,40.04857778,-86.00262093,Mobile,College,1
+10.42.0.151-10.42.0.1-55591-53-17,Male,21,Misery,Stephen King,39.0741916,-87.27176239,Computer,University,0
+10.42.0.211-10.42.0.1-6370-53-17,Female,17,The Cider House Rules,John Irving,39.76648603,-86.21205744,Mobile,School,1
+172.217.12.205-10.42.0.151-443-44810-6,Female,21,King of the Wind,Marguerite Henry,39.74202658,-85.42917955,Mobile,University,0
+10.42.0.211-77.234.44.201-35650-80-6,Male,21,The Once and Future King,T. H. White,41.68107487,-86.28812315,Tab,University,1
+10.42.0.42-119.146.74.34-50461-80-6,Female,21,The Witches,Roald Dahl,39.77725837,-86.1545962,Mobile,University,0
+162.208.22.39-10.42.0.211-443-57667-6,Female,19,The Subtle Knife,Philip Pullman,40.41087021,-86.87244604,Mobile,College,1
+10.42.0.151-10.42.0.1-63271-53-17,Male,17,When You Reach Me,Rebecca Stead,38.94741297,-84.86093038,Mobile,School,1
+10.42.0.211-114.134.80.163-36890-443-6,Female,21,Carrie,Stephen King,37.83444308,-87.58340691,Mobile,University,0
+10.42.0.211-64.71.142.95-47104-443-6,Male,17,The Moon and Sixpence,W. Somerset Maugham,38.9635503,-87.4019845,Mobile,School,1
+10.42.0.211-23.206.162.129-41617-80-6,Male,21,The Higher Power of Lucky,Susan Patron,37.348768,-83.47396044,Mobile,University,1
+10.42.0.211-123.125.29.138-56162-80-6,Female,21,"Looking Backward, 2000-1887",Edward Bellamy,30.5152936,-91.13775857,Mobile,University,1
+172.217.12.176-10.42.0.151-443-35358-6,Female,21,The Wings of the Dove,Henry James,29.92463727,-90.1024021,Mobile,University,0
+10.42.0.211-123.125.29.220-57843-80-6,Female,21,The Summer of the Swans,Betsy Cromer Byars,29.96329723,-90.07909734,Mobile,University,1
+180.163.251.231-10.42.0.211-80-34507-6,Male,17,Dangerous Liaisons,Choderlos de Laclos,30.47638677,-91.15382173,Mobile,School,0
+172.217.11.35-10.42.0.151-443-39503-6,Male,17,Jurassic Park,Michael Crichton,29.96563036,-90.03694303,Mobile,School,1
+10.42.0.211-104.192.110.245-46181-443-6,Female,21,The Absolutely True Diary of a Part-time Indian,Sherman Alexie,30.1872391,-93.17648136,Mobile,University,0
+10.42.0.211-123.125.115.164-40316-443-6,Male,17,The Grey King,Susan Cooper,29.93631128,-90.08372232,Mobile,School,1
+172.217.10.74-10.42.0.42-443-49166-6,Male,21,The Leopard,Giuseppe Tomasi di Lampedusa,30.16322017,-81.74552747,Mobile,University,0
+10.42.0.151-54.239.26.255-58404-443-6,Female,17,The Mammoth Hunters,Jean M. Auel,37.00710274,-86.45494892,Mobile,School,0
+10.42.0.42-52.40.87.241-36871-443-6,Female,19,The Trumpet of the Swan,E.B. White,26.44177575,-81.45922153,Computer,College,0
+10.42.0.211-23.205.20.233-41205-80-6,Male,17,The Lucky One,Nicholas Sparks,48.59436903,-93.42677084,Mobile,School,0
+10.42.0.211-106.39.162.36-54466-80-6,Male,19,These Happy Golden Years,Laura Ingalls Wilder,45.04660456,-93.30771894,Mobile,College,0
+10.42.0.151-31.13.80.5-52254-443-6,Male,19,Arrowsmith,Sinclair Lewis,25.81254785,-80.27440814,Mobile,College,1
+10.42.0.211-106.11.135.2-54385-80-6,Female,19,Julie of the Wolves,Jean Craighead George,40.83789706,-73.86579862,Mobile,College,1
+172.217.12.195-10.42.0.151-443-55355-6,Female,21,The Screwtape Letters,C.S. Lewis,45.30019281,-93.78168363,Mobile,University,0
+10.42.0.211-58.63.236.212-38725-443-6,Male,17,The Fall,Albert Camus,25.82148113,-80.28637386,Computer,School,0
+10.42.0.211-10.42.0.1-4227-53-17,Male,21,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,36.15686861,-94.08733252,Mobile,University,0
+10.42.0.151-10.42.0.1-1958-53-17,Female,17,Worst Case,James Patterson,44.96837781,-93.15732667,Computer,School,1
+10.42.0.211-54.239.17.112-37996-443-6,Male,19,Lost Horizon,James Hilton,26.21009673,-81.5468776,Mobile,College,1
+180.149.134.221-10.42.0.211-80-41338-6,Male,21,The Gunslinger,Stephen King,30.37448889,-81.71934939,Mobile,University,1
+10.42.0.211-91.190.219.45-44023-12350-6,Female,21,The Slave Dancer,Paula Fox,27.42866746,-82.39460412,Mobile,University,1
+10.42.0.211-10.42.0.1-53499-53-17,Male,19,Harry Potter and the Half-Blood Prince,J.K. Rowling,29.98114085,-90.08695846,Mobile,College,1
+10.42.0.211-10.42.0.1-53799-53-17,Female,17,Inkheart,Cornelia Funke,27.29425267,-80.81979463,Mobile,School,0
+172.217.10.72-10.42.0.42-443-56621-6,Female,17,Ramona and her Father,Beverly Cleary,29.30120301,-82.19416517,Mobile,School,1
+10.42.0.1-10.42.0.42-53-40785-17,Male,19,Inkspell,Cornelia Funke,29.97055987,-90.1244759,Computer,College,0
+151.101.117.140-10.42.0.211-443-45529-6,Male,17,Ramona the Pest,Beverly Cleary,29.99472166,-90.03410236,Tab,School,0
+10.42.0.1-10.42.0.42-53-65087-17,Female,19,Walk Two Moons,Sharon Creech,30.26640322,-91.25410886,Mobile,College,0
+10.42.0.211-54.235.202.23-35685-443-6,Male,21,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,30.54104535,-91.19471577,Mobile,University,1
+10.42.0.211-125.39.133.40-51263-80-6,Male,21,The Chocolate War,Robert Cormier,29.97894652,-90.10580252,Mobile,University,0
+202.77.129.150-10.42.0.211-80-49358-6,Female,21,Sophie's Choice,William Styron,29.92325877,-90.08504619,Mobile,University,1
+10.42.0.211-123.125.29.220-46133-80-6,Male,19,Looking for Alaska,John Green,28.37632636,-82.54942564,Mobile,College,0
+10.42.0.42-111.221.77.175-46360-40028-17,Male,17,Breakfast at Tiffany's,Truman Capote,44.95495676,-92.92920648,Mobile,School,1
+172.217.10.74-10.42.0.211-443-46090-6,Male,17,The Razor's Edge,W. Somerset Maugham,44.62161119,-93.77023249,Mobile,School,0
+172.217.10.106-10.42.0.151-443-34138-6,Male,17,Dreamcatcher,Stephen King,46.29049226,-96.06467511,Computer,School,1
+10.42.0.42-74.125.202.188-33637-5228-6,Male,19,Orlando,Virginia Woolf,45.13282031,-94.52284053,Mobile,College,1
+10.42.0.211-98.139.180.180-53669-443-6,Male,17,The Things they Carried,Tim O'Brien,43.66158602,-96.2161232,Mobile,School,0
+172.217.10.35-10.42.0.211-443-36075-6,Female,17,Little Town on the Prairie,Laura Ingalls Wilder,26.76924722,-80.1073169,Computer,School,1
+172.217.3.106-10.42.0.151-443-40714-6,Male,17,Nights in Rodanthe,Nicholas Sparks,30.27012429,-92.0294819,Mobile,School,0
+10.42.0.151-72.21.207.148-60103-443-6,Female,17,The Amber Spyglass,Philip Pullman,30.09577285,-92.00585325,Computer,School,0
+10.42.0.151-66.231.239.124-47217-443-6,Male,17,The Miraculous Journey of Edward Tulane,Kate DiCamillo,29.94813246,-90.04874074,Mobile,School,1
+10.42.0.211-10.42.0.1-36742-53-17,Male,17,Flatland,Edwin A. Abbott,30.02666578,-89.97429435,Mobile,School,1
+180.76.174.197-10.42.0.211-80-52228-6,Female,17,Diary of a Wimpy Kid,Jeff Kinney,18.281434,-67.13686001,Mobile,School,0
+10.42.0.42-125.211.204.209-45251-80-6,Female,19,The Memory Keeper's Daughter,Kim Edwards,18.42666267,-67.15520465,Computer,College,1
+10.42.0.211-104.192.108.27-41985-80-6,Female,19,The Wedding,Nicholas Sparks,39.31362704,-77.46975227,Mobile,College,0
+10.42.0.211-10.42.0.1-51784-53-17,Female,17,Fried Green Tomatoes at the Whistle-Stop Cafe,Fannie Flagg,42.18499271,-112.2438209,Mobile,School,1
+10.42.0.151-10.42.0.1-47037-53-17,Male,17,The Cricket in Times Square,George Selden,39.22649626,-76.81274756,Mobile,School,0
+172.217.11.10-10.42.0.211-443-33085-6,Male,17,The Phantom Tollbooth,Norton Juster,43.04585791,-84.38868368,Mobile,School,1
+10.42.0.211-10.42.0.1-21459-53-17,Male,17,Rob Roy,Walter Scott,44.97569913,-93.27745014,Mobile,School,0
+10.42.0.151-10.42.0.1-3445-53-17,Female,19,The Death of Ivan Ilych,Leo Tolstoy,45.03444941,-93.30537086,Mobile,College,0
+10.42.0.42-123.125.29.220-48864-80-6,Female,21,Alex Cross's Trial,James Patterson,44.96192673,-93.24608746,Mobile,University,0
+10.42.0.211-64.71.142.96-38238-443-6,Female,19,Kenilworth,Walter Scott,45.02859798,-93.01636362,Mobile,College,0
+180.149.136.194-10.42.0.211-80-50585-6,Female,17,The Life and Opinions of Tristram Shandy,Laurence Sterne,43.41123687,-88.16375827,Mobile,School,0
+10.42.0.211-103.7.30.118-35226-80-6,Female,17,The Remains of theDay,Kazuo Ishiguro,46.84863572,-96.72311199,Computer,School,1
+182.22.24.252-10.42.0.151-443-38568-6,Female,17,"M.C. Higgins, The Great",Virginia Hamilton,44.74995281,-93.45157535,Computer,School,1
+172.217.10.110-10.42.0.151-443-53942-6,Female,19,Go Set a Watchman,Harper Lee,41.6676758,-85.96855331,Computer,College,0
+10.42.0.151-23.208.31.187-37957-80-6,Female,21,Bleachers,John Grisham,35.03408639,-79.0671077,Mobile,University,0
+10.42.0.151-123.125.115.190-35101-80-6,Female,17,Elijah of Buxton,Christopher Paul Curtis,44.0740893,-88.29790387,Mobile,School,0
+10.42.0.211-66.102.255.61-35485-443-6,Female,21,Swimsuit,James Patterson,43.6689666,-92.97914409,Mobile,University,1
+10.42.0.42-108.174.11.1-38710-80-6,Female,17,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,41.87670535,-73.34134749,Mobile,School,1
+10.42.0.211-10.42.0.1-10388-53-17,Male,17,The Hunchback of Notre Dame,Victor Hugo,41.64532795,-83.47613438,Mobile,School,1
+10.42.0.211-115.239.210.141-50523-443-6,Female,17,Pinocchio,Carlo Collodi,38.28220504,-121.9620413,Tab,School,1
+172.217.10.131-10.42.0.42-443-35126-6,Male,17,One Hundred Years of Solitude,Gabriel Garc°a M†rquez,32.35151041,-90.87384402,Computer,School,1
+10.42.0.211-104.192.110.245-53237-443-6,Male,19,Ivanhoe,Walter Scott,34.60793979,-98.09335728,Computer,College,0
+10.42.0.211-77.234.44.199-57177-80-6,Female,19,The Red Badge of Courage,Stephen Crane,42.75004275,-71.42409195,Mobile,College,1
+202.77.129.161-10.42.0.211-80-56044-6,Female,17,Anne of Green Gables,L.M. Montgomery,41.76108246,-72.69116193,Mobile,School,0
+10.42.0.211-119.146.74.31-58754-443-6,Female,19,Black Beauty,Anna Sewell,41.80400419,-72.7047234,Mobile,College,0
+10.42.0.211-36.110.213.174-57684-443-6,Female,21,Peter Pan,J.M. Barrie,41.79532894,-72.68261973,Mobile,University,0
+10.42.0.151-10.42.0.1-6781-53-17,Male,21,A Farewell to Arms,Ernest Hemingway,41.67286118,-72.76023499,Mobile,University,1
+10.42.0.211-23.206.173.182-34057-80-6,Female,21,The House of the Seven Gables,Nathaniel Hawthorne,35.94165544,-77.80112826,Mobile,University,0
+172.217.6.238-10.42.0.151-443-46281-6,Female,21,Lord of the Flies,William Golding,36.13583348,-81.18444413,Mobile,University,1
+151.101.1.134-10.42.0.151-443-35333-6,Female,21,The Prince and the Pauper,Mark Twain,34.16697131,-81.27330617,Mobile,University,0
+10.42.0.1-10.42.0.42-53-11034-17,Male,21,A Portrait of the Artist as a Young Man,James Joyce,43.0624362,-75.88632415,Mobile,University,1
+10.42.0.211-119.146.74.33-46477-443-6,Male,17,Lord Jim,Joseph Conrad,41.79530334,-72.68260101,Mobile,School,0
+182.22.24.124-10.42.0.151-443-43944-6,Male,17,Harry Potter and the Chamber of Secrets,J.K. Rowling,41.66540806,-72.76161541,Mobile,School,1
+172.217.12.206-10.42.0.211-80-52303-6,Female,19,The Red & the Black,Stendhal,41.35031925,-72.21351976,Mobile,College,1
+10.42.0.211-77.234.44.79-49130-443-6,Female,19,The Stranger,Albert Camus,41.50999752,-72.11201942,Tab,College,0
+172.217.10.3-10.42.0.211-443-39660-6,Female,19,The Trial,Franz Kafka,41.33876111,-73.51278007,Mobile,College,1
+10.42.0.42-69.147.82.61-58917-443-6,Male,21,Lady Chatterley's Lover,D.H. Lawrence,43.96586594,-89.80262032,Mobile,University,0
+140.205.134.25-10.42.0.151-443-38414-6,Female,17,Kidnapped: The Adventures of David Balfour,Robert Louis Stevenson,35.81484005,-94.63375199,Computer,School,0
+10.42.0.151-10.42.0.1-10258-53-17,Male,19,The Catcher in the Rye,J.D. Salinger,38.37921516,-81.81244265,Computer,College,1
+10.42.0.151-123.125.46.11-46458-80-6,Female,19,A Journey to the Center of the Earth,Jules Verne,47.42208082,-120.3151113,Mobile,College,1
+140.205.134.25-10.42.0.211-443-52740-6,Female,17,Vanity Fair,William Makepeace Thackeray,46.55058178,-120.3818783,Mobile,School,0
+220.243.219.55-10.42.0.211-80-56697-6,Male,17,All Quiet on the Western Front,Erich Maria Remarque,41.81907548,-73.0932374,Mobile,School,1
+172.217.9.238-10.42.0.42-443-60602-6,Female,17,Gone with the Wind,Margaret Mitchell,41.30433837,-73.16992996,Mobile,School,0
+180.149.135.239-10.42.0.211-80-35690-6,Male,21,My ?ntonia,Willa Cather,41.55615514,-73.01981355,Mobile,University,1
+10.42.0.151-66.231.239.125-52625-443-6,Male,17,Of Mice and Men,John Steinbeck,41.57321374,-73.08477215,Computer,School,0
+172.217.11.46-10.42.0.211-443-34740-6,Female,19,The Vicar of Wakefield,Oliver Goldsmith,41.54563866,-72.98199805,Mobile,College,1
+10.42.0.42-64.71.142.120-52444-80-6,Male,21,A Connecticut Yankee in King Arthur's Court,Mark Twain,41.45684682,-81.77899028,Mobile,University,0
+198.11.136.24-10.42.0.211-443-38890-6,Female,21,White Fang,Jack London,47.61402658,-119.2936906,Mobile,University,0
+157.240.2.35-10.42.0.211-443-55045-6,Male,17,Fathers and Sons,Ivan Sergeevich Turgenev,47.50042934,-122.3454809,Mobile,School,0
+198.105.244.11-10.42.0.42-80-59817-6,Male,21,Doctor Zhivago,Boris Leonidovich Pasternak,45.61054389,-122.4409166,Mobile,University,0
+10.42.0.151-10.42.0.1-38637-53-17,Female,17,The Decameron,Giovanni Boccaccio,35.1433219,-80.92181761,Mobile,School,0
+172.217.6.237-10.42.0.151-443-53196-6,Female,21,Nineteen Eighty-Four,George Orwell,35.07970921,-80.65501541,Mobile,University,1
+10.42.0.211-103.235.46.212-46483-443-6,Female,17,The Jungle,Upton Sinclair,39.76241114,-81.1300034,Mobile,School,1
+10.42.0.151-10.42.0.1-9628-53-17,Female,17,The Da Vinci Code,Dan Brown,33.17083336,-80.04552759,Computer,School,0
+157.240.2.35-10.42.0.151-443-34556-6,Female,21,Persuasion,Jane Austen,36.06226011,-119.3094499,Mobile,University,0
+172.217.10.238-10.42.0.151-80-35227-6,Female,17,Mansfield Park,Jane Austen,41.50330942,-81.98949107,Mobile,School,0
+174.35.73.78-10.42.0.42-80-33386-6,Male,21,Candide,Voltaire,39.33252858,-91.19659426,Tab,University,1
+10.42.0.211-72.21.206.53-50702-443-6,Male,21,For Whom the Bell Tolls,Ernest Hemingway,18.19736565,-66.79338136,Mobile,University,1
+172.217.6.234-10.42.0.211-443-50174-6,Male,19,Far from the Madding Crowd,Thomas Hardy,35.72992889,-79.45949991,Mobile,College,1
+10.42.0.42-14.29.93.254-59408-80-6,Female,21,The Fellowship of the Ring,J.R.R. Tolkien,35.12651823,-81.10012374,Mobile,University,1
+202.77.129.146-10.42.0.151-80-36578-6,Male,21,The Return of the Native,Thomas Hardy,32.96335796,-80.04900723,Mobile,University,1
+10.42.0.151-10.42.0.1-35383-53-17,Male,21,Sons and Lovers,D.H. Lawrence,37.49555857,-77.65278518,Mobile,University,0
+10.42.0.211-52.84.29.154-57116-443-6,Female,19,Charlotte's Web,E.B. White,36.80241158,-76.2373196,Mobile,College,1
+10.42.0.151-10.42.0.1-13864-53-17,Male,21,The Swiss Family Robinson,Johann David Wyss,41.09565772,-111.9940788,Mobile,University,0
+10.42.0.151-98.139.199.205-50099-443-6,Male,17,Bleak House,Charles Dickens,18.35602266,-66.12453095,Mobile,School,0
+10.42.0.211-10.42.0.1-40839-53-17,Female,21,Päre Goriot,HonorÇ de Balzac,47.77702568,-122.1899234,Mobile,University,0
+172.217.12.194-10.42.0.211-443-44450-6,Female,17,Utopia,Thomas More,48.86009206,-122.6005919,Mobile,School,1
+173.194.175.138-10.42.0.151-443-59887-6,Male,17,"The History of Tom Jones, a Foundling",Henry Fielding,41.70486214,-111.7991629,Mobile,School,0
+217.69.133.145-10.42.0.151-443-54650-6,Male,17,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,41.23399846,-81.32536473,Mobile,School,1
+183.232.118.20-10.42.0.211-80-51569-6,Female,17,Kim,Rudyard Kipling,36.80991644,-100.5256223,Mobile,School,0
+172.217.6.195-10.42.0.211-443-56717-6,Male,19,The Sound and the Fury,William Faulkner,40.50718816,-111.9603167,Mobile,College,1
+174.35.73.148-10.42.0.42-80-47178-6,Male,21,Harry Potter and the Goblet of Fire,J.K. Rowling,41.04545279,-111.9916671,Mobile,University,0
+10.42.0.211-119.146.74.34-47825-80-6,Female,19,The Mill on the Floss,George Eliot,41.05962336,-111.9728709,Mobile,College,1
+172.217.10.40-10.42.0.211-443-51176-6,Female,17,A Wrinkle in Time,Madeleine L'Engle,46.19754936,-119.2059685,Mobile,School,1
+10.42.0.211-77.234.44.200-49222-80-6,Male,17,The Hound of the Baskervilles,Arthur Conan Doyle,46.98315604,-122.9046792,Mobile,School,0
+10.42.0.211-104.192.110.245-53242-443-6,Female,17,The Two Towers,J.R.R. Tolkien,30.41879317,-97.74167536,Mobile,School,1
+172.217.10.106-10.42.0.42-443-53205-6,Male,19,The War of the Worlds,H.G. Wells,33.90207507,-118.1533713,Mobile,College,0
+10.42.0.151-111.221.77.173-43477-40010-17,Male,17,Middlemarch,George Eliot,41.7872066,-73.69292632,Mobile,School,0
+172.217.10.46-10.42.0.151-443-55531-6,Male,21,The Age of Innocence,Edith Wharton,46.03369766,-99.38064465,Mobile,University,1
+203.130.53.126-10.42.0.211-80-52261-6,Male,21,The Color Purple,Alice Walker,35.47166706,-86.09514652,Mobile,University,1
+10.42.0.211-36.110.213.174-55987-443-6,Female,17,Northanger Abbey,Jane Austen,39.38083373,-79.77130401,Mobile,School,0
+10.42.0.211-64.71.142.95-53808-443-6,Male,19,East of Eden,John Steinbeck,43.76823474,-88.44989611,Tab,College,1
+172.217.12.130-10.42.0.211-443-44096-6,Male,21,On the Road,Jack Kerouac,42.72649556,-87.83698081,Mobile,University,0
+203.205.179.172-10.42.0.211-80-40197-6,Female,17,Catch-22,Joseph Heller,42.9037517,-87.94299027,Mobile,School,1
+10.42.0.211-10.42.0.1-29935-53-17,Female,21,Around the World in Eighty Days,Jules Verne,44.25302361,-91.49528526,Mobile,University,0
+10.42.0.211-120.76.223.181-58745-83-6,Male,19,Hard Times,Charles Dickens,29.42446582,-98.54008291,Mobile,College,1
+151.101.45.140-10.42.0.211-443-48544-6,Female,21,Beloved,Toni Morrison,32.93518999,-96.36613352,Mobile,University,0
+183.57.48.84-10.42.0.151-80-42112-6,Male,19,Mrs. Dalloway,Virginia Woolf,30.51117713,-97.69703976,Mobile,College,0
+10.42.0.211-67.129.144.48-52728-80-6,Female,21,To the Lighthouse,Virginia Woolf,30.51090008,-97.69716604,Mobile,University,0
+10.42.0.211-10.42.0.1-43721-53-17,Female,19,The Magician's Nephew,C.S. Lewis,26.31744507,-98.66971609,Mobile,College,0
+174.35.73.97-10.42.0.211-80-54412-6,Male,19,Harry Potter and the Order of the Phoenix,J.K. Rowling,43.70417055,-116.6285465,Tab,College,0
+10.42.0.211-10.42.0.1-61233-53-17,Female,17,The Sun Also Rises,Ernest Hemingway,29.60082279,-98.70363757,Mobile,School,1
+10.42.0.211-36.110.213.49-51340-80-6,Male,19,The Good Earth,Pearl S. Buck,34.12116094,-101.4511,Mobile,College,1
+10.42.0.211-31.13.73.3-47990-443-6,Male,17,Silas Marner,George Eliot,30.71018891,-94.94143286,Mobile,School,0
+10.42.0.211-64.71.142.120-50831-443-6,Male,21,Love in the Time of Cholera,Gabriel Garc°a M†rquez,30.34583796,-94.18521449,Mobile,University,0
+172.217.6.206-10.42.0.42-80-48122-6,Male,21,Rebecca,Daphne Du Maurier,30.03392219,-90.0154491,Mobile,University,0
+10.42.0.151-52.84.61.117-47225-443-6,Female,19,Jude the Obscure,Thomas Hardy,29.97175048,-90.10417536,Mobile,College,1
+10.42.0.211-10.42.0.1-51819-53-17,Female,21,Twilight,Stephenie Meyer,32.63588375,-93.72560571,Mobile,University,1
+192.229.173.136-10.42.0.151-443-43154-6,Female,21,A Passage to India,E.M. Forster,30.03888575,-89.92727376,Mobile,University,1
+180.76.148.209-10.42.0.211-80-38708-6,Male,17,The Plague,Albert Camus,34.89828991,-82.07234792,Mobile,School,1
+175.100.207.232-10.42.0.211-443-60550-6,Male,17,Nicholas Nickleby,Charles Dickens,30.45295197,-97.98236905,Mobile,School,1
+221.228.208.94-10.42.0.42-80-33208-6,Female,17,The Pearl,John Steinbeck,30.48821174,-91.1488693,Mobile,School,0
+10.42.0.211-10.42.0.1-12900-53-17,Male,17,Ethan Frome,Edith Wharton,30.01904944,-90.07625503,Mobile,School,1
+220.243.219.55-10.42.0.42-80-40099-6,Male,21,The Tale of Genji,Murasaki Shikibu,30.58058543,-91.12557185,Mobile,University,0
+172.217.6.238-10.42.0.151-80-57702-6,Male,17,The Giver,Lois Lowry,42.60591723,-113.723055,Mobile,School,0
+10.42.0.211-103.235.46.212-46504-443-6,Male,17,The Alchemist,Paulo Coelho,42.06608785,-72.85458981,Mobile,School,0
+10.42.0.211-77.234.42.92-54619-443-6,Female,17,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,42.09424462,-72.57501344,Computer,School,1
+10.42.0.211-106.11.92.1-48985-443-6,Male,17,Robinson Crusoe,Daniel Defoe,41.65035125,-70.31700092,Mobile,School,0
+202.77.129.185-10.42.0.211-80-36092-6,Male,21,Tender is the Night,F. Scott Fitzgerald,42.56332547,-70.89006449,Mobile,University,1
+10.42.0.1-10.42.0.42-53-65089-17,Male,19,The Idiot,Fyodor Dostoyevsky,42.28275565,-71.1192787,Mobile,College,0
+202.77.129.150-10.42.0.151-80-58283-6,Male,21,Hatchet,Gary Paulsen,32.20852819,-98.67583457,Computer,University,1
+172.217.10.238-10.42.0.211-443-50602-6,Male,17,The Kite Runner,Khaled Hosseini,41.71535321,-71.13167422,Mobile,School,0
+182.22.24.124-10.42.0.211-443-53913-6,Male,21,One Flew Over the Cuckoo's Nest,Ken Kesey,30.37510395,-94.33363956,Mobile,University,1
+183.79.215.136-10.42.0.42-443-34783-6,Female,21,The Portrait of a Lady,Henry James,30.01916481,-95.57251672,Tab,University,1
+10.42.0.211-10.42.0.1-48184-53-17,Male,21,The Outsiders,S.E. Hinton,42.69124792,-71.14498904,Mobile,University,0
+10.42.0.211-104.118.220.50-60572-443-6,Male,19,Ben-Hur,Lew Wallace,41.69698187,-70.50477611,Mobile,College,1
+10.42.0.151-103.235.46.211-56588-443-6,Male,17,The Mayor of Casterbridge,Thomas Hardy,32.34413958,-98.30245908,Mobile,School,0
+152.163.56.2-10.42.0.211-443-60209-6,Male,21,"Cry, The Beloved Country",Alan Paton,42.11194673,-72.5641272,Mobile,University,0
+10.42.0.151-10.42.0.1-20303-53-17,Female,17,The Last Battle,C.S. Lewis,42.1332339,-72.57389006,Mobile,School,1
+10.42.0.211-104.192.108.27-52137-80-6,Female,21,Captains Courageous,Rudyard Kipling,34.63899034,-102.7194829,Mobile,University,1
+172.217.10.3-10.42.0.151-443-36801-6,Male,21,The Metamorphosis,Franz Kafka,42.04391892,-71.86997542,Mobile,University,0
+172.217.10.4-10.42.0.151-443-58544-6,Female,21,The Magic Mountain (Der Zauberberg),Thomas Mann,44.83617574,-93.65874959,Mobile,University,1
+10.42.0.151-10.42.0.1-47335-53-17,Female,17,James and the Giant Peach,Roald Dahl,39.35542974,-76.60108099,Mobile,School,0
+10.42.0.151-10.42.0.1-50952-53-17,Male,17,The Horse and His Boy,C.S. Lewis,35.17902569,-106.5494548,Mobile,School,1
+172.217.3.106-10.42.0.211-443-38436-6,Male,21,Angels & Demons,Dan Brown,32.76516741,-97.19775818,Mobile,University,0
+10.42.0.151-10.42.0.1-19451-53-17,Male,17,The Voyage of the Dawn Treader,C.S. Lewis,42.50695231,-71.08599303,Mobile,School,1
+180.149.136.194-10.42.0.211-443-39345-6,Female,21,The Bell Jar,Sylvia Plath,42.5890144,-83.07822884,Mobile,University,0
+10.42.0.1-10.42.0.42-53-7759-17,Male,17,Women in Love,D.H. Lawrence,32.32192208,-96.64699123,Mobile,School,0
+216.58.219.238-10.42.0.42-443-57197-6,Female,19,The Yearling,Marjorie Kinnan Rawlings,40.7561588,-74.14741289,Computer,College,0
+10.42.0.211-106.11.92.1-49264-443-6,Female,17,O Pioneers!,Willa Cather,39.16770328,-77.26077028,Mobile,School,0
+222.73.28.96-10.42.0.211-80-47961-6,Female,19,The Handmaid's Tale,Margaret Atwood,39.10341645,-77.26593342,Mobile,College,0
+183.79.250.251-10.42.0.211-443-54399-6,Male,19,The Moonstone,Wilkie Collins,40.62094118,-73.91334281,Mobile,College,1
+192.229.173.173-10.42.0.211-80-39952-6,Male,19,The Old Curiosity Shop,Charles Dickens,38.1149588,-87.55163895,Mobile,College,1
+172.217.12.206-10.42.0.211-443-37249-6,Female,21,Little Dorrit,Charles Dickens,35.6232005,-86.70039887,Mobile,University,0
+180.163.255.159-10.42.0.211-443-60226-6,Male,17,Prince Caspian: The Return to Narnia,C.S. Lewis,36.31574517,-86.86794109,Computer,School,0
+10.42.0.211-10.42.0.1-7721-53-17,Male,21,Sister Carrie,Theodore Dreiser,36.19268657,-85.48652885,Mobile,University,0
+10.42.0.211-13.93.152.202-54187-443-6,Male,17,The Silver Chair,C.S. Lewis,27.78552677,-97.91328986,Computer,School,1
+208.80.154.224-10.42.0.211-443-41415-6,Female,19,The Hunger Games,Suzanne Collins,33.17722574,-94.99021232,Mobile,College,1
+172.217.11.46-10.42.0.211-443-36373-6,Female,21,This Side of Paradise,F. Scott Fitzgerald,42.42836455,-83.03048265,Mobile,University,1
+10.42.0.151-106.39.169.66-52294-80-6,Female,21,EugÇnie Grandet,HonorÇ de Balzac,32.7409423,-96.64086248,Mobile,University,1
+10.42.0.211-10.42.0.1-59903-53-17,Male,19,Of Human Bondage,W. Somerset Maugham,32.8496886,-96.70944103,Mobile,College,1
+10.42.0.211-23.206.162.129-39571-80-6,Male,17,Dream of the Red Chamber,Cao Xueqin,43.96435723,-86.2781408,Mobile,School,0
+10.42.0.1-10.42.0.42-53-39869-17,Female,17,Life of Pi,Yann Martel,42.33516303,-85.35860641,Mobile,School,1
+180.149.136.194-10.42.0.211-443-33000-6,Male,19,Harry Potter and the Deathly Hallows,J.K. Rowling,41.78247022,-72.51720349,Computer,College,0
+10.42.0.151-66.102.255.61-37352-80-6,Male,17,Invisible Man,Ralph Ellison,42.08700035,-75.92033963,Tab,School,0
+10.42.0.211-119.146.74.33-50788-443-6,Male,19,Steppenwolf,Hermann Hesse,32.77781876,-79.98145202,Mobile,College,0
+172.217.10.131-10.42.0.151-443-57607-6,Male,21,The Sorrows of Young Werther,Johann Wolfgang von Goethe,45.52819302,-122.4721991,Mobile,University,1
+10.42.0.42-64.71.142.110-44985-80-6,Male,21,Bridge to Terabithia,Katherine Paterson,31.72354692,-82.34009591,Mobile,University,0
+198.11.132.178-10.42.0.211-443-41230-6,Female,21,The Invisible Man,H.G. Wells,31.70576606,-87.77411178,Mobile,University,1
+172.217.9.238-10.42.0.211-443-33553-6,Male,19,Holes,Louis Sachar,33.32111889,-86.19743734,Mobile,College,0
+202.77.129.230-10.42.0.211-80-47955-6,Female,17,Siddhartha,Hermann Hesse,32.67371322,-115.4879245,Mobile,School,1
+10.42.0.211-64.71.142.124-38648-443-6,Male,17,A Tree Grows in Brooklyn,Betty Smith,37.63819589,-97.32108276,Mobile,School,0
+182.22.65.136-10.42.0.211-443-57981-6,Male,17,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll,37.51478368,-82.50084309,Computer,School,1
+10.42.0.42-72.30.3.43-49217-443-6,Female,19,In Cold Blood,Truman Capote,32.9581934,-93.13690156,Mobile,College,1
+180.149.153.234-10.42.0.211-80-52477-6,Male,17,The House of the Spirits,Isabel Allende,30.69215203,-92.39784835,Mobile,School,0
+10.42.0.1-10.42.0.42-53-13511-17,Female,17,Adam Bede,George Eliot,41.79495782,-72.36768926,Computer,School,1
+180.149.134.142-10.42.0.211-80-41278-6,Female,17,The Betrothed,Alessandro Manzoni,36.72726939,-79.9628125,Mobile,School,0
+172.217.10.14-10.42.0.211-443-57430-6,Male,17,The Book Thief,Markus Zusak,43.07454655,-70.9450768,Computer,School,0
+172.217.12.174-10.42.0.151-443-39157-6,Male,17,Their Eyes Were Watching God,Zora Neale Hurston,36.33391811,-94.44611951,Mobile,School,1
+172.217.12.136-10.42.0.151-443-36812-6,Female,17,One Day in the Life of Ivan Denisovich,Aleksandr Isaevich Solzhenitsyn,41.36574173,-72.212112,Mobile,School,1
+199.16.156.43-10.42.0.151-443-33509-6,Male,17,The Sea Wolf,Jack London,33.58345234,-111.8007986,Mobile,School,0
+10.42.0.151-40.122.44.96-34536-443-6,Female,19,Catching Fire,Suzanne Collins,41.98447639,-87.70094067,Computer,College,1
+172.217.12.142-10.42.0.211-443-49526-6,Male,19,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,58.37489876,-134.5914665,Mobile,College,0
+10.42.0.211-54.192.38.154-53340-443-6,Male,17,Death Comes for the Archbishop,Willa Cather,57.06221686,-135.3409539,Mobile,School,1
+172.217.10.142-10.42.0.42-443-37627-6,Female,17,The House of Mirth,Edith Wharton,31.11698953,-84.16037135,Mobile,School,0
+219.142.78.162-10.42.0.151-80-41745-6,Female,17,Light in August,William Faulkner,40.1776244,-94.82172704,Mobile,School,1
+10.42.0.211-69.147.64.34-46373-443-6,Female,17,The Pickwick Papers,Charles Dickens,42.45339451,-83.19526925,Mobile,School,0
+180.149.153.234-10.42.0.211-80-49577-6,Male,19,Remembrance of Things Past,Marcel Proust,41.84902605,-87.74695646,Mobile,College,0
+10.42.0.151-10.42.0.1-43455-53-17,Male,21,Barchester Towers and the Warden,Anthony Trollope,35.14113487,-89.96356627,Mobile,University,0
+10.42.0.151-10.42.0.1-1303-53-17,Female,19,The Bridge of San Luis Rey,Thornton Wilder,35.05397605,-89.87866103,Mobile,College,0
+10.42.0.151-52.218.49.108-47762-80-6,Female,17,The Help,Kathryn Stockett,32.62297157,-96.95524308,Mobile,School,0
+203.205.179.170-10.42.0.211-80-50103-6,Female,17,Murder on the Orient Express,Agatha Christie,33.32460784,-96.77709575,Computer,School,1
+10.42.0.42-106.11.129.143-55642-443-6,Female,17,The Lovely Bones,Alice Sebold,42.84481661,-71.73406576,Computer,School,1
+10.42.0.211-72.21.206.53-49770-443-6,Male,17,The Appeal,John Grisham,42.60892245,-72.58898387,Mobile,School,0
+10.42.0.42-106.11.92.1-44676-443-6,Male,19,Dombey And Son,Charles Dickens,36.37145227,-99.62396488,Computer,College,0
+172.217.6.234-10.42.0.211-443-56032-6,Female,21,Slaughterhouse-Five,Kurt Vonnegut,47.25445658,-122.5352125,Mobile,University,0
+203.205.158.62-10.42.0.211-80-33443-6,Female,17,An American Tragedy,Theodore Dreiser,33.45646251,-112.0812066,Mobile,School,1
+10.42.0.151-10.42.0.1-4315-53-17,Male,21,The Bluest Eye,Toni Morrison,37.57686244,-122.3809994,Mobile,University,1
+10.42.0.211-66.102.255.61-36643-443-6,Male,17,Little House In the Big Woods,Laura Ingalls Wilder,29.74256192,-95.50952232,Mobile,School,1
+203.205.144.184-10.42.0.151-80-40790-6,Female,17,Germinal,êmile Zola,42.62792291,-82.58557534,Tab,School,1
+10.42.0.211-123.125.115.164-47715-443-6,Male,17,The Heart Is a Lonely Hunter,Carson McCullers,42.63129483,-82.54381867,Computer,School,1
+10.42.0.151-103.235.46.39-50643-80-6,Male,19,The Woman In White,Wilkie Collins,42.63261033,-82.54318259,Computer,College,0
+10.42.0.211-36.110.213.49-60366-80-6,Male,19,"Absalom, Absalom!",William Faulkner,43.60321027,-83.91963596,Mobile,College,1
+10.42.0.151-31.13.80.5-54547-443-6,Male,17,A Painted House,John Grisham,44.32563612,-69.86423057,Mobile,School,0
+10.42.0.211-31.13.80.5-39369-443-6,Female,19,The Girl With the Dragon Tattoo,Stieg Larsson,43.08818569,-85.25391882,Mobile,College,0
+172.217.10.110-10.42.0.151-443-37018-6,Female,21,A Room With a View,E.M. Forster,43.41015979,-84.60909281,Mobile,University,0
+10.42.0.211-98.139.225.43-50398-443-6,Female,21,Watership Down,Richard Adams,41.82443732,-86.36745662,Mobile,University,1
+203.205.158.63-10.42.0.211-80-38560-6,Female,21,Memoirs of a Geisha,Arthur Golden,42.55875389,-84.85069312,Mobile,University,0
+10.42.0.42-103.43.91.18-50884-443-6,Female,21,Our Mutual Friend,Charles Dickens,42.55664467,-82.90900297,Mobile,University,1
+192.229.173.136-10.42.0.211-443-36901-6,Female,21,Babbitt,Sinclair Lewis,43.26682776,-82.53366738,Mobile,University,0
+172.217.3.106-10.42.0.211-443-53133-6,Male,21,The Red Pony,John Steinbeck,42.32292077,-83.23473277,Mobile,University,1
+202.77.129.230-10.42.0.211-80-44977-6,Female,17,All the King's Men,Robert Penn Warren,43.9420814,-69.96219036,Mobile,School,0
+10.42.0.211-52.84.139.210-53435-80-6,Female,17,Things Fall Apart,Chinua Achebe,44.25092071,-70.03916343,Mobile,School,1
+192.229.173.173-10.42.0.211-443-48497-6,Male,19,Lorna Doone,R.D. Blackmore,44.44082124,-69.74471173,Mobile,College,1
+172.217.6.238-10.42.0.151-443-33866-6,Male,19,Johnny Tremain,Esther Forbes,33.62900874,-117.700552,Tab,College,0
+10.42.0.211-98.139.199.205-37100-443-6,Female,19,Anne of Avonlea,L.M. Montgomery,37.97736405,-122.3277989,Mobile,College,1
+10.42.0.211-103.7.30.118-45944-80-6,Female,21,Tuck Everlasting,Natalie Babbitt,34.16259137,-118.4272852,Mobile,University,0
+10.42.0.1-10.42.0.42-53-64910-17,Male,17,The BFG,Roald Dahl,34.67356815,-118.1133524,Computer,School,0
+10.42.0.211-10.42.0.1-43186-53-17,Female,19,Cannery Row,John Steinbeck,38.52671714,-122.7848372,Computer,College,1
+10.42.0.151-121.12.98.64-33778-80-6,Male,19,The Joy Luck Club,Amy Tan,34.05537934,-118.3315403,Computer,College,1
+10.42.0.211-58.63.236.212-42039-443-6,Male,19,The Silmarillion,J.R.R. Tolkien,36.25192913,-119.3100861,Mobile,College,0
+10.42.0.211-64.71.142.124-55735-443-6,Female,17,Roots,Alex Haley,33.03073761,-111.3714346,Mobile,School,1
+180.96.74.33-10.42.0.151-80-44789-6,Male,17,Little House on the Prairie,Laura Ingalls Wilder,33.53225023,-112.2212029,Mobile,School,0
+172.217.11.14-10.42.0.151-443-55884-6,Male,17,Native Son,Richard Wright,28.47245623,-81.36646914,Mobile,School,1
+208.80.154.224-10.42.0.211-443-53567-6,Female,21,Stuart Little,E.B. White,33.68072909,-88.32735603,Mobile,University,0
+209.10.120.24-10.42.0.211-80-41414-6,Male,17,Cross Fire,James Patterson,33.97828713,-118.1921385,Computer,School,1
+172.217.12.170-10.42.0.151-443-33092-6,Female,19,The Power and the Glory,Graham Greene,42.65734232,-83.33141019,Mobile,College,0
+203.205.158.63-10.42.0.211-80-51834-6,Female,21,A Clockwork Orange,Anthony Burgess,30.85926613,-83.95230938,Mobile,University,0
+10.42.0.211-64.71.142.110-57930-443-6,Male,21,The Phantom of the Opera,Gaston Leroux,42.21872264,-84.42151041,Mobile,University,0
+172.217.10.238-10.42.0.211-443-45492-6,Female,17,The Martian Chronicles,Ray Bradbury,42.7265217,-85.13849888,Mobile,School,0
+172.217.3.100-10.42.0.151-443-47424-6,Male,21,The Road,Cormac McCarthy,42.581435,-84.8021494,Mobile,University,0
+172.217.12.206-10.42.0.42-443-41863-6,Male,17,The Way of All Flesh,Samuel Butler,41.39112851,-75.66411696,Mobile,School,1
+10.42.0.211-104.254.66.16-44501-80-6,Female,21,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,43.45692073,-83.89311978,Mobile,University,1
+172.217.3.99-10.42.0.151-443-41874-6,Female,17,Villette,Charlotte Brontâ,37.59264893,-90.63366846,Mobile,School,0
+10.42.0.151-106.11.129.143-58315-443-6,Male,17,The Curious Incident of the Dog In the Night-Time,Mark Haddon,42.26759182,-84.42685934,Computer,School,0
+174.35.73.108-10.42.0.42-80-50255-6,Female,21,The Mysterious Island,Jules Verne,35.20767328,-111.6337764,Mobile,University,0
+10.42.0.1-10.42.0.42-53-1367-17,Male,17,Song of Solomon,Toni Morrison,32.88977061,-109.8242922,Mobile,School,1
+203.130.53.126-10.42.0.42-80-50846-6,Male,21,Nana,êmile Zola,31.34087584,-109.5432225,Tab,University,1
+151.101.21.140-10.42.0.211-443-42595-6,Male,21,Quo Vadis,Henryk Sienkiewicz,34.59474717,-118.1548769,Mobile,University,1
+10.42.0.211-10.42.0.1-7856-53-17,Male,19,Main Street,Sinclair Lewis,33.3796583,-111.9971873,Mobile,College,1
+10.42.0.211-72.21.206.121-34201-443-6,Female,21,Matilda,Roald Dahl,33.27959091,-111.7610312,Mobile,University,1
+172.217.10.14-10.42.0.151-443-41432-6,Male,21,Lolita,Vladimir Vladimirovich Nabokov,33.28577306,-111.6970923,Mobile,University,0
+10.42.0.211-104.193.88.102-55887-443-6,Male,21,Paper Towns,John Green,33.44193442,-112.3125758,Mobile,University,1
+172.217.6.202-10.42.0.151-443-58639-6,Male,19,Sounder,William H. Armstrong,33.44337515,-111.8274449,Mobile,College,0
+216.58.219.194-10.42.0.42-443-36769-6,Male,21,"Are You There God? It's Me, Margaret",Judy Blume,33.04499137,-109.3217971,Mobile,University,0
+172.217.3.110-10.42.0.42-443-60183-6,Male,17,The Notebook,Nicholas Sparks,33.49173911,-112.2543309,Mobile,School,0
+10.42.0.211-10.42.0.1-46561-53-17,Female,21,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,34.25822625,-118.5054119,Mobile,University,1
+10.42.0.42-66.198.178.91-57417-443-6,Female,17,Atlas Shrugged,Ayn Rand,33.57562253,-112.1739992,Mobile,School,0
+174.35.73.78-10.42.0.151-80-48211-6,Male,17,The Fountainhead,Ayn Rand,33.45789642,-112.1323895,Mobile,School,1
+10.42.0.42-62.138.0.117-51683-80-6,Male,17,Number the Stars,Lois Lowry,30.11314206,-97.31591831,Mobile,School,0
+10.42.0.1-10.42.0.42-53-9299-17,Female,17,The Firm,John Grisham,40.2849861,-76.98537985,Mobile,School,1
+203.205.158.53-10.42.0.42-80-50110-6,Female,19,Swann's Way,Marcel Proust,39.56212017,-94.45359696,Mobile,College,0
+172.217.2.110-10.42.0.151-443-36184-6,Male,21,Ender's Game,Orson Scott Card,37.89372398,-81.99181928,Mobile,University,1
+172.217.3.106-10.42.0.211-443-49160-6,Male,19,The Name of the Rose,Umberto Eco,34.90314454,-82.25578918,Mobile,College,1
+10.42.0.151-119.146.74.34-42421-80-6,Male,17,A Time to Kill,John Grisham,37.50054404,-122.2604641,Mobile,School,0
+172.217.10.131-10.42.0.151-443-60476-6,Female,17,Water for Elephants,Sara Gruen,41.44162703,-81.85606102,Mobile,School,1
+172.217.9.234-10.42.0.151-443-38065-6,Male,17,The Time Machine,H.G. Wells,40.27370363,-86.03995371,Mobile,School,0
+172.217.2.106-10.42.0.211-443-59370-6,Female,19,Eragon,Christopher Paolini,36.57439809,-115.6765823,Mobile,College,0
+172.217.11.46-10.42.0.42-443-36670-6,Male,17,The Hitchhiker's Guide to the Galaxy,Douglas Adams,35.23815769,-111.6687802,Mobile,School,1
+10.42.0.151-14.204.144.143-39504-80-6,Male,21,Buddenbrooks,Thomas Mann,36.15547107,-91.92435391,Mobile,University,1
+10.42.0.211-10.42.0.1-12329-53-17,Male,21,A Thousand Splendid Suns,Khaled Hosseini,34.03019971,-94.35953398,Mobile,University,0
+10.42.0.211-40.122.162.208-40888-443-6,Female,17,The Witch of Blackbird Pond,Elizabeth George Speare,33.99657261,-118.3094788,Mobile,School,1
+224.0.0.251-10.42.0.1-5353-5353-17,Male,19,And Then There Were None,Agatha Christie,39.93438241,-75.55615535,Tab,College,0
+10.42.0.42-108.174.11.1-52108-80-6,Male,21,A Separate Peace,John Knowles,33.67237957,-117.713205,Mobile,University,1
+172.217.10.106-10.42.0.151-443-33034-6,Male,21,Breaking Dawn,Stephenie Meyer,34.21655213,-118.4493931,Mobile,University,0
+10.42.0.211-23.203.49.224-39850-443-6,Male,19,As I Lay Dying,William Faulkner,40.02422443,-80.02802037,Mobile,College,1
+10.42.0.211-104.193.88.109-46258-80-6,Female,21,The Girl Who Played With Fire,Stieg Larsson,33.96965371,-118.1132316,Mobile,University,0
+10.42.0.151-54.239.17.112-46735-443-6,Male,21,Where the Red Fern Grows,Wilson Rawls,41.88358857,-93.81412773,Mobile,University,0
+172.217.11.10-10.42.0.211-443-55943-6,Male,17,Le Morte D'Arthur,Thomas Malory,36.36049767,-119.3515237,Mobile,School,0
+10.42.0.151-63.250.200.101-50890-443-6,Female,17,Mockingjay,Suzanne Collins,34.76398487,-106.0604138,Mobile,School,0
+10.42.0.42-98.137.201.232-53623-443-6,Male,17,The Pillars of the Earth,Ken Follett,34.06247261,-118.2821438,Mobile,School,0
+8.41.222.241-10.42.0.42-443-39458-6,Female,17,Persian Letters,Montesquieu,34.66027046,-106.7919091,Mobile,School,1
+172.217.7.163-10.42.0.151-443-45054-6,Female,21,The Client,John Grisham,47.05733363,-122.2867997,Mobile,University,1
+10.42.0.211-104.192.110.245-34996-80-6,Female,17,Sula,Toni Morrison,33.30099398,-115.9562454,Mobile,School,0
+172.217.12.196-10.42.0.151-443-56655-6,Male,17,Tales of a Fourth Grade Nothing,Judy Blume,40.62803515,-79.94716442,Mobile,School,0
+209.10.120.26-10.42.0.211-80-52522-6,Female,17,The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire,Howard Pyle,33.08524777,-96.66744107,Computer,School,0
+10.42.0.211-66.198.178.50-56608-80-6,Female,17,Tortilla Flat,John Steinbeck,43.04496329,-87.95271986,Mobile,School,1
+172.217.11.10-10.42.0.151-443-51583-6,Male,21,"Look Homeward, Angel",Thomas Wolfe,47.87055493,-122.2557206,Mobile,University,1
+10.42.0.211-66.198.24.240-56222-443-6,Female,19,The Mystery of Edwin Drood,Charles Dickens,45.64111821,-122.5326276,Mobile,College,1
+10.42.0.151-10.42.0.1-30751-53-17,Female,21,Brideshead Revisited,Evelyn Waugh,44.02314206,-69.67205291,Computer,University,1
+172.217.9.238-10.42.0.211-443-44574-6,Female,17,The Pelican Brief,John Grisham,44.00831932,-69.66201299,Mobile,School,1
+10.42.0.151-31.13.71.3-41594-443-6,Male,21,Atonement,Ian McEwan,43.96821731,-69.21278227,Mobile,University,0
+10.42.0.211-10.42.0.1-56482-53-17,Male,21,Washington Square,Henry James,44.31317452,-69.76846986,Tab,University,1
+180.149.136.194-10.42.0.42-80-49052-6,Female,21,Like Water for Chocolate,Laura Esquivel,44.41312988,-69.02711716,Mobile,University,0
+198.105.244.11-10.42.0.151-80-35944-6,Female,19,The Golden Compass,Philip Pullman,44.43714526,-69.00454045,Mobile,College,0
+172.217.12.174-10.42.0.151-443-48760-6,Male,17,The Secret Life of Bees,Sue Monk Kidd,44.44237262,-69.1468453,Mobile,School,0
+10.42.0.151-10.42.0.1-9745-53-17,Male,21,The Fault In Our Stars,John Green,44.37151062,-69.20326813,Mobile,University,1
+10.42.0.151-10.42.0.1-45241-53-17,Male,17,Nostromo,Joseph Conrad,44.41790987,-69.01259291,Mobile,School,0
+172.217.9.238-10.42.0.42-80-47173-6,Male,21,Finnegans Wake,James Joyce,44.63219633,-70.75270619,Mobile,University,1
+182.22.67.88-10.42.0.151-443-57229-6,Male,21,The Brethren,John Grisham,46.25520332,-119.907875,Mobile,University,0
+10.42.0.151-10.42.0.1-45531-53-17,Male,21,Coraline,Neil Gaiman,45.72342743,-122.6883968,Mobile,University,1
+182.22.120.231-10.42.0.151-443-35686-6,Female,21,Heart of Darkness,Joseph Conrad,32.23704095,-110.9904436,Mobile,University,0
+10.42.0.42-104.244.43.131-57556-443-6,Female,17,On the Banks of Plum Creek,Laura Ingalls Wilder,47.25197566,-122.4468793,Mobile,School,1
+10.42.0.151-65.55.118.92-52767-80-6,Male,17,Rebecca of Sunnybrook Farm,Kate Douglas Smith Wiggin,34.3154701,-93.17481101,Mobile,School,1
+10.42.0.211-65.39.197.206-54020-443-6,Female,21,The Ambassadors,Henry James,48.15669742,-103.6301655,Mobile,University,0
+10.42.0.211-23.206.166.66-54372-80-6,Female,17,The Secret Agent,Joseph Conrad,40.30893417,-88.15014985,Mobile,School,1
+10.42.0.211-23.205.16.85-52449-80-6,Female,21,The House on Mango Street,Sandra Cisneros,38.03752571,-121.274063,Mobile,University,0
+209.85.232.188-10.42.0.151-5228-40336-6,Female,17,Go Tell It on the Mountain,James Baldwin,39.19860451,-78.14437932,Mobile,School,0
+172.217.7.163-10.42.0.211-443-58961-6,Male,19,The Testament,John Grisham,33.13526095,-94.06236832,Computer,College,1
+10.42.0.211-54.192.38.171-56437-443-6,Male,17,The Clan of the Cave Bear,Jean M. Auel,33.80332173,-117.2096034,Mobile,School,1
+151.101.21.140-10.42.0.211-443-56702-6,Male,19,Cranford,Elizabeth Cleghorn Gaskell,41.70357703,-72.77792267,Mobile,College,0
+10.42.0.211-58.63.236.212-39707-443-6,Male,19,Because of Winn-Dixie,Kate DiCamillo,41.74047978,-72.15768116,Mobile,College,1
+10.42.0.151-66.198.24.253-34475-80-6,Female,19,My Side of the Mountain,Jean Craighead George,41.70369055,-72.77829795,Mobile,College,0
+198.11.190.7-10.42.0.211-443-46648-6,Male,21,The Runaway Jury,John Grisham,41.65986689,-72.80717256,Mobile,University,1
+183.79.253.231-10.42.0.211-443-50052-6,Male,17,The Mouse and the Motorcycle,Beverly Cleary,41.71813696,-72.17642892,Computer,School,0
+10.42.0.211-10.42.0.1-13855-53-17,Male,21,The Lost Symbol,Dan Brown,41.67598162,-89.93963207,Mobile,University,1
+174.35.73.136-10.42.0.211-80-53622-6,Male,17,The Forsyte Saga,John Galsworthy,40.80153506,-89.19839858,Computer,School,0
+10.42.0.42-103.235.46.212-48455-80-6,Male,19,Gone Girl,Gillian Flynn,33.30961075,-85.75692084,Mobile,College,0
+172.217.6.238-10.42.0.151-443-43941-6,Female,21,The Lightning Thief,Rick Riordan,36.55449008,-119.3798469,Mobile,University,0
+209.85.232.188-10.42.0.211-5228-60326-6,Male,21,The Last Days of Pompeii,Edward Bulwer Lytton,40.69331863,-74.27275005,Mobile,University,0
+172.217.10.238-10.42.0.211-443-60243-6,Female,19,The Reader,Bernhard Schlink,26.47924912,-97.77630016,Mobile,College,0
+10.42.0.211-10.42.0.1-63075-53-17,Female,17,Caddie Woodlawn,Carol Ryrie Brink,48.43842031,-122.3126446,Mobile,School,1
+10.42.0.42-106.11.95.7-33590-443-6,Female,17,The Tale of Despereaux,Kate DiCamillo,39.64194522,-106.5686101,Mobile,School,1
+180.149.135.239-10.42.0.211-80-38145-6,Female,19,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,35.09907742,-98.44204289,Computer,College,0
+10.42.0.211-31.13.65.7-59439-443-6,Female,17,Dear Mr. Henshaw,Beverly Cleary,57.05280207,-135.3308129,Tab,School,0
+174.35.73.148-10.42.0.211-80-49296-6,Female,19,The Killer Angels,Michael Shaara,28.2282561,-81.4889361,Mobile,College,0
+174.35.73.78-10.42.0.211-443-45258-6,Male,21,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,46.87822991,-96.70369416,Mobile,University,1
+172.217.12.142-10.42.0.151-443-50435-17,Female,21,The Five People You Meet In Heaven,Mitch Albom,26.91422988,-82.28409087,Mobile,University,1
+172.217.10.14-10.42.0.211-443-35219-6,Male,21,The Master and Margarita,Mikhail Bulgakov,31.70898018,-87.7915843,Mobile,University,1
+203.205.158.63-10.42.0.211-80-41538-6,Female,19,"Winesburg, Ohio",Sherwood Anderson,37.1346359,-80.41652033,Mobile,College,1
+10.42.0.1-10.42.0.42-53-20349-17,Female,17,"""P"" Is for Peril",Sue Grafton,38.45020442,-90.36963291,Mobile,School,1
+10.42.0.211-66.198.24.250-34239-80-6,Male,17,My Sister's Keeper,Jodi Picoult,31.34157954,-94.70517773,Mobile,School,0
+180.149.136.194-10.42.0.211-443-39349-6,Male,17,Barnaby Rudge,Charles Dickens,39.89361928,-82.53347878,Computer,School,1
+172.217.10.74-10.42.0.151-443-55632-6,Male,19,Howards End,E.M. Forster,40.7688482,-89.450324,Mobile,College,0
+10.42.0.211-103.235.46.212-57717-80-6,Female,17,The Broker,John Grisham,40.0944073,-82.9739168,Mobile,School,0
+174.35.73.110-10.42.0.211-443-44936-6,Male,17,The Camel Club,David Baldacci,36.76318537,-83.01609579,Computer,School,0
+10.42.0.151-66.198.24.253-34594-443-6,Female,17,The Rainbow,D.H. Lawrence,47.3307609,-118.688473,Mobile,School,1
+10.42.0.1-10.42.0.42-53-22896-17,Female,17,The Man In the Iron Mask,Alexandre Dumas,38.15073954,-122.2449705,Computer,School,0
+183.79.249.124-10.42.0.42-443-32788-6,Female,17,Mary Poppins,P.L. Travers,34.01823351,-96.14186974,Mobile,School,1
+8.43.72.47-10.42.0.211-443-57487-6,Female,17,Artemis Fowl,Eoin Colfer,34.07684226,-118.2841658,Mobile,School,0
+172.217.10.227-10.42.0.151-443-40748-6,Female,17,Dear John,Nicholas Sparks,41.05032221,-85.17595505,Mobile,School,1
+10.42.0.211-10.42.0.1-5934-53-17,Male,19,Cold Mountain,Charles Frazier,26.66160977,-80.10398696,Computer,College,0
+10.42.0.211-10.42.0.1-28122-53-17,Female,19,Flowers for Algernon,Daniel Keyes,18.44871022,-66.29373102,Mobile,College,1
+202.77.129.150-10.42.0.211-80-35457-6,Male,17,The Dark Is Rising,Susan Cooper,41.13414683,-83.64752087,Mobile,School,1
+10.42.0.151-10.42.0.1-34084-53-17,Male,17,Resurrection,Leo Tolstoy,43.04708971,-91.14450068,Mobile,School,0
+10.42.0.211-10.42.0.1-25428-53-17,Female,17,Fearless Fourteen,Janet Evanovich,43.36044443,-73.39637766,Mobile,School,1
+10.42.0.211-64.71.142.125-58263-443-6,Male,17,A Sentimental Journey Through France and Italy,Laurence Sterne,41.03848985,-111.6734956,Mobile,School,0
+10.42.0.211-76.13.28.196-35588-443-6,Male,19,The King of Torts,John Grisham,38.06622444,-84.45329357,Mobile,College,0
+10.42.0.211-10.42.0.1-57686-53-17,Female,21,The Graveyard Book,Neil Gaiman,29.70847429,-95.20851791,Mobile,University,1
+172.217.10.227-10.42.0.151-443-55894-6,Female,19,The Quiet American,Graham Greene,40.8602684,-98.4180874,Mobile,College,1
+216.58.217.132-10.42.0.42-443-38318-6,Male,17,The Chamber,John Grisham,43.07458124,-70.94513918,Mobile,School,0
+151.101.1.134-10.42.0.211-443-53231-6,Male,17,The English Patient,Michael Ondaatje,35.24695906,-81.76853089,Computer,School,1
+10.42.0.151-123.125.29.220-52992-80-6,Male,17,Snow Falling on Cedars,David Guterson,40.8054823,-73.93544726,Computer,School,0
+172.217.10.106-10.42.0.151-443-54911-6,Female,17,The Long Winter,Laura Ingalls Wilder,36.71543508,-77.53342152,Mobile,School,1
+180.163.251.231-10.42.0.211-80-33688-6,Female,19,"Sarah, Plain and Tall",Patricia MacLachlan,41.51892816,-72.83289603,Computer,College,0
+172.217.12.174-10.42.0.42-443-34437-6,Male,21,Cross Country,James Patterson,38.54643112,-82.77532393,Mobile,University,1
+209.85.144.188-10.42.0.151-5228-53129-6,Female,17,The Spy Who Came In from the Cold,John Le CarrÇ,38.33207003,-85.46580133,Mobile,School,0
+10.42.0.42-108.168.176.242-60301-5222-6,Male,21,A Game of Thrones,George R.R. Martin,29.72487101,-94.9587636,Mobile,University,0
+10.42.0.211-10.42.0.1-52744-53-17,Male,17,The Thorn Birds,Colleen McCullough,33.89172619,-98.46490076,Mobile,School,0
+10.42.0.151-104.193.88.109-49994-80-6,Male,17,Old Yeller,Fred Gipson,39.9877924,-83.77462633,Mobile,School,0
+172.217.11.13-10.42.0.151-443-59852-6,Female,17,"Ramona Quimby, Age 8",Beverly Cleary,44.03806454,-123.1439763,Tab,School,0
+10.42.0.211-64.71.142.95-43962-443-6,Male,17,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,39.94811486,-76.33762625,Computer,School,1
+10.42.0.151-10.42.0.1-53961-53-17,Female,19,The Hunchback of Notre Dame,Victor Hugo,34.35433631,-85.73769637,Computer,College,1
+10.42.0.1-10.42.0.42-53-57757-17,Male,19,Pinocchio,Carlo Collodi,40.57726762,-74.10042871,Mobile,College,0
+175.100.207.233-10.42.0.42-443-44017-6,Male,17,One Hundred Years of Solitude,Gabriel Garc°a M†rquez,36.7768778,-89.38078927,Mobile,School,0
+192.229.173.173-10.42.0.151-80-44108-6,Male,19,Ivanhoe,Walter Scott,43.89255941,-91.22857263,Mobile,College,0
+10.42.0.1-10.42.0.42-53-28181-17,Female,21,The Red Badge of Courage,Stephen Crane,39.22750093,-84.15169642,Mobile,University,1
+180.149.153.68-10.42.0.211-80-55229-6,Male,21,Anne of Green Gables,L.M. Montgomery,41.22236867,-73.13380614,Mobile,University,1
+203.205.190.50-10.42.0.211-80-45204-6,Male,21,Black Beauty,Anna Sewell,41.60410193,-73.02800156,Mobile,University,1
+10.42.0.151-103.235.46.211-40341-443-6,Male,21,Peter Pan,J.M. Barrie,42.93177072,-85.70039916,Mobile,University,1
+172.217.9.234-10.42.0.211-443-34854-6,Female,21,A Farewell to Arms,Ernest Hemingway,43.33034819,-88.28509497,Mobile,University,1
+10.42.0.211-23.23.129.231-39573-443-6,Male,21,The House of the Seven Gables,Nathaniel Hawthorne,37.22413866,-93.28601122,Mobile,University,0
+10.42.0.211-123.125.115.190-54988-80-6,Female,17,Lord of the Flies,William Golding,40.24785194,-111.6418575,Mobile,School,1
+182.22.67.89-10.42.0.211-443-45893-6,Male,17,The Prince and the Pauper,Mark Twain,35.17557996,-106.3435497,Mobile,School,0
+192.229.173.173-10.42.0.211-80-48507-6,Female,19,A Portrait of the Artist as a Young Man,James Joyce,33.65229244,-93.58570857,Mobile,College,0
+182.22.31.124-10.42.0.151-443-33448-6,Male,19,Lord Jim,Joseph Conrad,37.67516796,-121.8833083,Tab,College,0
+10.42.0.151-10.42.0.1-34079-53-17,Female,19,Harry Potter and the Chamber of Secrets,J.K. Rowling,40.76515661,-124.1383115,Mobile,College,1
+10.42.0.211-104.193.88.109-45537-80-6,Male,21,The Red & the Black,Stendhal,44.03164971,-92.86633308,Mobile,University,0
+172.217.10.238-10.42.0.42-443-42082-6,Male,17,The Stranger,Albert Camus,36.8118957,-93.47212762,Computer,School,1
+10.42.0.151-52.2.229.30-50811-443-6,Male,19,The Trial,Franz Kafka,45.37468953,-122.6512146,Computer,College,0
+208.80.154.224-10.42.0.211-443-47230-6,Male,19,Lady Chatterley's Lover,D.H. Lawrence,32.88798749,-79.9995507,Computer,College,1
+182.22.67.102-10.42.0.42-443-39714-6,Male,19,Kidnapped: The Adventures of David Balfour,Robert Louis Stevenson,34.17043458,-79.38868736,Mobile,College,0
+10.42.0.211-66.231.239.122-58315-80-6,Male,17,The Catcher in the Rye,J.D. Salinger,26.33311212,-98.116815,Mobile,School,1
+182.22.24.124-10.42.0.211-443-41793-6,Female,17,Fahrenheit 451,Ray Bradbury,39.01919055,-77.47771319,Mobile,School,1
+203.205.158.61-10.42.0.211-80-36233-6,Male,17,A Journey to the Center of the Earth,Jules Verne,46.86998234,-122.2639097,Mobile,School,0
+157.240.2.20-10.42.0.211-443-46559-6,Male,21,Vanity Fair,William Makepeace Thackeray,45.10839702,-93.367623,Mobile,University,1
+10.42.0.211-104.88.89.135-34552-443-6,Male,17,All Quiet on the Western Front,Erich Maria Remarque,29.37858561,-95.10518495,Computer,School,0
+174.36.210.51-10.42.0.211-5222-58655-6,Male,19,Gone with the Wind,Margaret Mitchell,40.70147522,-75.1535633,Mobile,College,0
+10.42.0.42-119.146.74.34-40783-80-6,Male,21,My ?ntonia,Willa Cather,37.25156776,-81.2459122,Mobile,University,1
+10.42.0.211-115.239.210.141-55141-80-6,Male,21,Of Mice and Men,John Steinbeck,36.52933254,-121.8276177,Mobile,University,1
+8.41.222.241-10.42.0.211-443-42254-6,Female,17,The Vicar of Wakefield,Oliver Goldsmith,29.53551667,-98.73598315,Mobile,School,0
+10.42.0.211-52.26.183.201-37035-443-6,Female,21,A Connecticut Yankee in King Arthur's Court,Mark Twain,39.92147652,-122.4476891,Mobile,University,1
+172.217.10.234-10.42.0.151-443-55558-6,Female,17,White Fang,Jack London,40.72148514,-74.05856936,Mobile,School,0
+10.42.0.151-31.13.69.195-58190-443-6,Female,21,Fathers and Sons,Ivan Sergeevich Turgenev,34.27822466,-118.7883718,Mobile,University,1
+10.42.0.151-10.42.0.1-54594-53-17,Female,17,Doctor Zhivago,Boris Leonidovich Pasternak,40.67635836,-73.8800204,Mobile,School,0
+172.217.6.202-10.42.0.42-443-48713-6,Female,17,The Decameron,Giovanni Boccaccio,43.01987629,-87.91872167,Computer,School,1
+162.208.22.39-10.42.0.211-443-49602-6,Male,21,Nineteen Eighty-Four,George Orwell,34.16226914,-117.3522309,Mobile,University,0
+10.42.0.151-10.42.0.1-53121-53-17,Male,17,The Jungle,Upton Sinclair,41.84381591,-94.09508557,Mobile,School,0
+174.35.73.77-10.42.0.211-443-33724-6,Male,21,The Da Vinci Code,Dan Brown,41.75505379,-88.1477361,Tab,University,0
+183.79.249.252-10.42.0.42-443-49944-6,Female,21,Persuasion,Jane Austen,41.76914646,-88.01546687,Mobile,University,0
+172.217.11.10-10.42.0.211-443-33085-6,Male,19,Mansfield Park,Jane Austen,41.81203113,-87.92339152,Mobile,College,0
+10.42.0.151-54.148.92.62-56106-443-6,Male,21,Candide,Voltaire,41.13577957,-85.06042216,Mobile,University,1
+172.217.12.163-10.42.0.42-80-46900-6,Male,21,For Whom the Bell Tolls,Ernest Hemingway,42.8543572,-112.443819,Mobile,University,1
+10.42.0.211-121.14.255.98-58510-80-6,Female,21,Far from the Madding Crowd,Thomas Hardy,34.47359069,-82.44397694,Mobile,University,0
+222.73.28.96-10.42.0.42-80-43334-6,Male,19,The Fellowship of the Ring,J.R.R. Tolkien,29.88787626,-97.66506219,Mobile,College,0
+10.42.0.211-10.42.0.1-14784-53-17,Male,21,The Return of the Native,Thomas Hardy,30.11574839,-92.9638958,Mobile,University,0
+172.217.12.206-10.42.0.42-443-37264-6,Male,17,Sons and Lovers,D.H. Lawrence,30.21278282,-91.8236073,Mobile,School,1
+172.217.12.164-10.42.0.42-443-50725-6,Female,21,Charlotte's Web,E.B. White,42.33189803,-71.09044252,Mobile,University,1
+180.149.153.234-10.42.0.211-80-51798-6,Female,17,The Swiss Family Robinson,Johann David Wyss,35.42559028,-82.50114795,Mobile,School,1
+10.42.0.151-10.42.0.1-35069-53-17,Female,17,Bleak House,Charles Dickens,44.17518673,-69.75969864,Mobile,School,1
+10.42.0.211-115.239.210.141-58261-443-6,Female,17,Päre Goriot,HonorÇ de Balzac,42.00092918,-84.19141374,Mobile,School,1
+239.255.255.250-10.42.0.1-1900-35242-17,Male,17,Utopia,Thomas More,43.41732155,-86.36318078,Mobile,School,0
+10.42.0.211-23.21.51.186-57991-443-6,Male,19,"The History of Tom Jones, a Foundling",Henry Fielding,42.21770432,-83.20896803,Mobile,College,1
+203.205.128.137-10.42.0.211-80-42246-6,Female,21,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,35.46858465,-80.59615765,Mobile,University,0
+10.42.0.211-10.42.0.1-32971-53-17,Male,19,Kim,Rudyard Kipling,42.45922227,-98.64541172,Mobile,College,0
+10.42.0.151-31.13.69.195-33447-443-6,Female,17,The Sound and the Fury,William Faulkner,43.04377332,-76.1735374,Mobile,School,0
+174.36.210.49-10.42.0.211-443-54136-6,Male,17,Harry Potter and the Goblet of Fire,J.K. Rowling,32.66670324,-96.90447682,Mobile,School,1
+10.42.0.151-108.174.10.10-47464-443-6,Male,17,The Mill on the Floss,George Eliot,41.03501259,-73.79069461,Mobile,School,0
+10.42.0.211-64.71.142.110-46734-80-6,Male,19,A Wrinkle in Time,Madeleine L'Engle,39.7543389,-82.47264943,Mobile,College,1
+10.42.0.211-10.42.0.1-30959-53-17,Male,17,The Hound of the Baskervilles,Arthur Conan Doyle,40.0849745,-82.81068957,Mobile,School,0
+10.42.0.211-10.42.0.1-62569-53-17,Male,21,The Two Towers,J.R.R. Tolkien,41.31641609,-80.85161141,Mobile,University,1
+10.42.0.211-52.84.143.156-35172-443-6,Male,21,The War of the Worlds,H.G. Wells,33.32501554,-94.34754726,Mobile,University,0
+180.149.136.194-10.42.0.151-443-46507-6,Female,17,Middlemarch,George Eliot,28.70330592,-100.4870785,Mobile,School,1
+10.42.0.211-104.88.106.16-43374-80-6,Female,19,The Age of Innocence,Edith Wharton,35.19303377,-101.9200353,Tab,College,1
+157.55.130.167-10.42.0.151-40019-60677-6,Female,21,The Color Purple,Alice Walker,37.53168694,-77.54099445,Mobile,University,0
+10.42.0.151-10.42.0.1-43359-5351-17,Female,21,Northanger Abbey,Jane Austen,39.26033537,-80.32621618,Mobile,University,1
+10.42.0.151-106.11.92.14-35951-443-6,Female,19,East of Eden,John Steinbeck,35.66450126,-80.84766068,Mobile,College,0
+172.217.12.206-10.42.0.151-443-56397-6,Male,21,On the Road,Jack Kerouac,36.09064153,-79.71142135,Mobile,University,0
+172.217.10.1-10.42.0.42-443-49550-6,Female,21,Catch-22,Joseph Heller,31.76043443,-106.4259465,Mobile,University,1
+10.42.0.211-10.42.0.1-60203-53-17,Female,17,Around the World in Eighty Days,Jules Verne,36.4314227,-78.98068272,Mobile,School,1
+172.217.6.195-10.42.0.151-443-44206-6,Female,17,Hard Times,Charles Dickens,35.94435835,-80.16423243,Mobile,School,0
+151.101.21.140-10.42.0.211-443-45960-6,Male,17,Beloved,Toni Morrison,25.98525057,-80.24016134,Mobile,School,1
+10.42.0.151-10.42.0.1-8426-53-17,Male,17,Mrs. Dalloway,Virginia Woolf,28.68465923,-81.17934142,Mobile,School,0
+172.217.10.10-10.42.0.42-443-48346-6,Male,21,To the Lighthouse,Virginia Woolf,45.04581444,-92.81224054,Mobile,University,1
+10.42.0.211-10.42.0.1-63073-53-17,Male,17,The Magician's Nephew,C.S. Lewis,29.21328422,-81.03973621,Mobile,School,0
+169.45.219.232-10.42.0.211-443-37515-6,Female,17,Harry Potter and the Order of the Phoenix,J.K. Rowling,43.38370001,-94.3128307,Mobile,School,1
+10.42.0.42-42.236.125.112-48506-80-6,Male,17,The Sun Also Rises,Ernest Hemingway,44.93456274,-93.27218413,Computer,School,0
+172.217.10.46-10.42.0.151-443-49408-6,Female,17,The Good Earth,Pearl S. Buck,45.49833714,-91.75340553,Mobile,School,0
+10.42.0.211-64.71.142.120-53880-443-6,Male,21,Silas Marner,George Eliot,40.33263267,-78.38449866,Mobile,University,0
+172.217.10.238-10.42.0.151-443-58013-6,Male,19,Love in the Time of Cholera,Gabriel Garc°a M†rquez,42.16014323,-75.12542979,Mobile,College,0
+10.42.0.211-52.197.242.223-34301-443-6,Male,21,Rebecca,Daphne Du Maurier,32.62160034,-117.0782873,Computer,University,0
+10.42.0.211-31.13.71.52-60528-80-6,Male,17,Jude the Obscure,Thomas Hardy,28.14052507,-81.82090162,Mobile,School,1
+10.42.0.211-10.42.0.1-50765-53-17,Female,21,Twilight,Stephenie Meyer,40.86528406,-98.01274686,Mobile,University,1
+10.42.0.151-10.42.0.1-60239-53-17,Male,21,A Passage to India,E.M. Forster,39.34419444,-112.5747362,Tab,University,0
+172.217.10.67-10.42.0.211-443-45177-6,Male,21,The Plague,Albert Camus,39.93860865,-75.1588459,Mobile,University,0
+10.42.0.211-106.39.162.36-53895-80-6,Female,19,Nicholas Nickleby,Charles Dickens,38.93133691,-97.21124526,Mobile,College,0
+172.217.7.196-10.42.0.42-443-48776-6,Male,17,The Pearl,John Steinbeck,37.58454158,-101.3650426,Mobile,School,1
+175.100.207.232-10.42.0.42-80-40399-6,Male,21,Ethan Frome,Edith Wharton,28.25512187,-97.68656424,Mobile,University,1
+172.217.3.110-10.42.0.151-443-44043-6,Male,17,The Tale of Genji,Murasaki Shikibu,37.76975393,-122.444258,Mobile,School,1
+172.217.10.42-10.42.0.211-443-38691-6,Female,21,The Giver,Lois Lowry,42.54534556,-83.29734966,Mobile,University,1
+199.16.156.200-10.42.0.211-443-51123-6,Female,21,The Alchemist,Paulo Coelho,39.49322663,-80.09586422,Mobile,University,1
+10.42.0.211-10.42.0.1-59103-53-17,Female,21,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,36.1783199,-86.76888364,Mobile,University,0
+10.42.0.211-23.208.26.242-36317-443-6,Male,21,Robinson Crusoe,Daniel Defoe,41.49183344,-120.542202,Mobile,University,1
+10.42.0.151-10.42.0.1-46431-53-17,Female,17,Tender is the Night,F. Scott Fitzgerald,43.21534774,-85.06985961,Mobile,School,0
+10.42.0.1-10.42.0.42-53-28232-17,Male,17,The Idiot,Fyodor Dostoyevsky,35.29603525,-80.84671296,Mobile,School,0
+10.42.0.211-23.206.125.17-34380-80-6,Male,21,Hatchet,Gary Paulsen,38.20521372,-93.74670463,Mobile,University,0
+172.217.10.106-10.42.0.151-443-50730-6,Male,17,The Kite Runner,Khaled Hosseini,42.317599,-72.76510054,Mobile,School,1
+205.185.216.10-10.42.0.42-80-52886-6,Female,21,One Flew Over the Cuckoo's Nest,Ken Kesey,21.4081117,-157.7574184,Mobile,University,0
+224.0.0.251-10.42.0.1-5353-5353-17,Male,17,The Portrait of a Lady,Henry James,43.08587768,-89.37180872,Mobile,School,1
+183.79.248.252-10.42.0.151-443-41050-6,Female,19,The Outsiders,S.E. Hinton,33.75522335,-118.1274017,Computer,College,0
+172.217.10.132-10.42.0.42-443-37246-6,Male,17,Ben-Hur,Lew Wallace,41.5036419,-87.62944846,Mobile,School,1
+10.42.0.151-54.192.38.7-43591-443-6,Male,19,The Mayor of Casterbridge,Thomas Hardy,42.12821833,-72.75763206,Mobile,College,0
+172.217.10.136-10.42.0.42-443-42289-6,Female,19,"Cry, The Beloved Country",Alan Paton,30.52259259,-92.07277971,Mobile,College,1
+10.42.0.151-108.174.10.10-33881-80-6,Female,19,The Last Battle,C.S. Lewis,30.49868443,-91.16200028,Mobile,College,1
+10.42.0.211-23.194.180.131-57741-443-6,Female,21,Captains Courageous,Rudyard Kipling,33.21871412,-117.3173369,Mobile,University,0
+172.217.10.226-10.42.0.42-443-60326-6,Male,17,The Castle,Franz Kafka,41.10118587,-75.32489447,Computer,School,1
+10.42.0.42-59.38.112.48-48519-443-6,Female,21,The Metamorphosis,Franz Kafka,37.54233274,-122.0407234,Mobile,University,0
+10.42.0.211-10.42.0.1-11712-53-17,Male,17,The Magic Mountain (Der Zauberberg),Thomas Mann,34.01144855,-118.3080215,Computer,School,0
+172.217.6.234-10.42.0.211-443-41639-6,Male,19,James and the Giant Peach,Roald Dahl,34.30028716,-118.4474771,Mobile,College,1
+10.42.0.42-13.107.3.128-39304-443-6,Male,21,The Horse and His Boy,C.S. Lewis,33.91549412,-118.23961,Mobile,University,1
+10.42.0.1-10.42.0.42-53-58417-17,Female,21,Angels & Demons,Dan Brown,34.13413034,-117.8360756,Mobile,University,0
+10.42.0.211-106.11.94.27-57975-443-6,Male,19,The Voyage of the Dawn Treader,C.S. Lewis,34.02187933,-117.7784824,Mobile,College,1
+10.42.0.211-111.1.17.152-34919-8077-6,Male,17,The Bell Jar,Sylvia Plath,36.68478801,-121.6015858,Mobile,School,0
+10.42.0.211-115.239.210.141-58596-80-6,Female,17,Women in Love,D.H. Lawrence,39.16203727,-121.7476723,Mobile,School,1
+198.11.132.221-10.42.0.211-443-35896-6,Female,19,The Yearling,Marjorie Kinnan Rawlings,40.55956706,-105.1160955,Computer,College,0
+10.42.0.211-52.84.143.103-37749-443-6,Male,17,O Pioneers!,Willa Cather,33.63298306,-84.3495918,Tab,School,1
+172.217.11.14-10.42.0.151-443-55272-6,Male,19,The Handmaid's Tale,Margaret Atwood,34.09968257,-84.04001219,Mobile,College,0
+205.204.101.182-10.42.0.211-443-60121-6,Female,21,The Moonstone,Wilkie Collins,33.96691594,-84.21200355,Mobile,University,0
+10.42.0.211-64.71.142.124-39418-443-6,Male,21,The Old Curiosity Shop,Charles Dickens,30.79146305,-83.26205325,Mobile,University,0
+10.42.0.211-72.21.206.140-54193-443-6,Male,21,Little Dorrit,Charles Dickens,21.32000572,-157.9820689,Mobile,University,0
+172.217.10.142-10.42.0.42-443-60123-6,Male,19,Prince Caspian: The Return to Narnia,C.S. Lewis,20.88061696,-156.484447,Mobile,College,0
+10.42.0.1-10.42.0.42-53-62949-17,Male,17,Sister Carrie,Theodore Dreiser,41.74425638,-88.24238583,Mobile,School,1
+192.229.173.173-10.42.0.211-80-49914-6,Male,17,The Silver Chair,C.S. Lewis,41.72132371,-86.76033904,Mobile,School,1
+140.205.164.47-10.42.0.151-443-57432-6,Male,17,The Hunger Games,Suzanne Collins,39.59298515,-110.8194943,Computer,School,0
+10.42.0.211-61.135.185.139-54819-80-6,Male,19,This Side of Paradise,F. Scott Fitzgerald,32.54563113,-92.19607014,Mobile,College,0
+10.42.0.151-52.216.1.211-41820-443-6,Female,17,EugÇnie Grandet,HonorÇ de Balzac,32.95182739,-80.26594032,Mobile,School,0
+10.42.0.211-34.197.129.91-49828-443-6,Male,17,Of Human Bondage,W. Somerset Maugham,30.04606813,-90.69494681,Computer,School,1
+172.217.6.202-10.42.0.151-443-49843-6,Female,17,Life of Pi,Yann Martel,33.03277795,-80.18468736,Computer,School,1
+209.10.120.26-10.42.0.211-80-39802-6,Male,17,Harry Potter and the Deathly Hallows,J.K. Rowling,33.80206565,-85.75826754,Mobile,School,1
+10.42.0.211-66.231.239.122-57320-80-6,Female,17,Invisible Man,Ralph Ellison,37.78501001,-87.15743884,Mobile,School,1
+10.42.0.211-69.147.82.215-35050-443-6,Female,17,Steppenwolf,Hermann Hesse,30.21076881,-95.41998192,Mobile,School,1
+10.42.0.151-10.42.0.1-41264-53-17,Female,19,The Sorrows of Young Werther,Johann Wolfgang von Goethe,35.02893543,-81.95275952,Computer,College,0
+10.42.0.211-23.203.49.224-39585-443-6,Female,19,Bridge to Terabithia,Katherine Paterson,32.91707949,-79.8509618,Mobile,College,1
+172.217.6.202-10.42.0.151-443-51615-6,Female,17,The Invisible Man,H.G. Wells,59.81141583,-151.6129458,Mobile,School,0
+140.205.62.20-10.42.0.42-80-37448-6,Female,17,Holes,Louis Sachar,33.42294731,-86.07756472,Mobile,School,0
+10.42.0.151-123.125.29.138-37205-443-6,Female,17,Siddhartha,Hermann Hesse,29.49173018,-98.73541858,Mobile,School,0
+10.42.0.42-52.94.232.33-33827-443-6,Female,17,A Tree Grows in Brooklyn,Betty Smith,30.00363938,-94.04518984,Mobile,School,1
+10.42.0.211-113.200.98.174-54230-80-6,Female,19,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll,40.57766566,-111.8682215,Mobile,College,0
+172.217.12.138-10.42.0.151-443-54839-6,Female,21,In Cold Blood,Truman Capote,37.85899763,-84.66572223,Mobile,University,1
+172.217.10.234-10.42.0.211-443-50197-6,Male,19,The House of the Spirits,Isabel Allende,41.97071095,-73.43643555,Mobile,College,0
+10.42.0.151-54.239.17.113-58516-443-6,Male,17,Adam Bede,George Eliot,41.97659442,-71.89864875,Mobile,School,1
+173.194.205.188-10.42.0.211-5228-60825-6,Male,17,The Betrothed,Alessandro Manzoni,34.60818269,-98.09308321,Computer,School,0
+172.217.7.228-10.42.0.211-443-43275-6,Male,17,The Book Thief,Markus Zusak,40.23507709,-123.8226402,Computer,School,1
+239.255.255.250-10.42.0.1-1900-35491-17,Male,17,Their Eyes Were Watching God,Zora Neale Hurston,31.77337571,-87.4860335,Mobile,School,1
+10.42.0.42-106.11.129.143-55477-80-6,Male,19,One Day in the Life of Ivan Denisovich,Aleksandr Isaevich Solzhenitsyn,33.01949605,-96.97767846,Computer,College,0
+192.229.173.173-10.42.0.211-80-46885-6,Female,21,The Sea Wolf,Jack London,41.55127153,-72.77948158,Mobile,University,1
+10.42.0.211-121.12.98.63-47427-80-6,Female,17,Catching Fire,Suzanne Collins,41.86241825,-87.89233986,Mobile,School,0
+158.85.58.101-10.42.0.211-5222-41037-6,Female,21,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,43.19533984,-71.48388759,Mobile,University,0
+10.42.0.211-10.42.0.1-40599-53-17,Male,17,The House of Mirth,Edith Wharton,30.34632652,-97.91575607,Mobile,School,1
+172.217.12.170-10.42.0.211-443-55260-6,Male,17,Light in August,William Faulkner,38.73008566,-89.88077936,Tab,School,1
+172.217.10.106-10.42.0.151-443-54459-6,Female,17,The Pickwick Papers,Charles Dickens,28.88031965,-97.02146633,Computer,School,0
+10.42.0.42-14.17.42.57-41607-80-6,Female,19,Remembrance of Things Past,Marcel Proust,37.97732145,-84.19435968,Computer,College,1
+157.240.18.36-10.42.0.211-443-45197-6,Male,19,Barchester Towers and the Warden,Anthony Trollope,43.04164169,-91.12587542,Mobile,College,0
+173.241.242.143-10.42.0.211-443-49814-6,Female,17,The Bridge of San Luis Rey,Thornton Wilder,43.78818317,-70.41159781,Mobile,School,1
+10.42.0.42-106.39.169.66-43528-443-6,Female,19,The Help,Kathryn Stockett,44.13240588,-69.96578824,Mobile,College,0
+180.76.145.14-10.42.0.211-80-45078-6,Male,21,Murder on the Orient Express,Agatha Christie,41.32265026,-89.30703394,Mobile,University,1
+8.8.8.8-10.42.0.211-53-39064-17,Female,21,The Lovely Bones,Alice Sebold,41.81300122,-73.13273295,Mobile,University,0
+172.217.11.35-10.42.0.151-80-54189-6,Female,21,The Appeal,John Grisham,44.34951457,-98.22153717,Mobile,University,0
+10.42.0.211-10.42.0.1-16237-53-17,Male,21,Dombey And Son,Charles Dickens,34.85671659,-119.2105588,Mobile,University,0
+157.55.130.167-10.42.0.151-40019-49952-6,Female,21,Slaughterhouse-Five,Kurt Vonnegut,37.95362004,-121.28285,Mobile,University,0
+10.42.0.211-118.178.143.65-50070-80-6,Female,21,An American Tragedy,Theodore Dreiser,44.34684064,-98.20876325,Mobile,University,0
+10.42.0.151-104.254.66.16-34702-80-6,Female,17,The Bluest Eye,Toni Morrison,35.75010805,-109.0485821,Mobile,School,1
+10.42.0.211-103.43.91.20-43143-443-6,Female,17,Little House In the Big Woods,Laura Ingalls Wilder,34.51375788,-110.095998,Mobile,School,1
+169.47.42.102-10.42.0.211-443-57250-6,Male,19,Pippi Longstocking,Astrid Lindgren,43.49195484,-96.67691066,Mobile,College,0
+10.42.0.211-50.17.232.169-37989-443-6,Female,19,Germinal,êmile Zola,45.46471612,-98.44593836,Tab,College,0
+10.42.0.42-111.202.114.77-53182-443-6,Male,19,The Heart Is a Lonely Hunter,Carson McCullers,33.55834201,-82.90955613,Mobile,College,0
+10.42.0.42-91.190.216.56-45808-12350-6,Female,21,The Woman In White,Wilkie Collins,44.90798339,-97.09805076,Mobile,University,1
+10.42.0.211-10.42.0.1-20639-53-17,Male,17,"Absalom, Absalom!",William Faulkner,25.76987667,-80.3615125,Computer,School,1
+10.42.0.211-10.42.0.1-7292-53-17,Female,19,A Painted House,John Grisham,33.83421034,-87.25790132,Computer,College,1
+10.42.0.211-52.85.101.173-53324-443-6,Male,19,The Girl With the Dragon Tattoo,Stieg Larsson,44.08178053,-98.57026004,Computer,College,1
+10.42.0.211-10.42.0.1-31152-53-17,Male,19,A Room With a View,E.M. Forster,44.08156976,-98.57016836,Mobile,College,1
+10.42.0.151-52.71.132.109-50014-443-6,Male,17,Watership Down,Richard Adams,31.43503201,-85.6463935,Mobile,School,0
+203.205.158.52-10.42.0.211-80-59970-6,Male,17,Memoirs of a Geisha,Arthur Golden,39.26968411,-76.71314151,Mobile,School,1
+172.217.11.14-10.42.0.151-443-58850-17,Female,17,Our Mutual Friend,Charles Dickens,32.42291324,-95.86100573,Mobile,School,0
+172.217.10.67-10.42.0.151-443-57475-6,Female,21,Babbitt,Sinclair Lewis,41.03278878,-111.9885049,Mobile,University,0
+10.42.0.211-106.11.129.143-45640-80-6,Male,17,The Red Pony,John Steinbeck,30.30030488,-81.6188483,Computer,School,0
+180.149.136.194-10.42.0.211-80-54171-6,Male,19,All the King's Men,Robert Penn Warren,40.64822832,-112.3031543,Mobile,College,1
+10.42.0.211-23.206.166.62-39742-80-6,Male,21,Things Fall Apart,Chinua Achebe,18.30661647,-67.01738202,Mobile,University,0
+169.47.42.202-10.42.0.211-5222-48419-6,Male,21,Lorna Doone,R.D. Blackmore,41.78565298,-111.8290955,Mobile,University,1
+10.42.0.211-64.71.142.124-55911-443-6,Male,17,Johnny Tremain,Esther Forbes,40.58395924,-112.0191201,Mobile,School,0
+10.42.0.42-104.193.88.109-43936-80-6,Female,21,Anne of Avonlea,L.M. Montgomery,38.82818237,-94.48014052,Mobile,University,1
+192.229.173.173-10.42.0.211-80-49988-6,Male,17,Tuck Everlasting,Natalie Babbitt,33.35416468,-111.9754113,Mobile,School,0
+10.42.0.211-66.231.239.124-39984-80-6,Male,21,The BFG,Roald Dahl,33.51269098,-112.1113157,Mobile,University,1
+205.185.216.42-10.42.0.151-80-56640-6,Male,17,Cannery Row,John Steinbeck,33.40508907,-112.055591,Mobile,School,1
+183.79.250.123-10.42.0.211-443-33985-6,Female,17,The Joy Luck Club,Amy Tan,41.22231367,-73.13396212,Computer,School,0
+10.42.0.151-10.42.0.1-32608-53-17,Male,21,The Silmarillion,J.R.R. Tolkien,32.88065831,-111.8447102,Mobile,University,1
+172.217.1.163-10.42.0.211-443-37957-6,Male,17,Roots,Alex Haley,33.61213862,-112.2017776,Mobile,School,0
+202.77.129.150-10.42.0.211-443-44988-6,Male,21,Little House on the Prairie,Laura Ingalls Wilder,18.33380695,-66.97794142,Tab,University,0
+151.101.21.140-10.42.0.211-443-42602-6,Female,21,Native Son,Richard Wright,33.45457845,-112.0422347,Mobile,University,1
+10.42.0.211-106.11.94.27-58044-443-6,Male,19,Stuart Little,E.B. White,40.96604274,-111.8995046,Mobile,College,1
+172.217.12.205-10.42.0.42-443-58948-6,Male,21,Cross Fire,James Patterson,41.22780728,-111.9626518,Mobile,University,0
+172.217.7.238-10.42.0.151-443-42706-6,Female,21,The Power and the Glory,Graham Greene,43.62653084,-95.61277867,Mobile,University,1
+10.42.0.211-10.42.0.1-1783-53-17,Female,21,A Clockwork Orange,Anthony Burgess,34.89735586,-92.15422175,Mobile,University,0
+172.217.6.228-10.42.0.42-443-44968-6,Female,19,The Phantom of the Opera,Gaston Leroux,34.70252656,-92.34070251,Mobile,College,1
+10.42.0.42-52.197.242.223-60378-443-6,Male,21,The Martian Chronicles,Ray Bradbury,36.1611066,-94.11108406,Mobile,University,0
+10.42.0.211-64.71.142.124-46090-443-6,Male,17,The Road,Cormac McCarthy,46.17443895,-119.2078429,Mobile,School,1
+202.77.129.150-10.42.0.211-443-44414-6,Female,21,The Way of All Flesh,Samuel Butler,40.85193967,-78.2727298,Mobile,University,0
+10.42.0.42-119.146.74.33-40625-443-6,Female,17,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,39.07069755,-94.58568452,Mobile,School,0
+10.42.0.211-23.206.125.17-38481-80-6,Male,17,Villette,Charlotte Brontâ,36.11517992,-79.30406635,Mobile,School,0
+172.217.11.10-10.42.0.151-443-52850-6,Female,17,The Curious Incident of the Dog In the Night-Time,Mark Haddon,36.37595655,-119.0367511,Mobile,School,0
+10.42.0.211-36.51.254.232-41807-443-6,Male,17,The Mysterious Island,Jules Verne,38.33814041,-121.9566439,Mobile,School,0
+10.42.0.211-10.42.0.1-31246-53-17,Female,19,Song of Solomon,Toni Morrison,37.72413344,-121.0783483,Mobile,College,1
+10.42.0.211-10.42.0.1-51999-53-17,Female,21,Nana,êmile Zola,37.69561699,-121.0572308,Mobile,University,1
+182.22.65.138-10.42.0.42-443-52190-6,Female,19,Quo Vadis,Henryk Sienkiewicz,46.72318342,-120.6842842,Mobile,College,0
+216.58.219.228-10.42.0.211-443-39998-6,Male,17,Main Street,Sinclair Lewis,48.53267958,-122.2093881,Mobile,School,0
+175.100.207.231-10.42.0.151-80-51533-6,Female,17,Matilda,Roald Dahl,47.52528298,-121.8809138,Mobile,School,0
+10.42.0.42-61.135.185.139-53274-80-6,Male,17,Lolita,Vladimir Vladimirovich Nabokov,39.648593,-105.0878463,Mobile,School,1
+10.42.0.1-10.42.0.42-53-2743-17,Female,17,Sounder,William H. Armstrong,40.50384912,-106.9091472,Mobile,School,1
+172.217.12.202-10.42.0.151-443-57194-6,Female,21,"Are You There God? It's Me, Margaret",Judy Blume,40.45109435,-104.7133636,Mobile,University,1
+10.42.0.211-31.13.71.7-36126-443-6,Male,21,The Notebook,Nicholas Sparks,39.05703497,-108.5323063,Mobile,University,1
+198.105.244.11-10.42.0.151-80-35864-6,Female,17,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,48.0607186,-117.7455457,Mobile,School,1
+220.243.219.55-10.42.0.151-80-42899-6,Male,19,Atlas Shrugged,Ayn Rand,47.19585219,-122.4414515,Tab,College,0
+172.217.10.99-10.42.0.211-443-49819-6,Male,21,The Fountainhead,Ayn Rand,40.41558227,-105.0198354,Mobile,University,1
+10.42.0.211-103.235.46.211-56422-443-6,Male,21,Number the Stars,Lois Lowry,29.67393808,-95.46768233,Mobile,University,0
+180.149.138.197-10.42.0.42-80-42705-6,Male,19,The Firm,John Grisham,39.75642453,-104.9662419,Mobile,College,0
+10.42.0.151-54.192.38.88-40947-443-6,Female,21,Swann's Way,Marcel Proust,39.48370445,-80.15419262,Mobile,University,0
+10.42.0.151-10.42.0.1-1337-53-17,Female,21,Ender's Game,Orson Scott Card,47.94613514,-124.3830108,Mobile,University,1
+10.42.0.1-10.42.0.42-53-48411-17,Male,17,The Name of the Rose,Umberto Eco,38.94357325,-77.02779736,Mobile,School,0
+222.73.28.96-10.42.0.211-80-56951-6,Female,17,A Time to Kill,John Grisham,28.24862637,-80.73676589,Mobile,School,1
+10.42.0.211-77.234.42.92-39074-443-6,Female,17,Water for Elephants,Sara Gruen,39.28234676,-80.57810031,Mobile,School,0
+10.42.0.211-10.42.0.1-32127-53-17,Male,17,The Time Machine,H.G. Wells,39.21599034,-81.50791958,Mobile,School,1
+172.217.3.110-10.42.0.151-443-42014-6,Female,21,Eragon,Christopher Paolini,25.76019308,-80.44127872,Mobile,University,0
+10.42.0.42-91.190.217.47-48639-12350-6,Female,17,The Hitchhiker's Guide to the Galaxy,Douglas Adams,25.47633214,-80.40858454,Mobile,School,1
+216.58.217.132-10.42.0.151-443-35271-6,Male,17,Buddenbrooks,Thomas Mann,30.53485275,-87.38587289,Mobile,School,1
+10.42.0.211-123.125.29.220-32831-80-6,Female,17,A Thousand Splendid Suns,Khaled Hosseini,31.80632015,-85.97292765,Computer,School,0
+157.240.18.35-10.42.0.151-443-42866-6,Male,17,The Witch of Blackbird Pond,Elizabeth George Speare,33.27600374,-86.87204139,Mobile,School,1
+172.217.10.78-10.42.0.42-443-46249-6,Male,21,And Then There Were None,Agatha Christie,60.21581186,-162.0257048,Mobile,University,0
+172.217.6.234-10.42.0.42-443-35857-6,Female,19,A Separate Peace,John Knowles,60.38958936,-166.1904257,Mobile,College,0
+10.42.0.211-10.42.0.1-56200-53-17,Female,21,Breaking Dawn,Stephenie Meyer,62.5838044,-164.7896224,Computer,University,1
+172.217.7.8-10.42.0.211-443-32960-6,Female,17,As I Lay Dying,William Faulkner,60.88817435,-161.1995635,Mobile,School,1
+10.42.0.211-54.239.17.113-36142-443-6,Male,21,The Girl Who Played With Fire,Stieg Larsson,57.56245213,-154.4368592,Mobile,University,0
+172.217.9.238-10.42.0.151-443-41694-6,Male,21,Where the Red Fern Grows,Wilson Rawls,61.74223165,-150.0460835,Tab,University,1
+216.58.219.196-10.42.0.211-443-35633-6,Female,21,Le Morte D'Arthur,Thomas Malory,60.48773848,-149.3681293,Mobile,University,0
+172.217.10.14-10.42.0.151-443-57703-6,Male,19,Mockingjay,Suzanne Collins,68.13983568,-151.7385567,Mobile,College,1
+216.58.217.132-10.42.0.42-443-38318-6,Male,17,The Pillars of the Earth,Ken Follett,56.60258081,-169.5441565,Mobile,School,0
+10.42.0.211-10.42.0.1-10106-53-17,Female,21,Persian Letters,Montesquieu,56.0140739,-132.82798,Mobile,University,1
+10.42.0.211-104.254.66.16-39880-80-6,Female,17,The Client,John Grisham,61.13261956,-146.3746228,Mobile,School,0
+239.255.255.250-10.42.0.1-1900-54300-17,Male,21,Sula,Toni Morrison,33.33618728,-111.7864875,Mobile,University,0
+10.42.0.151-104.244.42.130-47234-443-6,Male,21,Tales of a Fourth Grade Nothing,Judy Blume,28.0772407,-82.57816555,Mobile,University,0
+10.42.0.211-10.42.0.1-52542-53-17,Male,21,The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire,Howard Pyle,30.54470504,-83.87360774,Mobile,University,0
+172.217.10.109-10.42.0.151-443-40042-6,Female,21,Tortilla Flat,John Steinbeck,30.54468994,-83.87353498,Mobile,University,0
+172.217.12.173-10.42.0.151-443-40686-6,Female,17,"Look Homeward, Angel",Thomas Wolfe,27.77572653,-82.33305141,Mobile,School,1
+198.105.244.11-10.42.0.151-80-37564-6,Male,17,The Mystery of Edwin Drood,Charles Dickens,38.77099405,-94.7939894,Mobile,School,1
+172.217.11.46-10.42.0.211-443-40558-6,Male,21,Brideshead Revisited,Evelyn Waugh,36.75415735,-86.21815055,Mobile,University,0
+203.205.158.63-10.42.0.211-80-54007-6,Female,17,The Pelican Brief,John Grisham,37.70986749,-84.74583772,Mobile,School,0
+10.42.0.151-13.107.3.128-51799-443-6,Male,21,Atonement,Ian McEwan,37.34414304,-83.9296519,Mobile,University,0
+10.42.0.211-119.146.74.49-43298-443-6,Male,17,Washington Square,Henry James,37.08221232,-83.69402843,Mobile,School,1
+10.42.0.151-98.139.183.24-54237-80-6,Female,19,Like Water for Chocolate,Laura Esquivel,37.26590868,-83.81890816,Computer,College,1
+10.42.0.211-10.42.0.1-64588-53-17,Male,17,The Golden Compass,Philip Pullman,37.75618693,-87.06404037,Mobile,School,1
+10.42.0.42-66.231.239.96-34356-443-6,Female,19,The Secret Life of Bees,Sue Monk Kidd,37.57519242,-82.75156339,Mobile,College,1
+10.42.0.211-23.66.250.12-56761-443-6,Female,19,The Fault In Our Stars,John Green,38.7258012,-84.60099537,Mobile,College,1
+10.42.0.42-119.146.74.34-52738-80-6,Male,19,Nostromo,Joseph Conrad,33.67105285,-84.36174936,Mobile,College,0
+220.243.237.154-10.42.0.211-5285-59564-6,Male,21,Finnegans Wake,James Joyce,37.13340969,-83.75656326,Mobile,University,1
+10.42.0.211-77.234.44.79-50077-443-6,Female,17,The Brethren,John Grisham,33.9503826,-83.40033114,Computer,School,0
+10.42.0.42-125.39.133.40-35984-80-6,Male,21,Coraline,Neil Gaiman,37.16210612,-82.64433377,Mobile,University,0
+10.42.0.151-10.42.0.1-27596-53-17,Male,17,Heart of Darkness,Joseph Conrad,37.82176496,-82.81660812,Computer,School,0
+10.42.0.151-10.42.0.1-37549-53-17,Female,19,On the Banks of Plum Creek,Laura Ingalls Wilder,37.75501181,-82.77621695,Mobile,College,1
+10.42.0.1-10.42.0.42-53-26452-17,Male,21,Rebecca of Sunnybrook Farm,Kate Douglas Smith Wiggin,25.79525781,-80.3538515,Mobile,University,0
+10.42.0.42-14.17.42.57-36873-80-6,Male,21,The Ambassadors,Henry James,37.04881898,-88.07781201,Mobile,University,1
+216.58.219.202-10.42.0.211-443-34703-6,Male,19,The Secret Agent,Joseph Conrad,36.70660497,-84.46360228,Mobile,College,0
+10.42.0.211-31.13.71.1-37623-443-6,Male,17,The House on Mango Street,Sandra Cisneros,38.05998362,-83.94464715,Mobile,School,1
+10.42.0.211-103.235.46.39-47663-80-6,Male,17,Go Tell It on the Mountain,James Baldwin,37.95185021,-83.15916126,Mobile,School,0
+172.217.9.238-10.42.0.211-443-49623-6,Male,19,The Testament,John Grisham,37.08570899,-83.92232233,Computer,College,1
+10.42.0.211-36.51.254.232-38048-443-6,Female,17,The Clan of the Cave Bear,Jean M. Auel,37.26865549,-83.29413063,Tab,School,1
+10.42.0.211-10.42.0.1-64715-53-17,Male,19,Cranford,Elizabeth Cleghorn Gaskell,36.67794446,-83.68325291,Mobile,College,0
+10.42.0.211-54.243.147.129-58678-443-6,Female,21,Because of Winn-Dixie,Kate DiCamillo,38.4120748,-85.42218593,Mobile,University,1
+203.205.158.62-10.42.0.151-80-43194-6,Male,21,My Side of the Mountain,Jean Craighead George,36.7820022,-84.16230782,Mobile,University,0
+222.73.28.96-10.42.0.211-80-56956-6,Male,21,The Runaway Jury,John Grisham,29.79440893,-90.82319027,Mobile,University,0
+172.217.3.99-10.42.0.151-443-58012-6,Female,19,The Mouse and the Motorcycle,Beverly Cleary,44.12233833,-69.3093016,Mobile,College,1
+172.217.9.232-10.42.0.42-443-58183-6,Female,17,The Lost Symbol,Dan Brown,33.93888103,-84.20436188,Mobile,School,1
+172.217.12.130-10.42.0.211-443-45619-6,Female,17,The Forsyte Saga,John Galsworthy,33.45887027,-81.93850805,Mobile,School,0
+172.217.10.106-10.42.0.42-443-48078-6,Female,17,Gone Girl,Gillian Flynn,38.24972433,-76.47998003,Computer,School,1
+10.42.0.211-23.206.166.62-49454-80-6,Male,19,The Lightning Thief,Rick Riordan,38.35963533,-76.7062331,Mobile,College,0
+10.42.0.211-74.6.105.9-34076-80-6,Male,17,The Last Days of Pompeii,Edward Bulwer Lytton,43.05090297,-83.62221176,Mobile,School,1
+10.42.0.1-10.42.0.42-53-9044-17,Male,17,The Reader,Bernhard Schlink,32.1538608,-82.77647476,Computer,School,0
+10.42.0.211-66.198.24.225-47608-80-6,Female,17,Caddie Woodlawn,Carol Ryrie Brink,42.35460499,-83.31802051,Mobile,School,1
+10.42.0.151-10.42.0.1-1432-53-17,Female,17,The Tale of Despereaux,Kate DiCamillo,35.83944862,-83.80072915,Computer,School,0
+10.42.0.211-103.235.46.212-60285-80-6,Female,17,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,37.67820824,-113.0710943,Mobile,School,0
+180.163.255.159-10.42.0.211-80-52115-6,Female,17,Dear Mr. Henshaw,Beverly Cleary,45.65194912,-122.6636132,Mobile,School,0
+10.42.0.151-10.42.0.1-54865-53-17,Female,17,The Killer Angels,Michael Shaara,45.17731616,-93.30760142,Mobile,School,0
+10.42.0.151-10.42.0.1-54743-53-17,Female,19,Chronicle of a Death Foretold,Gabriel Garc°a M†rquez,45.07359252,-93.35331475,Computer,College,0
+172.217.7.131-10.42.0.211-443-58291-6,Male,19,The Five People You Meet In Heaven,Mitch Albom,43.51644366,-83.96551642,Mobile,College,1
+172.217.7.131-10.42.0.211-443-58306-6,Female,17,The Master and Margarita,Mikhail Bulgakov,32.56561896,-117.0182917,Mobile,School,1
+10.42.0.211-123.125.29.220-37911-80-6,Female,17,"Winesburg, Ohio",Sherwood Anderson,41.78001203,-88.16089847,Mobile,School,0
+10.42.0.211-10.42.0.1-54081-53-17,Female,17,"""P"" Is for Peril",Sue Grafton,41.77960869,-88.11134079,Mobile,School,0
+10.42.0.211-10.42.0.1-41624-53-17,Female,17,My Sister's Keeper,Jodi Picoult,41.77956929,-88.11138373,Mobile,School,0
+10.42.0.211-23.21.51.186-44530-443-6,Female,19,Barnaby Rudge,Charles Dickens,26.55830011,-80.14480408,Mobile,College,1
+192.229.173.173-10.42.0.42-80-43051-6,Male,21,Howards End,E.M. Forster,39.37378853,-120.9948893,Mobile,University,1
+8.43.72.47-10.42.0.211-443-57487-6,Female,19,The Broker,John Grisham,28.00465196,-82.13423778,Mobile,College,1
+206.126.112.142-10.42.0.151-443-39054-6,Male,17,The Camel Club,David Baldacci,42.33092641,-83.17866708,Mobile,School,1
+172.217.10.78-10.42.0.151-80-56579-6,Male,17,The Rainbow,D.H. Lawrence,39.07579763,-108.5089224,Computer,School,1
+10.42.0.211-10.42.0.1-29379-53-17,Female,17,The Man In the Iron Mask,Alexandre Dumas,30.29929089,-89.38028323,Computer,School,0
+209.10.120.26-10.42.0.211-80-35526-6,Female,17,Mary Poppins,P.L. Travers,29.46516142,-98.53857151,Mobile,School,1
+10.42.0.151-10.42.0.1-17807-53-17,Female,19,Artemis Fowl,Eoin Colfer,28.18793487,-81.15287397,Computer,College,0
+172.217.10.42-10.42.0.211-443-43991-6,Female,21,Dear John,Nicholas Sparks,43.77100854,-71.7633321,Mobile,University,0
+10.42.0.42-13.32.250.43-35001-443-6,Male,17,Cold Mountain,Charles Frazier,26.29292444,-97.95962324,Mobile,School,0
+172.217.12.195-10.42.0.151-443-33560-6,Female,21,Flowers for Algernon,Daniel Keyes,41.05056416,-74.75969585,Mobile,University,1
+158.85.58.119-10.42.0.211-5222-35131-6,Female,17,The Dark Is Rising,Susan Cooper,29.08312239,-81.02719472,Mobile,School,0
+172.217.10.42-10.42.0.42-443-59913-6,Female,17,Resurrection,Leo Tolstoy,43.49337108,-90.67753575,Mobile,School,1
+203.205.158.61-10.42.0.211-80-36228-6,Male,17,Fearless Fourteen,Janet Evanovich,40.01982252,-75.07391731,Tab,School,0
