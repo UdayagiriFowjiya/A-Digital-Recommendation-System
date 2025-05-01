@@ -21,9 +21,8 @@ ML Integration: Python (with data analysis libraries)
 🖥️ User-Friendly Interface – Intuitive design for seamless user experience.
 
 ## 🔗Live Demo
-https://github.com/user-attachments/assets/e1983f10-7294-416c-9a28-6ab513f9696e
 
-
+https://github.com/user-attachments/assets/415b3e88-015d-4f06-b68d-672eb7898da4
 
 ## 📌 Future Improvements
 Add real-time feedback mechanisms.
